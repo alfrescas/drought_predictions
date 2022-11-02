@@ -21,6 +21,7 @@
   - Each team member has at least four commits from the duration of the first segment 
   
 ## Machine Learning Model
+### Linear Regression Model
 Team members present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
 - Takes in data in from the provisional database 
 - Outputs label(s) for input data
