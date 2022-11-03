@@ -12,6 +12,15 @@
    -  What is the predicted decrease of water levels? 
    -  How are other areas water levels compared to Colorado river water levels? 
    -  Which factors have the most impact in water reduction?
+
+## Communication Protocols
+
+### Methods Used for Communication: 
+
+- Zoom, Slack, Microsoft Teams, Google Drive
+
+In addition to meeting twice a week via Zoom during our regularly scheduled class time, the group is electing to meet at least once or twice a week outside of class via Microsoft Teams. We also maintain frequent communication via Slack, and will create a shared Google Doc that everyone can access, to plan and stay on top of upcoming tasks and update as necessary. While everyone in the group will be assigned their own pieces of the project that play to our strengths, we plan on taking an open-collaborative approach where all group members will actively participate in aiding and encouraging fellow group members.
+
 ## Github
 - Includes a README.md
 - README.md README.md must include: 
