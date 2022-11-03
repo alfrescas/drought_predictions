@@ -13,6 +13,11 @@
    -  How are other areas water levels compared to Colorado river water levels? 
    -  Which factors have the most impact in water reduction?
 
+## States Relying on Colorado River Basin Water Supply:
+
+![Upper_Lower_Basin](https://user-images.githubusercontent.com/105175961/199853643-227281eb-0fda-4b28-a371-13f5b090a121.png)
+
+
 ## Communication Protocols
 
 ### Methods Used for Communication: 
