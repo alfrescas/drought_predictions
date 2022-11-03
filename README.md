@@ -2,7 +2,7 @@
 
 ## Presentation
 - Selected topic
-  - Upper CO Basin Water Usage
+  - Upper & Lower CO Basin Water Usage
 - Reason why we selected this topic
   - Water is one of our most precious resources because humanity couldn't exist without it. In addition to its key role in our survival, water is essential in nearly every facet of modern life from industrial processes to domestic pursuits. However, water is omnipresent and so we don't always take the time to consider how much we use, when and where we use it, and why we need it. We selected this topic due to its high importance and relevance to our society. We want to predict how our water usage and supply might look in the future to make recommendations for conservation and preparation.
 - Description of our source of data
