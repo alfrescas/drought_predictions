@@ -13,7 +13,11 @@
 - Which factors have the most impact in water reduction?
 
 ## Database
+### Sample ERD
 ![ERD_Database](https://user-images.githubusercontent.com/105477190/199865016-7e40cd30-6bda-43b5-a750-424b16ff89d6.png)
+
+How is it integrated into our database?
+How does it work with the code?
 
 ## Github
 - Includes a README.md
