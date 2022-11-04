@@ -43,4 +43,5 @@ Team members present a provisional machine learning model that stands in for the
 ## Database
 Team members present a provisional database that stands in for the final database and accomplishes the following: 
 - The final database will consist of all 7 datasets combined into a singular csv file. The way we do this will be through python pandas. We have cleaned the data, renamed columns, and added columns where necessary. The datasets are connected by state and year. 
-![Screen Shot 2022-11-03 at 7 09 11 PM](https://user-images.githubusercontent.com/105477190/199863665-4e477f64-c660-4c4c-9b3b-fc923ff1502f.png)
+![Screen Shot 2022-11-03 at 7 18 57 PM](https://user-images.githubusercontent.com/105477190/199864584-6beb65d7-2565-4a7b-ac8f-b85b8bf8590a.png)
+
