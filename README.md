@@ -11,6 +11,10 @@
 - What is the predicted decrease of water levels?
 - How are other areas water levels compared to Colorado river water levels?
 - Which factors have the most impact in water reduction?
+
+## Database
+![ERD_Database](https://user-images.githubusercontent.com/105477190/199865016-7e40cd30-6bda-43b5-a750-424b16ff89d6.png)
+
 ## Github
 - Includes a README.md
 - README.md README.md must include:
@@ -24,8 +28,4 @@
 Team members present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
 
 - Takes in data in from the provisional database
-- Outputs label(s) for input data
-## Database
-Team members present a provisional database that stands in for the final database and accomplishes the following:
-- Sample data that mimics the expected final database structure or schema
-- Draft machine learning module is connected to the provisional database
+
