@@ -14,7 +14,8 @@
 ## Github
 - Includes a README.md
 - README.md README.md must include:
-   - Description of the communication protocols
+   - Description of the communication protocols:
+      - Team messages over slack and met up outside of class over Microsoft Teams.
 - Individual Branches
    - At least one branch for each team member
     - Each team member has at least four commits from the duration of the first segment
