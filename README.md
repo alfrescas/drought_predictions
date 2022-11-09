@@ -58,7 +58,9 @@ The group continues to clean, append and merge datasets. Our data has a signific
 We are also prepping code for machine learning and trying to determine whether our project is better suited for a liner regression to analyze correlation, or time series model to analyze forecasting. 
 
 
+### Tools Used to Create Final Dashboard
 
+Our geographical topic lends well to using maps created in Tableau to show analysis and predictions based on usage and availability. We will also use Tableau to create charts relevant to our findings, and incorporate all of these visuals into Google Slides to pair with our analysis. We will also use interactive elements in our website design, buttons to select individual states and/or years and see a set of maps, or possibly a drop down or search filter.
 
 
 
