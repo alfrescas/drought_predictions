@@ -53,4 +53,12 @@ How does it work with the code?
 
 ## Segment 2: Data Exploration and Analysis
 
-The group continues to clean, append and merge datasets. Our data has a significant number of columns and we have spent time determining which of these columns have data pertinent to our project and getting rid of the ones that do not. We are reviewing our data to see what exactly it can tell us and if any additional datasets are needed to help predict and analyze results. We are also prepping code for linear regression models via machine learning.
+The group continues to clean, append and merge datasets. Our data has a significant number of columns and we have spent time determining which of these columns have data pertinent to our project and getting rid of the ones that do not. We are reviewing our data to see what exactly it can tell us and if any additional datasets are needed to help predict and analyze results. 
+
+We are also prepping code for machine learning and trying to determine whether our project is better suited for a liner regression to analyze correlation, or time series model to analyze forecasting. 
+
+
+
+
+
+
