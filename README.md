@@ -1,4 +1,4 @@
-# Upper CO Basin Water Supply - First Segment
+# CO River Basin Water Supply
 
 ## Presentation
 - Selected topic
