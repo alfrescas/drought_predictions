@@ -60,7 +60,15 @@ We are also prepping code for machine learning and trying to determine whether o
 
 ### Tools Used to Create Final Dashboard
 
-Our geographical topic lends well to using maps created in Tableau to show analysis and predictions based on usage and availability. We will also use Tableau to create charts relevant to our findings, and incorporate all of these visuals into Google Slides to pair with our analysis. We will also use interactive elements in our website design, buttons to select individual states and/or years and see a set of maps, or possibly a drop down or search filter.
+The group plans on displaying our findings on a website. Our geographical topic lends well to using maps created in Tableau to show analysis and predictions based on usage and availability. We will also use Tableau to create charts relevant to our findings, and incorporate all of these visuals into Google Slides to pair with our analysis and display on our site. We will also use interactive elements in our website design, buttons to select individual states and/or years and see a set of maps, or possibly a drop down or search filter. 
+
+### Website Storyboard!
+
+[Website_Storyboard](https://user-images.githubusercontent.com/105175961/200971287-fe684780-f467-45e0-8b33-f78072b77da2.png)
+
+
+
+
 
 
 
