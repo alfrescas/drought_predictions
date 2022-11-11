@@ -1,4 +1,4 @@
-# Upper CO Basin Water Supply - First Segment
+# CO River Basin Water Supply
 
 ## Presentation
 - Selected topic
@@ -36,9 +36,9 @@ In addition to meeting twice a week via Zoom during our regularly scheduled clas
   
 ## Machine Learning Model
 ### Linear Regression Model
-Team members present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
-- Takes in data in from the provisional database 
-- Outputs label(s) for input data
+Linear regression is used to predict continuos variables. It will take in a set of factors to attempt to learn patterns from them to predict a numerical value. The model predicts the result based on learned patterns if new data is added. 
+
+We chose this model to predict what the water levels will be in the years to come.
 
 ## Database
 ### ERD
@@ -51,16 +51,30 @@ How is it integrated into our database?
 How does it work with the code?
 - It works with the code to outline where the commonalities are within the datasets so that we could easily combine the datasets and organize the structure.
 
-## Segment 2: Data Exploration and Analysis
+## Segment 2: 
+
+### Data Exploration Phase
 
 The group continues to clean, append and merge datasets. Our data has a significant number of columns and we have spent time determining which of these columns have data pertinent to our project and getting rid of the ones that do not. We are reviewing our data to see what exactly it can tell us and if any additional datasets are needed to help predict and analyze results. 
 
-We are also prepping code for machine learning and trying to determine whether our project is better suited for a liner regression to analyze correlation, or time series model to analyze forecasting. 
+We are also prepping code for machine learning and trying to determine whether our project is better suited for a linear regression to analyze correlation, or time series model to analyze forecasting. 
 
+### Analysis Phase
+
+The states we are analyzing are Colorado, California, Arizona, Utah, Wyoming, Nevada, and New Mexico. All 7 states are part of the Colorado River Basin. The Colorado River flows for approx. 1,450 miles and provides water to all 7 states. The years we are analyzing are 1985, 1990, 1995, 2000, 2005, 2010, and 2015. The analysis phase of the project will involve analyzing the total withdrawals and total domestic water use in million gallons per day (Mgal/d) per state and per year. We will look at how each state uses water by looking at withdrawals and withdrawal type (groundwater and surface water). 
 
 ### Tools Used to Create Final Dashboard
 
-Our geographical topic lends well to using maps created in Tableau to show analysis and predictions based on usage and availability. We will also use Tableau to create charts relevant to our findings, and incorporate all of these visuals into Google Slides to pair with our analysis. We will also use interactive elements in our website design, buttons to select individual states and/or years and see a set of maps, or possibly a drop down or search filter.
+The group plans on displaying our findings on a website. Our geographical topic lends well to using maps created in Tableau to show analysis and predictions based on usage and availability. We will also use Tableau to create charts relevant to our findings, and incorporate all of these visuals into Google Slides to pair with our analysis and display on our site. We will also use interactive elements in our website design, buttons to select individual states and/or years and see a set of maps, or possibly a drop down or search filter. 
+
+### Website Storyboard
+
+
+
+![Website_Storyboard](https://user-images.githubusercontent.com/105175961/200971400-2180b535-68c0-4325-9d87-fb3a08bf20aa.png)
+
+
+
 
 
 
