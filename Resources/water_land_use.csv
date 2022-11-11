@@ -1,0 +1,1670 @@
+﻿id,state,year,totalPop,county,ir_cusfr,ir_irtot,ic_wfrto,ic_irtot,ig_cusfr,ig_irtot,li_wfrto,aq_wgwto,aq_wswto
+Apache County2015,AZ,2015,71.47,Apache County,1.48,0.98,1.95,0.98,0,0,0.71,1.44,0
+Cochise County2015,AZ,2015,126.43,Cochise County,174.65,106.84,216.14,106.29,1.74,0.55,0.68,0,0
+Coconino County2015,AZ,2015,139.1,Coconino County,2.26,0.9,0.12,0.04,2.16,0.86,0.69,0.02,0
+Gila County2015,AZ,2015,53.16,Gila County,2.78,0.93,1.58,0.52,1.52,0.41,0.13,4.26,0
+Graham County2015,AZ,2015,37.67,Graham County,146.82,36.69,183.16,36.61,0.3,0.08,0.14,0,0
+Greenlee County2015,AZ,2015,9.53,Greenlee County,7.52,2.7,9.28,2.67,0.1,0.03,0.1,0.02,1.32
+La Paz County2015,AZ,2015,20.15,La Paz County,490.36,99.78,612.56,99.71,0.31,0.07,0.18,0,0
+Maricopa County2015,AZ,2015,4167.95,Maricopa County,1006.24,244.22,1149.07,225.99,86.99,18.23,13.89,0,0
+Mohave County2015,AZ,2015,204.74,Mohave County,91.91,23.52,109.17,22.53,4.56,0.99,0.28,0.35,0
+Navajo County2015,AZ,2015,108.28,Navajo County,8.38,2.94,7.99,2.14,1.99,0.8,0.83,1.44,9.39
+Pima County2015,AZ,2015,1010.03,Pima County,81.97,25.1,83.22,21.33,15.39,3.77,0.41,0,0
+Pinal County2015,AZ,2015,406.58,Pinal County,750.25,238.41,924.93,236.15,10.31,2.26,16.74,0,0
+Santa Cruz County2015,AZ,2015,46.46,Santa Cruz County,5.63,2.32,5.01,1.92,1.62,0.4,0.23,0,0
+Yavapai County2015,AZ,2015,222.26,Yavapai County,25.23,6.59,27.42,5.33,3.29,1.26,0.5,16.28,0
+Yuma County2015,AZ,2015,204.28,Yuma County,864.84,247.3,1075.17,246.41,4.7,0.89,3.36,0,0
+Apache County2010,AZ,2010,71.52,Apache County,140.74,2.7,7.6,2.7,,0,0.61,5.94,0
+Cochise County2010,AZ,2010,131.35,Cochise County,140.74,79.64,213.58,79.16,,0.48,0.7,0,0
+Coconino County2010,AZ,2010,134.42,Coconino County,140.74,0.8,0.13,0.04,,0.76,0.6,6.88,0
+Gila County2010,AZ,2010,53.6,Gila County,140.74,0.83,1.17,0.42,,0.41,0.11,4.83,0
+Graham County2010,AZ,2010,37.22,Graham County,140.74,38,166.16,37.92,,0.08,0.12,0,1.5
+Greenlee County2010,AZ,2010,8.44,Greenlee County,140.74,4.08,14.76,4.08,,0,0.11,0,5.59
+La Paz County2010,AZ,2010,20.49,La Paz County,140.74,100.58,663.95,100.51,,0.07,0.12,0,0
+Maricopa County2010,AZ,2010,3817.35,Maricopa County,140.74,205.9,1012.45,187.79,,18.11,8.62,0,0
+Mohave County2010,AZ,2010,200.21,Mohave County,140.74,15.38,70.49,14.4,,0.98,0.22,0.05,0.68
+Navajo County2010,AZ,2010,107.45,Navajo County,140.74,6.16,14.21,5.46,,0.7,0.79,5.04,0
+Pima County2010,AZ,2010,980.26,Pima County,140.74,25.1,89.5,21.33,,3.77,0.27,0,0
+Pinal County2010,AZ,2010,375.83,Pinal County,140.74,257.98,1045.52,256.01,,1.97,10.26,0,0
+Santa Cruz County2010,AZ,2010,47.42,Santa Cruz County,140.74,2.28,8.84,1.92,,0.36,0.16,0,0
+Yavapai County2010,AZ,2010,211.03,Yavapai County,140.74,6.44,26.88,5.33,,1.11,0.57,16.77,0
+Yuma County2010,AZ,2010,195.75,Yuma County,140.74,247.29,1117.97,246.41,,0.88,3.7,0,0
+Apache County2005,AZ,2005,69.34,Apache County,140.74,2.34,,,,0,1.36,1.6,3.68
+Cochise County2005,AZ,2005,126.11,Cochise County,140.74,56.99,,,,0,1.36,1.6,3.68
+Coconino County2005,AZ,2005,123.87,Coconino County,140.74,0.76,,,,0,1.36,1.6,3.68
+Gila County2005,AZ,2005,51.66,Gila County,140.74,0.64,,,,0,1.36,1.6,3.68
+Graham County2005,AZ,2005,33.07,Graham County,140.74,39.21,,,,0,1.36,1.6,3.68
+Greenlee County2005,AZ,2005,7.52,Greenlee County,140.74,3.07,,,,0,1.36,1.6,3.68
+La Paz County2005,AZ,2005,20.24,La Paz County,140.74,93.71,,,,0,1.36,1.6,3.68
+Maricopa County2005,AZ,2005,3635.53,Maricopa County,140.74,217.19,,,,0,1.36,1.6,3.68
+Mohave County2005,AZ,2005,187.2,Mohave County,140.74,14.87,,,,0,1.36,1.6,3.68
+Navajo County2005,AZ,2005,108.43,Navajo County,140.74,5.63,,,,0,1.36,1.6,3.68
+Pima County2005,AZ,2005,924.79,Pima County,140.74,27.08,,,,0,1.36,1.6,3.68
+Pinal County2005,AZ,2005,229.55,Pinal County,140.74,221.04,,,,0,1.36,1.6,3.68
+Santa Cruz County2005,AZ,2005,42.01,Santa Cruz County,140.74,1.76,,,,0,1.36,1.6,3.68
+Yavapai County2005,AZ,2005,198.7,Yavapai County,140.74,8.65,,,,0,1.36,1.6,3.68
+Yuma County2005,AZ,2005,181.28,Yuma County,140.74,256.3,,,,0,1.36,1.6,3.68
+Apache County2000,AZ,2000,69.42,Apache County,140.74,5.72,,,,,1.36,1.6,3.68
+Cochise County2000,AZ,2000,117.76,Cochise County,140.74,57.39,,,,,1.36,1.6,3.68
+Coconino County2000,AZ,2000,116.32,Coconino County,140.74,2.34,,,,,1.36,1.6,3.68
+Gila County2000,AZ,2000,51.34,Gila County,140.74,1.28,,,,,1.36,1.6,3.68
+Graham County2000,AZ,2000,33.49,Graham County,140.74,39.07,,,,,1.36,1.6,3.68
+Greenlee County2000,AZ,2000,8.55,Greenlee County,140.74,3.31,,,,,1.36,1.6,3.68
+La Paz County2000,AZ,2000,19.72,La Paz County,140.74,102.77,,,,,1.36,1.6,3.68
+Maricopa County2000,AZ,2000,3072.15,Maricopa County,140.74,263.03,,,,,1.36,1.6,3.68
+Mohave County2000,AZ,2000,155.03,Mohave County,140.74,15.7,,,,,1.36,1.6,3.68
+Navajo County2000,AZ,2000,97.47,Navajo County,140.74,5.08,,,,,1.36,1.6,3.68
+Pima County2000,AZ,2000,843.75,Pima County,140.74,26.37,,,,,1.36,1.6,3.68
+Pinal County2000,AZ,2000,179.73,Pinal County,140.74,198.8,,,,,1.36,1.6,3.68
+Santa Cruz County2000,AZ,2000,38.38,Santa Cruz County,140.74,2.23,,,,,1.36,1.6,3.68
+Yavapai County2000,AZ,2000,167.52,Yavapai County,140.74,8.92,,,,,1.36,1.6,3.68
+Yuma County2000,AZ,2000,160.03,Yuma County,140.74,243.91,,,,,1.36,1.6,3.68
+Apache County1995,AZ,1995,67.8,Apache County,8.82,9.55,,,,,1.36,1.6,3.68
+Cochise County1995,AZ,1995,110.06,Cochise County,110.75,53.95,,,,,1.36,1.6,3.68
+Coconino County1995,AZ,1995,110.5,Coconino County,4.51,4.05,,,,,1.36,1.6,3.68
+Gila County1995,AZ,1995,46.04,Gila County,7.31,1.55,,,,,1.36,1.6,3.68
+Graham County1995,AZ,1995,29.59,Graham County,86.42,38.9,,,,,1.36,1.6,3.68
+Greenlee County1995,AZ,1995,9.23,Greenlee County,10.48,3.5,,,,,1.36,1.6,3.68
+La Paz County1995,AZ,1995,14.31,La Paz County,340.38,78.95,,,,,1.36,1.6,3.68
+Maricopa County1995,AZ,1995,2432.37,Maricopa County,1042.22,352.4,,,,,1.36,1.6,3.68
+Mohave County1995,AZ,1995,121.6,Mohave County,77.77,17.2,,,,,1.36,1.6,3.68
+Navajo County1995,AZ,1995,89.25,Navajo County,13.16,3.65,,,,,1.36,1.6,3.68
+Pima County1995,AZ,1995,752.43,Pima County,60.83,29.33,,,,,1.36,1.6,3.68
+Pinal County1995,AZ,1995,131.21,Pinal County,605.05,255.24,,,,,1.36,1.6,3.68
+Santa Cruz County1995,AZ,1995,36.08,Santa Cruz County,6.85,2.1,,,,,1.36,1.6,3.68
+Yavapai County1995,AZ,1995,134.6,Yavapai County,24.23,6.85,,,,,1.36,1.6,3.68
+Yuma County1995,AZ,1995,132.87,Yuma County,780.07,230.65,,,,,1.36,1.6,3.68
+Apache County1990,AZ,1990,1.85,Apache County,140.74,75.51,,,,,1.36,1.6,3.68
+Cochise County1990,AZ,1990,1.28,Cochise County,140.74,75.51,,,,,1.36,1.6,3.68
+Coconino County1990,AZ,1990,1.64,Coconino County,140.74,75.51,,,,,1.36,1.6,3.68
+Gila County1990,AZ,1990,1.27,Gila County,140.74,75.51,,,,,1.36,1.6,3.68
+Graham County1990,AZ,1990,0.88,Graham County,140.74,75.51,,,,,1.36,1.6,3.68
+Greenlee County1990,AZ,1990,0.25,Greenlee County,140.74,75.51,,,,,1.36,1.6,3.68
+La Paz County1990,AZ,1990,0.24,La Paz County,140.74,75.51,,,,,1.36,1.6,3.68
+Maricopa County1990,AZ,1990,5.67,Maricopa County,140.74,75.51,,,,,1.36,1.6,3.68
+Mohave County1990,AZ,1990,0.57,Mohave County,140.74,75.51,,,,,1.36,1.6,3.68
+Navajo County1990,AZ,1990,1.66,Navajo County,140.74,75.51,,,,,1.36,1.6,3.68
+Pima County1990,AZ,1990,1.88,Pima County,140.74,75.51,,,,,1.36,1.6,3.68
+Pinal County1990,AZ,1990,7,Pinal County,140.74,75.51,,,,,1.36,1.6,3.68
+Santa Cruz County1990,AZ,1990,0.12,Santa Cruz County,140.74,75.51,,,,,1.36,1.6,3.68
+Yavapai County1990,AZ,1990,2.31,Yavapai County,140.74,75.51,,,,,1.36,1.6,3.68
+Yuma County1990,AZ,1990,2.69,Yuma County,140.74,75.51,,,,,1.36,1.6,3.68
+Apache County1985,AZ,1985,59.94,Apache County,140.74,75.51,,,,,1.36,1.6,3.68
+Cochise County1985,AZ,1985,96.3,Cochise County,140.74,75.51,,,,,1.36,1.6,3.68
+Coconino County1985,AZ,1985,85.96,Coconino County,140.74,75.51,,,,,1.36,1.6,3.68
+Gila County1985,AZ,1985,45.44,Gila County,140.74,75.51,,,,,1.36,1.6,3.68
+Graham County1985,AZ,1985,23.3,Graham County,140.74,75.51,,,,,1.36,1.6,3.68
+Greenlee County1985,AZ,1985,8.7,Greenlee County,140.74,75.51,,,,,1.36,1.6,3.68
+La Paz County1985,AZ,1985,16.97,La Paz County,140.74,75.51,,,,,1.36,1.6,3.68
+Maricopa County1985,AZ,1985,1843.28,Maricopa County,140.74,75.51,,,,,1.36,1.6,3.68
+Mohave County1985,AZ,1985,68.02,Mohave County,140.74,75.51,,,,,1.36,1.6,3.68
+Navajo County1985,AZ,1985,72.26,Navajo County,140.74,75.51,,,,,1.36,1.6,3.68
+Pima County1985,AZ,1985,626.33,Pima County,140.74,75.51,,,,,1.36,1.6,3.68
+Pinal County1985,AZ,1985,102.05,Pinal County,140.74,75.51,,,,,1.36,1.6,3.68
+Santa Cruz County1985,AZ,1985,27.1,Santa Cruz County,140.74,75.51,,,,,1.36,1.6,3.68
+Yavapai County1985,AZ,1985,84.66,Yavapai County,140.74,75.51,,,,,1.36,1.6,3.68
+Yuma County1985,AZ,1985,118.91,Yuma County,140.74,75.51,,,,,1.36,1.6,3.68
+Alameda County2015,CA,2015,1638.22,Alameda County,7.97,12.66,7.64,10.61,1.42,2.05,0.27,0,0
+Alameda County2010,CA,2010,1510.27,Alameda County,140.74,11.5,16.87,9.39,,2.11,0.27,3.65,9
+Alameda County2005,CA,2005,1448.91,Alameda County,140.74,5.25,,,,0,1.36,1.6,3.68
+Alameda County2000,CA,2000,1443.74,Alameda County,140.74,10,,,,,1.36,1.6,3.68
+Alameda County1995,CA,1995,1347.7,Alameda County,12.23,5.5,,,,,1.36,1.6,3.68
+Alameda County1990,CA,1990,0.66,Alameda County,140.74,75.51,,,,,1.36,1.6,3.68
+Alameda County1985,CA,1985,1195.16,Alameda County,140.74,75.51,,,,,1.36,1.6,3.68
+Alpine County2015,CA,2015,1.11,Alpine County,6.99,3.74,9.69,3.74,0,0,0,0,0
+Alpine County2010,CA,2010,1.18,Alpine County,140.74,1.62,4.22,1.62,,0,0.01,0,0
+Alpine County2005,CA,2005,1.16,Alpine County,140.74,3.78,,,,0,1.36,1.6,3.68
+Alpine County2000,CA,2000,1.21,Alpine County,140.74,4,,,,,1.36,1.6,3.68
+Alpine County1995,CA,1995,1.17,Alpine County,23.52,6.3,,,,,1.36,1.6,3.68
+Alpine County1990,CA,1990,0.12,Alpine County,140.74,75.51,,,,,1.36,1.6,3.68
+Alpine County1985,CA,1985,1.2,Alpine County,140.74,75.51,,,,,1.36,1.6,3.68
+Amador County2015,CA,2015,37,Amador County,17.18,9.01,20.46,8.82,0.22,0.19,0.23,0,7.44
+Amador County2010,CA,2010,38.09,Amador County,140.74,0.2,16.49,0,,0.2,0.23,0,5.98
+Amador County2005,CA,2005,38.47,Amador County,140.74,0,,,,0,1.36,1.6,3.68
+Amador County2000,CA,2000,35.1,Amador County,140.74,8.23,,,,,1.36,1.6,3.68
+Amador County1995,CA,1995,32.6,Amador County,14.69,5.4,,,,,1.36,1.6,3.68
+Amador County1990,CA,1990,0.17,Amador County,140.74,75.51,,,,,1.36,1.6,3.68
+Amador County1985,CA,1985,22.89,Amador County,140.74,75.51,,,,,1.36,1.6,3.68
+Butte County2015,CA,2015,225.41,Butte County,591.87,224.47,752.2,223.95,0.36,0.52,0.29,21.27,0
+Butte County2010,CA,2010,220,Butte County,140.74,221.86,645.25,221.22,,0.64,0.32,18.83,0
+Butte County2005,CA,2005,214.19,Butte County,140.74,206.94,,,,0,1.36,1.6,3.68
+Butte County2000,CA,2000,203.17,Butte County,140.74,257.36,,,,,1.36,1.6,3.68
+Butte County1995,CA,1995,196.1,Butte County,759.8,225.3,,,,,1.36,1.6,3.68
+Butte County1990,CA,1990,0.24,Butte County,140.74,75.51,,,,,1.36,1.6,3.68
+Butte County1985,CA,1985,163.22,Butte County,140.74,75.51,,,,,1.36,1.6,3.68
+Calaveras County2015,CA,2015,44.83,Calaveras County,7.45,3.67,8.18,3.24,0.47,0.43,0.25,0,0
+Calaveras County2010,CA,2010,45.58,Calaveras County,140.74,4.85,11.04,4.3,,0.55,0.38,0,0
+Calaveras County2005,CA,2005,46.87,Calaveras County,140.74,1.45,,,,0,1.36,1.6,3.68
+Calaveras County2000,CA,2000,40.55,Calaveras County,140.74,2.72,,,,,1.36,1.6,3.68
+Calaveras County1995,CA,1995,36.95,Calaveras County,4.59,1.8,,,,,1.36,1.6,3.68
+Calaveras County1990,CA,1990,0.2,Calaveras County,140.74,75.51,,,,,1.36,1.6,3.68
+Calaveras County1985,CA,1985,26.88,Calaveras County,140.74,75.51,,,,,1.36,1.6,3.68
+Colusa County2015,CA,2015,21.48,Colusa County,556.7,309.73,695.18,309.66,0.05,0.07,0.24,0,0
+Colusa County2010,CA,2010,21.42,Colusa County,140.74,300.82,828.87,300.73,,0.09,0.28,0,0
+Colusa County2005,CA,2005,21.1,Colusa County,140.74,267.29,,,,0,1.36,1.6,3.68
+Colusa County2000,CA,2000,18.8,Colusa County,140.74,259.38,,,,,1.36,1.6,3.68
+Colusa County1995,CA,1995,17.85,Colusa County,837.43,298,,,,,1.36,1.6,3.68
+Colusa County1990,CA,1990,0.38,Colusa County,140.74,75.51,,,,,1.36,1.6,3.68
+Colusa County1985,CA,1985,14.69,Colusa County,140.74,75.51,,,,,1.36,1.6,3.68
+Contra Costa County2015,CA,2015,1126.75,Contra Costa County,72.03,42.42,84.9,40.03,1.67,2.39,0.4,0,0
+Contra Costa County2010,CA,2010,1049.03,Contra Costa County,140.74,38.27,63.06,35.41,,2.86,0.36,0,0
+Contra Costa County2005,CA,2005,1017.79,Contra Costa County,140.74,34.72,,,,0,1.36,1.6,3.68
+Contra Costa County2000,CA,2000,948.82,Contra Costa County,140.74,44.35,,,,,1.36,1.6,3.68
+Contra Costa County1995,CA,1995,867.3,Contra Costa County,82.45,39,,,,,1.36,1.6,3.68
+Contra Costa County1990,CA,1990,0.65,Contra Costa County,140.74,75.51,,,,,1.36,1.6,3.68
+Contra Costa County1985,CA,1985,711.88,Contra Costa County,140.74,75.51,,,,,1.36,1.6,3.68
+Del Norte County2015,CA,2015,27.25,Del Norte County,12.75,9.36,16.35,9.29,0.05,0.07,0.57,0,0
+Del Norte County2010,CA,2010,28.61,Del Norte County,140.74,7.7,9.55,7.61,,0.09,0.5,0,0
+Del Norte County2005,CA,2005,28.71,Del Norte County,140.74,7.1,,,,0,1.36,1.6,3.68
+Del Norte County2000,CA,2000,27.51,Del Norte County,140.74,7.28,,,,,1.36,1.6,3.68
+Del Norte County1995,CA,1995,27.6,Del Norte County,14.79,6.7,,,,,1.36,1.6,3.68
+Del Norte County1990,CA,1990,0.11,Del Norte County,140.74,75.51,,,,,1.36,1.6,3.68
+Del Norte County1985,CA,1985,18.68,Del Norte County,140.74,75.51,,,,,1.36,1.6,3.68
+El Dorado County2015,CA,2015,184.45,El Dorado County,22.01,7.22,25.64,6.41,0.87,0.81,0.18,0,0
+El Dorado County2010,CA,2010,181.06,El Dorado County,140.74,6.79,7.8,5.85,,0.94,0.16,0,0
+El Dorado County2005,CA,2005,176.84,El Dorado County,140.74,5.06,,,,0,1.36,1.6,3.68
+El Dorado County2000,CA,2000,156.3,El Dorado County,140.74,5.94,,,,,1.36,1.6,3.68
+El Dorado County1995,CA,1995,144.2,El Dorado County,18.01,5.6,,,,,1.36,1.6,3.68
+El Dorado County1990,CA,1990,0.1,El Dorado County,140.74,75.51,,,,,1.36,1.6,3.68
+El Dorado County1985,CA,1985,103.85,El Dorado County,140.74,75.51,,,,,1.36,1.6,3.68
+Fresno County2015,CA,2015,974.86,Fresno County,1266.77,1116.48,1614.96,1115.32,1.27,1.16,13.24,0.31,7.93
+Fresno County2010,CA,2010,930.45,Fresno County,140.74,1093.78,2488.89,1092.25,,1.53,14.03,11.23,11.23
+Fresno County2005,CA,2005,877.58,Fresno County,140.74,1147.7,,,,0,1.36,1.6,3.68
+Fresno County2000,CA,2000,799.41,Fresno County,140.74,1227.59,,,,,1.36,1.6,3.68
+Fresno County1995,CA,1995,754.1,Fresno County,2585.08,1170.4,,,,,1.36,1.6,3.68
+Fresno County1990,CA,1990,16.74,Fresno County,140.74,75.51,,,,,1.36,1.6,3.68
+Fresno County1985,CA,1985,579.69,Fresno County,140.74,75.51,,,,,1.36,1.6,3.68
+Glenn County2015,CA,2015,28.02,Glenn County,522.49,234.28,660.62,234.24,0.02,0.04,1.98,0,0
+Glenn County2010,CA,2010,28.12,Glenn County,140.74,225.2,598.81,225.15,,0.05,2.09,0,0
+Glenn County2005,CA,2005,27.76,Glenn County,140.74,222.93,,,,0,1.36,1.6,3.68
+Glenn County2000,CA,2000,26.45,Glenn County,140.74,194.72,,,,,1.36,1.6,3.68
+Glenn County1995,CA,1995,26.6,Glenn County,683.36,242.4,,,,,1.36,1.6,3.68
+Glenn County1990,CA,1990,0.39,Glenn County,140.74,75.51,,,,,1.36,1.6,3.68
+Glenn County1985,CA,1985,23.08,Glenn County,140.74,75.51,,,,,1.36,1.6,3.68
+Humboldt County2015,CA,2015,135.73,Humboldt County,45.66,45.69,59.58,45.25,0.3,0.44,1.71,0,0
+Humboldt County2010,CA,2010,134.62,Humboldt County,140.74,27.32,37.49,26.54,,0.78,1.69,0,0
+Humboldt County2005,CA,2005,128.38,Humboldt County,140.74,35.8,,,,0,1.36,1.6,3.68
+Humboldt County2000,CA,2000,126.52,Humboldt County,140.74,33.92,,,,,1.36,1.6,3.68
+Humboldt County1995,CA,1995,124.5,Humboldt County,44.23,21.5,,,,,1.36,1.6,3.68
+Humboldt County1990,CA,1990,0.32,Humboldt County,140.74,75.51,,,,,1.36,1.6,3.68
+Humboldt County1985,CA,1985,112.9,Humboldt County,140.74,75.51,,,,,1.36,1.6,3.68
+Imperial County2015,CA,2015,180.19,Imperial County,1349.93,508.48,1849.88,508.18,0.35,0.3,5.86,10.88,0
+Imperial County2010,CA,2010,174.53,Imperial County,140.74,558.17,1087.52,557.88,,0.29,7.19,10.28,0.57
+Imperial County2005,CA,2005,155.82,Imperial County,140.74,504.26,,,,0,1.36,1.6,3.68
+Imperial County2000,CA,2000,142.36,Imperial County,140.74,628.89,,,,,1.36,1.6,3.68
+Imperial County1995,CA,1995,137.4,Imperial County,2285.66,570,,,,,1.36,1.6,3.68
+Imperial County1990,CA,1990,8.07,Imperial County,140.74,75.51,,,,,1.36,1.6,3.68
+Imperial County1985,CA,1985,105.72,Imperial County,140.74,75.51,,,,,1.36,1.6,3.68
+Inyo County2015,CA,2015,18.26,Inyo County,12.64,17.73,17.17,17.49,0.25,0.24,0.23,25.74,9.46
+Inyo County2010,CA,2010,18.55,Inyo County,140.74,22.41,81.45,22.16,,0.25,0.23,9.2,3.38
+Inyo County2005,CA,2005,18.16,Inyo County,140.74,14.9,,,,0,1.36,1.6,3.68
+Inyo County2000,CA,2000,17.95,Inyo County,140.74,15.07,,,,,1.36,1.6,3.68
+Inyo County1995,CA,1995,18.45,Inyo County,44.93,11,,,,,1.36,1.6,3.68
+Inyo County1990,CA,1990,0.15,Inyo County,140.74,75.51,,,,,1.36,1.6,3.68
+Inyo County1985,CA,1985,18.27,Inyo County,140.74,75.51,,,,,1.36,1.6,3.68
+Kern County2015,CA,2015,882.18,Kern County,1273.83,815.09,1614.93,813.42,2.09,1.67,12.17,4.52,0
+Kern County2010,CA,2010,839.63,Kern County,140.74,737.79,1797.91,734.53,,3.26,11.86,4.21,0
+Kern County2005,CA,2005,756.83,Kern County,140.74,829.06,,,,0,1.36,1.6,3.68
+Kern County2000,CA,2000,661.65,Kern County,140.74,929.14,,,,,1.36,1.6,3.68
+Kern County1995,CA,1995,616.7,Kern County,1758.27,821.7,,,,,1.36,1.6,3.68
+Kern County1990,CA,1990,2.12,Kern County,140.74,75.51,,,,,1.36,1.6,3.68
+Kern County1985,CA,1985,480.68,Kern County,140.74,75.51,,,,,1.36,1.6,3.68
+Kings County2015,CA,2015,150.97,Kings County,482.53,457.36,637.13,457.17,0.22,0.19,14.87,0,0
+Kings County2010,CA,2010,152.98,Kings County,140.74,558.95,1251.2,558.7,,0.25,13.87,0,0
+Kings County2005,CA,2005,143.42,Kings County,140.74,497,,,,0,1.36,1.6,3.68
+Kings County2000,CA,2000,129.46,Kings County,140.74,535.65,,,,,1.36,1.6,3.68
+Kings County1995,CA,1995,114.9,Kings County,1050.57,493.2,,,,,1.36,1.6,3.68
+Kings County1990,CA,1990,2.96,Kings County,140.74,75.51,,,,,1.36,1.6,3.68
+Kings County1985,CA,1985,84.56,Kings County,140.74,75.51,,,,,1.36,1.6,3.68
+Lake County2015,CA,2015,64.59,Lake County,41.86,28.79,52.51,28.48,0.21,0.31,0.07,0,0
+Lake County2010,CA,2010,64.67,Lake County,140.74,17.04,32.65,16.76,,0.28,0.07,0,0
+Lake County2005,CA,2005,65.15,Lake County,140.74,18.14,,,,0,1.36,1.6,3.68
+Lake County2000,CA,2000,58.31,Lake County,140.74,13.87,,,,,1.36,1.6,3.68
+Lake County1995,CA,1995,55.1,Lake County,48.9,15.6,,,,,1.36,1.6,3.68
+Lake County1990,CA,1990,0.13,Lake County,140.74,75.51,,,,,1.36,1.6,3.68
+Lake County1985,CA,1985,47.66,Lake County,140.74,75.51,,,,,1.36,1.6,3.68
+Lassen County2015,CA,2015,31.35,Lassen County,65.9,100.91,88.54,100.81,0.11,0.1,0.65,0.01,17.28
+Lassen County2010,CA,2010,34.9,Lassen County,140.74,94.7,175.57,94.55,,0.15,0.72,0,17.28
+Lassen County2005,CA,2005,34.75,Lassen County,140.74,92,,,,0,1.36,1.6,3.68
+Lassen County2000,CA,2000,33.83,Lassen County,140.74,173.88,,,,,1.36,1.6,3.68
+Lassen County1995,CA,1995,28.65,Lassen County,257.8,107,,,,,1.36,1.6,3.68
+Lassen County1990,CA,1990,0.32,Lassen County,140.74,75.51,,,,,1.36,1.6,3.68
+Lassen County1985,CA,1985,24.38,Lassen County,140.74,75.51,,,,,1.36,1.6,3.68
+Los Angeles County2015,CA,2015,10170.29,Los Angeles County,26.42,29.47,17.63,19.01,12.95,10.46,0.37,0.04,0
+Los Angeles County2010,CA,2010,9818.61,Los Angeles County,140.74,34.86,61.82,24.89,,9.97,0.56,0.06,0
+Los Angeles County2005,CA,2005,9935.48,Los Angeles County,140.74,20.15,,,,0,1.36,1.6,3.68
+Los Angeles County2000,CA,2000,9519.34,Los Angeles County,140.74,33.99,,,,,1.36,1.6,3.68
+Los Angeles County1995,CA,1995,9352.2,Los Angeles County,31.67,16.4,,,,,1.36,1.6,3.68
+Los Angeles County1990,CA,1990,3.98,Los Angeles County,140.74,75.51,,,,,1.36,1.6,3.68
+Los Angeles County1985,CA,1985,8105.54,Los Angeles County,140.74,75.51,,,,,1.36,1.6,3.68
+Madera County2015,CA,2015,155,Madera County,620.92,303.97,771.58,303.35,0.65,0.62,6.18,0,0
+Madera County2010,CA,2010,150.87,Madera County,140.74,297.84,709.94,297.05,,0.79,7,0.01,0
+Madera County2005,CA,2005,142.79,Madera County,140.74,294.71,,,,0,1.36,1.6,3.68
+Madera County2000,CA,2000,123.11,Madera County,140.74,312.88,,,,,1.36,1.6,3.68
+Madera County1995,CA,1995,106.4,Madera County,760.52,311.2,,,,,1.36,1.6,3.68
+Madera County1990,CA,1990,1.82,Madera County,140.74,75.51,,,,,1.36,1.6,3.68
+Madera County1985,CA,1985,75.75,Madera County,140.74,75.51,,,,,1.36,1.6,3.68
+Marin County2015,CA,2015,261.22,Marin County,35.23,9.87,40.5,9.3,0.4,0.57,1.19,0,0
+Marin County2010,CA,2010,252.41,Marin County,140.74,0.69,8.42,0,,0.69,1.03,0,0
+Marin County2005,CA,2005,246.96,Marin County,140.74,0,,,,0,1.36,1.6,3.68
+Marin County2000,CA,2000,247.29,Marin County,140.74,2.91,,,,,1.36,1.6,3.68
+Marin County1995,CA,1995,238.9,Marin County,1.13,1,,,,,1.36,1.6,3.68
+Marin County1990,CA,1990,0.14,Marin County,140.74,75.51,,,,,1.36,1.6,3.68
+Marin County1985,CA,1985,223.99,Marin County,140.74,75.51,,,,,1.36,1.6,3.68
+Mariposa County2015,CA,2015,17.53,Mariposa County,13.32,3.68,17.41,3.64,0.03,0.04,0.39,0,0
+Mariposa County2010,CA,2010,18.25,Mariposa County,140.74,0.75,2.35,0.7,,0.05,0.32,0,0
+Mariposa County2005,CA,2005,18.07,Mariposa County,140.74,0.9,,,,0,1.36,1.6,3.68
+Mariposa County2000,CA,2000,17.13,Mariposa County,140.74,1.25,,,,,1.36,1.6,3.68
+Mariposa County1995,CA,1995,15.9,Mariposa County,4.22,1.7,,,,,1.36,1.6,3.68
+Mariposa County1990,CA,1990,0.65,Mariposa County,140.74,75.51,,,,,1.36,1.6,3.68
+Mariposa County1985,CA,1985,13.39,Mariposa County,140.74,75.51,,,,,1.36,1.6,3.68
+Mendocino County2015,CA,2015,87.65,Mendocino County,57.52,27.78,68.56,27.62,0.11,0.16,0.35,0.01,0
+Mendocino County2010,CA,2010,87.84,Mendocino County,140.74,40.19,65.39,40,,0.19,0.47,0,0.22
+Mendocino County2005,CA,2005,88.16,Mendocino County,140.74,29.25,,,,0,1.36,1.6,3.68
+Mendocino County2000,CA,2000,86.27,Mendocino County,140.74,27.54,,,,,1.36,1.6,3.68
+Mendocino County1995,CA,1995,84.3,Mendocino County,36.19,23.6,,,,,1.36,1.6,3.68
+Mendocino County1990,CA,1990,0.24,Mendocino County,140.74,75.51,,,,,1.36,1.6,3.68
+Mendocino County1985,CA,1985,73.54,Mendocino County,140.74,75.51,,,,,1.36,1.6,3.68
+Merced County2015,CA,2015,268.46,Merced County,745.33,553.53,970.36,553.25,0.2,0.28,24.86,3.5,30.83
+Merced County2010,CA,2010,255.79,Merced County,140.74,613.34,1373.85,613.04,,0.3,24.19,0.66,35
+Merced County2005,CA,2005,241.71,Merced County,140.74,524.95,,,,0,1.36,1.6,3.68
+Merced County2000,CA,2000,210.55,Merced County,140.74,569.22,,,,,1.36,1.6,3.68
+Merced County1995,CA,1995,198.5,Merced County,1272.12,517.8,,,,,1.36,1.6,3.68
+Merced County1990,CA,1990,26.4,Merced County,140.74,75.51,,,,,1.36,1.6,3.68
+Merced County1985,CA,1985,158.64,Merced County,140.74,75.51,,,,,1.36,1.6,3.68
+Modoc County2015,CA,2015,8.97,Modoc County,128.99,171.89,171.16,171.65,0.25,0.24,0.82,0.09,0.18
+Modoc County2010,CA,2010,9.69,Modoc County,140.74,139.19,252.77,139.1,,0.09,0.93,0.3,5.64
+Modoc County2005,CA,2005,9.52,Modoc County,140.74,140.9,,,,0,1.36,1.6,3.68
+Modoc County2000,CA,2000,9.45,Modoc County,140.74,86.72,,,,,1.36,1.6,3.68
+Modoc County1995,CA,1995,10.04,Modoc County,331.43,155.7,,,,,1.36,1.6,3.68
+Modoc County1990,CA,1990,0.61,Modoc County,140.74,75.51,,,,,1.36,1.6,3.68
+Modoc County1985,CA,1985,9.49,Modoc County,140.74,75.51,,,,,1.36,1.6,3.68
+Mono County2015,CA,2015,13.91,Mono County,44.11,37.87,58.34,37.73,0.14,0.14,0.07,0,10.17
+Mono County2010,CA,2010,14.2,Mono County,140.74,71.46,214.17,71.31,,0.15,0.11,0,11.94
+Mono County2005,CA,2005,12.51,Mono County,140.74,26.33,,,,0,1.36,1.6,3.68
+Mono County2000,CA,2000,12.85,Mono County,140.74,44.16,,,,,1.36,1.6,3.68
+Mono County1995,CA,1995,10.55,Mono County,200.74,51.2,,,,,1.36,1.6,3.68
+Mono County1990,CA,1990,0.2,Mono County,140.74,75.51,,,,,1.36,1.6,3.68
+Mono County1985,CA,1985,9.09,Mono County,140.74,75.51,,,,,1.36,1.6,3.68
+Monterey County2015,CA,2015,433.9,Monterey County,134.8,264.49,166.87,262.33,1.52,2.16,0.97,0,0
+Monterey County2010,CA,2010,415.06,Monterey County,140.74,427.42,476.69,425.05,,2.37,1.03,0,0
+Monterey County2005,CA,2005,412.1,Monterey County,140.74,373.1,,,,0,1.36,1.6,3.68
+Monterey County2000,CA,2000,401.76,Monterey County,140.74,430.44,,,,,1.36,1.6,3.68
+Monterey County1995,CA,1995,361.8,Monterey County,434.41,301.3,,,,,1.36,1.6,3.68
+Monterey County1990,CA,1990,2.74,Monterey County,140.74,75.51,,,,,1.36,1.6,3.68
+Monterey County1985,CA,1985,329.8,Monterey County,140.74,75.51,,,,,1.36,1.6,3.68
+Napa County2015,CA,2015,142.46,Napa County,87.71,50.79,101.94,49.95,0.58,0.84,0.16,0,0.59
+Napa County2010,CA,2010,136.48,Napa County,140.74,44.98,67.9,44.12,,0.86,0.13,0,0.59
+Napa County2005,CA,2005,132.76,Napa County,140.74,53.46,,,,0,1.36,1.6,3.68
+Napa County2000,CA,2000,124.28,Napa County,140.74,37.95,,,,,1.36,1.6,3.68
+Napa County1995,CA,1995,117.8,Napa County,44.74,32.9,,,,,1.36,1.6,3.68
+Napa County1990,CA,1990,0.13,Napa County,140.74,75.51,,,,,1.36,1.6,3.68
+Napa County1985,CA,1985,103.42,Napa County,140.74,75.51,,,,,1.36,1.6,3.68
+Nevada County2015,CA,2015,98.88,Nevada County,36.95,12.41,47.2,11.54,0.94,0.87,0.11,0,0
+Nevada County2010,CA,2010,98.76,Nevada County,140.74,11.18,27.37,10.34,,0.84,0.13,0,0
+Nevada County2005,CA,2005,98.39,Nevada County,140.74,17.36,,,,0,1.36,1.6,3.68
+Nevada County2000,CA,2000,92.03,Nevada County,140.74,9.86,,,,,1.36,1.6,3.68
+Nevada County1995,CA,1995,86.6,Nevada County,23.94,7.9,,,,,1.36,1.6,3.68
+Nevada County1990,CA,1990,0.1,Nevada County,140.74,75.51,,,,,1.36,1.6,3.68
+Nevada County1985,CA,1985,67.97,Nevada County,140.74,75.51,,,,,1.36,1.6,3.68
+Orange County2015,CA,2015,3169.78,Orange County,9.31,12.52,2.54,7.04,7.13,5.48,0.03,0,0
+Orange County2010,CA,2010,3010.23,Orange County,140.74,8.3,0,2.4,,5.9,0.04,0,0
+Orange County2005,CA,2005,2988.07,Orange County,140.74,7.95,,,,0,1.36,1.6,3.68
+Orange County2000,CA,2000,2846.29,Orange County,140.74,19.8,,,,,1.36,1.6,3.68
+Orange County1995,CA,1995,2614.8,Orange County,34.43,14.7,,,,,1.36,1.6,3.68
+Orange County1990,CA,1990,0.04,Orange County,140.74,75.51,,,,,1.36,1.6,3.68
+Orange County1985,CA,1985,2122.1,Orange County,140.74,75.51,,,,,1.36,1.6,3.68
+Placer County2015,CA,2015,375.39,Placer County,101.64,44.61,130.26,42.31,2.46,2.3,0.3,0,0
+Placer County2010,CA,2010,348.43,Placer County,140.74,44.82,115.78,42.7,,2.12,0.41,0.02,0.01
+Placer County2005,CA,2005,317.03,Placer County,140.74,24.97,,,,0,1.36,1.6,3.68
+Placer County2000,CA,2000,248.4,Placer County,140.74,41.69,,,,,1.36,1.6,3.68
+Placer County1995,CA,1995,203.5,Placer County,126.21,50.4,,,,,1.36,1.6,3.68
+Placer County1990,CA,1990,0.78,Placer County,140.74,75.51,,,,,1.36,1.6,3.68
+Placer County1985,CA,1985,137.82,Placer County,140.74,75.51,,,,,1.36,1.6,3.68
+Plumas County2015,CA,2015,18.41,Plumas County,76.26,42.68,101.7,41.88,0.82,0.8,0.27,0.01,0.01
+Plumas County2010,CA,2010,20.01,Plumas County,140.74,46.05,109.58,45.31,,0.74,0.21,1.28,0.33
+Plumas County2005,CA,2005,21.48,Plumas County,140.74,33.93,,,,0,1.36,1.6,3.68
+Plumas County2000,CA,2000,20.82,Plumas County,140.74,15.33,,,,,1.36,1.6,3.68
+Plumas County1995,CA,1995,20.5,Plumas County,109.42,36.1,,,,,1.36,1.6,3.68
+Plumas County1990,CA,1990,0.28,Plumas County,140.74,75.51,,,,,1.36,1.6,3.68
+Plumas County1985,CA,1985,19.19,Plumas County,140.74,75.51,,,,,1.36,1.6,3.68
+Riverside County2015,CA,2015,2361.03,Riverside County,569.33,222.69,712.46,205.43,22.38,17.26,4.15,17.67,0
+Riverside County2010,CA,2010,2189.64,Riverside County,140.74,230.41,451.93,215.77,,14.64,4.79,17.64,48.52
+Riverside County2005,CA,2005,1946.42,Riverside County,140.74,189.02,,,,0,1.36,1.6,3.68
+Riverside County2000,CA,2000,1545.39,Riverside County,140.74,293.51,,,,,1.36,1.6,3.68
+Riverside County1995,CA,1995,1370.3,Riverside County,910.04,236.6,,,,,1.36,1.6,3.68
+Riverside County1990,CA,1990,36.27,Riverside County,140.74,75.51,,,,,1.36,1.6,3.68
+Riverside County1985,CA,1985,820.21,Riverside County,140.74,75.51,,,,,1.36,1.6,3.68
+Sacramento County2015,CA,2015,1501.34,Sacramento County,334.12,161.34,440.37,159.55,1.29,1.79,1.82,137.09,34.34
+Sacramento County2010,CA,2010,1418.79,Sacramento County,140.74,151.3,302.76,148.25,,3.05,2.32,34.98,3.72
+Sacramento County2005,CA,2005,1363.48,Sacramento County,140.74,138.57,,,,0,1.36,1.6,3.68
+Sacramento County2000,CA,2000,1223.5,Sacramento County,140.74,145.32,,,,,1.36,1.6,3.68
+Sacramento County1995,CA,1995,1117.7,Sacramento County,384.78,158.5,,,,,1.36,1.6,3.68
+Sacramento County1990,CA,1990,1.72,Sacramento County,140.74,75.51,,,,,1.36,1.6,3.68
+Sacramento County1985,CA,1985,891.71,Sacramento County,140.74,75.51,,,,,1.36,1.6,3.68
+San Benito County2015,CA,2015,58.79,San Benito County,12.54,48.74,14.86,48.46,0.2,0.28,0.64,0,0
+San Benito County2010,CA,2010,55.27,San Benito County,140.74,53.21,72.2,52.86,,0.35,0.66,0,0
+San Benito County2005,CA,2005,55.94,San Benito County,140.74,37.56,,,,0,1.36,1.6,3.68
+San Benito County2000,CA,2000,53.23,San Benito County,140.74,43.59,,,,,1.36,1.6,3.68
+San Benito County1995,CA,1995,42.65,San Benito County,59.32,41.9,,,,,1.36,1.6,3.68
+San Benito County1990,CA,1990,0.91,San Benito County,140.74,75.51,,,,,1.36,1.6,3.68
+San Benito County1985,CA,1985,30.58,San Benito County,140.74,75.51,,,,,1.36,1.6,3.68
+San Bernardino County2015,CA,2015,2128.13,San Bernardino County,26.03,21.02,27.82,17.77,4.2,3.25,6.86,0,10.38
+San Bernardino County2010,CA,2010,2035.21,San Bernardino County,140.74,34.93,81.66,31.59,,3.34,9.29,5.79,6.85
+San Bernardino County2005,CA,2005,1963.54,San Bernardino County,140.74,33.21,,,,0,1.36,1.6,3.68
+San Bernardino County2000,CA,2000,1709.43,San Bernardino County,140.74,45.74,,,,,1.36,1.6,3.68
+San Bernardino County1995,CA,1995,1581.6,San Bernardino County,153.82,44.2,,,,,1.36,1.6,3.68
+San Bernardino County1990,CA,1990,31.6,San Bernardino County,140.74,75.51,,,,,1.36,1.6,3.68
+San Bernardino County1985,CA,1985,1085.66,San Bernardino County,140.74,75.51,,,,,1.36,1.6,3.68
+San Diego County2015,CA,2015,3299.52,San Diego County,96.13,75.22,102.27,65.74,12.21,9.48,1.06,0,0
+San Diego County2010,CA,2010,3095.31,San Diego County,140.74,73.5,140.78,64.58,,8.92,1.09,0.06,0.09
+San Diego County2005,CA,2005,2933.46,San Diego County,140.74,67.05,,,,0,1.36,1.6,3.68
+San Diego County2000,CA,2000,2813.83,San Diego County,140.74,83.33,,,,,1.36,1.6,3.68
+San Diego County1995,CA,1995,2669.2,San Diego County,322.32,83.9,,,,,1.36,1.6,3.68
+San Diego County1990,CA,1990,0.72,San Diego County,140.74,75.51,,,,,1.36,1.6,3.68
+San Diego County1985,CA,1985,2131.99,San Diego County,140.74,75.51,,,,,1.36,1.6,3.68
+San Francisco County2015,CA,2015,864.82,San Francisco County,0.44,0.64,0,0,0.44,0.64,0,0,0
+San Francisco County2010,CA,2010,805.24,San Francisco County,140.74,0.54,0,0,,0.54,0,0,0
+San Francisco County2005,CA,2005,739.43,San Francisco County,140.74,0,,,,0,1.36,1.6,3.68
+San Francisco County2000,CA,2000,776.73,San Francisco County,140.74,0.61,,,,,1.36,1.6,3.68
+San Francisco County1995,CA,1995,751.5,San Francisco County,0,0,,,,,1.36,1.6,3.68
+San Francisco County1990,CA,1990,0,San Francisco County,140.74,75.51,,,,,1.36,1.6,3.68
+San Francisco County1985,CA,1985,737.3,San Francisco County,140.74,75.51,,,,,1.36,1.6,3.68
+San Joaquin County2015,CA,2015,726.11,San Joaquin County,929.8,553.09,1189.01,551.73,0.95,1.36,9.49,11.89,0
+San Joaquin County2010,CA,2010,685.31,San Joaquin County,140.74,740.77,1582.04,738.76,,2.01,9.75,13.44,0
+San Joaquin County2005,CA,2005,664.12,San Joaquin County,140.74,489.29,,,,0,1.36,1.6,3.68
+San Joaquin County2000,CA,2000,563.6,San Joaquin County,140.74,557.47,,,,,1.36,1.6,3.68
+San Joaquin County1995,CA,1995,524.6,San Joaquin County,1431.54,583.3,,,,,1.36,1.6,3.68
+San Joaquin County1990,CA,1990,3.87,San Joaquin County,140.74,75.51,,,,,1.36,1.6,3.68
+San Joaquin County1985,CA,1985,418.06,San Joaquin County,140.74,75.51,,,,,1.36,1.6,3.68
+San Luis Obispo County2015,CA,2015,281.4,San Luis Obispo County,66.51,103.66,76.75,102.26,1.69,1.4,1.01,0,0
+San Luis Obispo County2010,CA,2010,269.64,San Luis Obispo County,140.74,115.66,161.76,114.3,,1.36,1.04,3.46,0
+San Luis Obispo County2005,CA,2005,255.48,San Luis Obispo County,140.74,84.2,,,,0,1.36,1.6,3.68
+San Luis Obispo County2000,CA,2000,246.68,San Luis Obispo County,140.74,88.95,,,,,1.36,1.6,3.68
+San Luis Obispo County1995,CA,1995,228.4,San Luis Obispo County,107.66,71.4,,,,,1.36,1.6,3.68
+San Luis Obispo County1990,CA,1990,0.92,San Luis Obispo County,140.74,75.51,,,,,1.36,1.6,3.68
+San Luis Obispo County1985,CA,1985,188.71,San Luis Obispo County,140.74,75.51,,,,,1.36,1.6,3.68
+San Mateo County2015,CA,2015,765.14,San Mateo County,17.94,5.84,22.1,4.78,0.74,1.06,0.07,0,0
+San Mateo County2010,CA,2010,718.45,San Mateo County,140.74,6.26,6.24,4.68,,1.58,0.07,0,0
+San Mateo County2005,CA,2005,699.61,San Mateo County,140.74,4.18,,,,0,1.36,1.6,3.68
+San Mateo County2000,CA,2000,707.16,San Mateo County,140.74,4.99,,,,,1.36,1.6,3.68
+San Mateo County1995,CA,1995,689.7,San Mateo County,8.19,5.5,,,,,1.36,1.6,3.68
+San Mateo County1990,CA,1990,0.06,San Mateo County,140.74,75.51,,,,,1.36,1.6,3.68
+San Mateo County1985,CA,1985,614.04,San Mateo County,140.74,75.51,,,,,1.36,1.6,3.68
+Santa Barbara County2015,CA,2015,444.77,Santa Barbara County,45.38,115.12,52.95,113.39,2.29,1.73,0.88,0,0
+Santa Barbara County2010,CA,2010,423.9,Santa Barbara County,140.74,130.3,170.96,128.57,,1.73,0.84,0,0
+Santa Barbara County2005,CA,2005,400.76,Santa Barbara County,140.74,130.75,,,,0,1.36,1.6,3.68
+Santa Barbara County2000,CA,2000,399.35,Santa Barbara County,140.74,159.52,,,,,1.36,1.6,3.68
+Santa Barbara County1995,CA,1995,391.4,Santa Barbara County,186.94,111,,,,,1.36,1.6,3.68
+Santa Barbara County1990,CA,1990,1.3,Santa Barbara County,140.74,75.51,,,,,1.36,1.6,3.68
+Santa Barbara County1985,CA,1985,331.85,Santa Barbara County,140.74,75.51,,,,,1.36,1.6,3.68
+Santa Clara County2005,CA,2005,1699.05,Santa Clara County,140.74,15.1,,,,0,1.36,1.6,3.68
+Santa Clara County1995,CA,1995,1603.3,Santa Clara County,37.24,26.3,,,,,1.36,1.6,3.68
+Santa Clara County2015,CA,2015,1918.04,Santa Clara County,6.59,16.75,5.75,14.17,1.79,2.58,0.27,0.05,0
+Santa Clara County2010,CA,2010,1781.64,Santa Clara County,140.74,27.36,33.51,24.17,,3.19,0.32,0.25,0.05
+Santa Clara County2000,CA,2000,1682.59,Santa Clara County,140.74,21.01,,,,,1.36,1.6,3.68
+Santa Clara County1990,CA,1990,0.19,Santa Clara County,140.74,75.51,,,,,1.36,1.6,3.68
+Santa Clara County1985,CA,1985,1397.97,Santa Clara County,140.74,75.51,,,,,1.36,1.6,3.68
+Santa Cruz County2005,CA,2005,249.67,Santa Cruz County,140.74,20.7,,,,0,1.36,1.6,3.68
+Santa Cruz County1995,CA,1995,241.5,Santa Cruz County,30.92,22.5,,,,,1.36,1.6,3.68
+Santa Cruz County2015,CA,2015,274.15,Santa Cruz County,26.49,22.71,30.9,22.23,0.34,0.48,0.12,0,0
+Santa Cruz County2010,CA,2010,262.38,Santa Cruz County,140.74,19.62,32.32,18.93,,0.69,0.04,0,0
+Santa Cruz County2000,CA,2000,255.6,Santa Cruz County,140.74,23.81,,,,,1.36,1.6,3.68
+Santa Cruz County1990,CA,1990,0.04,Santa Cruz County,140.74,75.51,,,,,1.36,1.6,3.68
+Santa Cruz County1985,CA,1985,213.7,Santa Cruz County,140.74,75.51,,,,,1.36,1.6,3.68
+Santa Cruz County2005,CA,2005,179.9,Santa Cruz County,140.74,55.69,,,,0,1.36,1.6,3.68
+Santa Cruz County1995,CA,1995,160.9,Santa Cruz County,144.32,52.6,,,,,1.36,1.6,3.68
+Santa Cruz County2015,CA,2015,179.53,Santa Cruz County,120.66,61.01,160.51,60.5,0.35,0.51,0.62,0,31.05
+Santa Cruz County2010,CA,2010,177.22,Santa Cruz County,140.74,67.48,142.56,66.81,,0.67,0.66,20.27,6.76
+Santa Cruz County2000,CA,2000,163.26,Santa Cruz County,140.74,94.54,,,,,1.36,1.6,3.68
+Santa Cruz County1990,CA,1990,0.63,Santa Cruz County,140.74,75.51,,,,,1.36,1.6,3.68
+Santa Cruz County1985,CA,1985,130.64,Santa Cruz County,140.74,75.51,,,,,1.36,1.6,3.68
+Sierra County2005,CA,2005,3.43,Sierra County,140.74,18,,,,0,1.36,1.6,3.68
+Sierra County1995,CA,1995,3.39,Sierra County,35.78,11.8,,,,,1.36,1.6,3.68
+Sierra County2015,CA,2015,2.97,Sierra County,17.37,19.25,23.36,19.25,0,0,0.15,0,0
+Sierra County2010,CA,2010,3.24,Sierra County,140.74,15.16,37.79,15.16,,0,0.05,0,0
+Sierra County2000,CA,2000,3.56,Sierra County,140.74,13,,,,,1.36,1.6,3.68
+Sierra County1990,CA,1990,0.11,Sierra County,140.74,75.51,,,,,1.36,1.6,3.68
+Sierra County1985,CA,1985,3.39,Sierra County,140.74,75.51,,,,,1.36,1.6,3.68
+Siskiyou County2005,CA,2005,45.26,Siskiyou County,140.74,156.58,,,,0,1.36,1.6,3.68
+Siskiyou County1995,CA,1995,44.65,Siskiyou County,272.13,155,,,,,1.36,1.6,3.68
+Siskiyou County2015,CA,2015,43.55,Siskiyou County,153.21,178.21,201.17,177.86,0.24,0.35,0.9,0,18.95
+Siskiyou County2010,CA,2010,44.9,Siskiyou County,140.74,189.62,387.62,189.15,,0.47,0.95,0,11.45
+Siskiyou County2000,CA,2000,44.3,Siskiyou County,140.74,187.52,,,,,1.36,1.6,3.68
+Siskiyou County1990,CA,1990,1.6,Siskiyou County,140.74,75.51,,,,,1.36,1.6,3.68
+Siskiyou County1985,CA,1985,42.86,Siskiyou County,140.74,75.51,,,,,1.36,1.6,3.68
+Solano County2005,CA,2005,411.59,Solano County,140.74,128.37,,,,0,1.36,1.6,3.68
+Solano County1995,CA,1995,370.5,Solano County,369.82,159.6,,,,,1.36,1.6,3.68
+Solano County2015,CA,2015,436.09,Solano County,287.57,172.99,394.73,172.13,0.6,0.86,1.14,0,0
+Solano County2010,CA,2010,413.34,Solano County,140.74,185.32,380.36,184.23,,1.09,0.97,0,0
+Solano County2000,CA,2000,394.54,Solano County,140.74,155.5,,,,,1.36,1.6,3.68
+Solano County1990,CA,1990,0.88,Solano County,140.74,75.51,,,,,1.36,1.6,3.68
+Solano County1985,CA,1985,275.2,Solano County,140.74,75.51,,,,,1.36,1.6,3.68
+Sonoma County2005,CA,2005,466.48,Sonoma County,140.74,73.73,,,,0,1.36,1.6,3.68
+Sonoma County1995,CA,1995,419.5,Sonoma County,56.93,45.8,,,,,1.36,1.6,3.68
+Sonoma County2015,CA,2015,502.15,Sonoma County,175.58,93.55,208.95,92.02,1.06,1.53,3.87,0,17.44
+Sonoma County2010,CA,2010,483.88,Sonoma County,140.74,93.1,146.85,90.99,,2.11,3.21,0,6.18
+Sonoma County2000,CA,2000,458.61,Sonoma County,140.74,59.43,,,,,1.36,1.6,3.68
+Sonoma County1990,CA,1990,0.63,Sonoma County,140.74,75.51,,,,,1.36,1.6,3.68
+Sonoma County1985,CA,1985,334.32,Sonoma County,140.74,75.51,,,,,1.36,1.6,3.68
+Stanislaus County2005,CA,2005,505.51,Stanislaus County,140.74,403.35,,,,0,1.36,1.6,3.68
+Stanislaus County1995,CA,1995,413.8,Stanislaus County,1041.39,420.1,,,,,1.36,1.6,3.68
+Stanislaus County2015,CA,2015,538.39,Stanislaus County,809.88,392.5,1033.54,391.82,0.47,0.68,16.64,0.16,0.16
+Stanislaus County2010,CA,2010,514.45,Stanislaus County,140.74,659.31,1498.66,658.38,,0.93,17.64,0.59,0.79
+Stanislaus County2000,CA,2000,447,Stanislaus County,140.74,454.72,,,,,1.36,1.6,3.68
+Stanislaus County1990,CA,1990,76.42,Stanislaus County,140.74,75.51,,,,,1.36,1.6,3.68
+Stanislaus County1985,CA,1985,305.6,Stanislaus County,140.74,75.51,,,,,1.36,1.6,3.68
+Sutter County2005,CA,2005,88.88,Sutter County,140.74,241.1,,,,0,1.36,1.6,3.68
+Sutter County1995,CA,1995,73.8,Sutter County,843.99,302.7,,,,,1.36,1.6,3.68
+Sutter County2015,CA,2015,96.46,Sutter County,483.16,267.22,635.98,267.1,0.08,0.12,0.13,0,0
+Sutter County2010,CA,2010,94.74,Sutter County,140.74,248.06,693.85,247.81,,0.25,0.17,0.05,0
+Sutter County2000,CA,2000,78.93,Sutter County,140.74,264.16,,,,,1.36,1.6,3.68
+Sutter County1990,CA,1990,0.59,Sutter County,140.74,75.51,,,,,1.36,1.6,3.68
+Sutter County1985,CA,1985,58.27,Sutter County,140.74,75.51,,,,,1.36,1.6,3.68
+Tehama County2005,CA,2005,61.2,Tehama County,140.74,103.28,,,,0,1.36,1.6,3.68
+Tehama County1995,CA,1995,54.2,Tehama County,293.16,99.8,,,,,1.36,1.6,3.68
+Tehama County2015,CA,2015,63.31,Tehama County,208.91,95.78,269.15,95.58,0.14,0.2,1.31,0.33,258.09
+Tehama County2010,CA,2010,63.46,Tehama County,140.74,86.6,219.4,86.45,,0.15,1.14,0.83,590
+Tehama County2000,CA,2000,56.04,Tehama County,140.74,104.84,,,,,1.36,1.6,3.68
+Tehama County1990,CA,1990,1.17,Tehama County,140.74,75.51,,,,,1.36,1.6,3.68
+Tehama County1985,CA,1985,44.27,Tehama County,140.74,75.51,,,,,1.36,1.6,3.68
+Trinity County2005,CA,2005,13.62,Trinity County,140.74,1.5,,,,0,1.36,1.6,3.68
+Trinity County1995,CA,1995,13.4,Trinity County,2.68,1.3,,,,,1.36,1.6,3.68
+Trinity County2015,CA,2015,13.07,Trinity County,8.21,2.98,10.69,2.94,0.02,0.04,0.08,0,9.62
+Trinity County2010,CA,2010,13.79,Trinity County,140.74,2.44,4.43,2.39,,0.05,0.06,0,15.13
+Trinity County2000,CA,2000,13.02,Trinity County,140.74,10.41,,,,,1.36,1.6,3.68
+Trinity County1990,CA,1990,0.06,Trinity County,140.74,75.51,,,,,1.36,1.6,3.68
+Trinity County1985,CA,1985,13.39,Trinity County,140.74,75.51,,,,,1.36,1.6,3.68
+Tulare County2005,CA,2005,410.87,Tulare County,140.74,771.7,,,,0,1.36,1.6,3.68
+Tulare County1995,CA,1995,349.8,Tulare County,1596.56,749.7,,,,,1.36,1.6,3.68
+Tulare County2015,CA,2015,459.86,Tulare County,1086.51,685.09,1394.94,684.3,0.78,0.79,41.47,0.02,0
+Tulare County2010,CA,2010,442.18,Tulare County,140.74,974.67,2456.95,973.81,,0.86,40.44,0,0
+Tulare County2000,CA,2000,368.02,Tulare County,140.74,809.8,,,,,1.36,1.6,3.68
+Tulare County1990,CA,1990,5.14,Tulare County,140.74,75.51,,,,,1.36,1.6,3.68
+Tulare County1985,CA,1985,280.96,Tulare County,140.74,75.51,,,,,1.36,1.6,3.68
+Tuolumne County2005,CA,2005,59.38,Tuolumne County,140.74,1.12,,,,0,1.36,1.6,3.68
+Tuolumne County1995,CA,1995,51.5,Tuolumne County,10.57,3,,,,,1.36,1.6,3.68
+Tuolumne County2015,CA,2015,53.71,Tuolumne County,2.31,1.7,2.78,1.42,0.29,0.28,0.17,0,16.2
+Tuolumne County2010,CA,2010,55.37,Tuolumne County,140.74,2.39,4.45,2,,0.39,0.34,0,11.41
+Tuolumne County2000,CA,2000,54.5,Tuolumne County,140.74,1.66,,,,,1.36,1.6,3.68
+Tuolumne County1990,CA,1990,0.25,Tuolumne County,140.74,75.51,,,,,1.36,1.6,3.68
+Tuolumne County1985,CA,1985,40.47,Tuolumne County,140.74,75.51,,,,,1.36,1.6,3.68
+Ventura County2005,CA,2005,796.11,Ventura County,140.74,111.83,,,,0,1.36,1.6,3.68
+Ventura County1995,CA,1995,712.7,Ventura County,168.53,115.6,,,,,1.36,1.6,3.68
+Ventura County2015,CA,2015,850.54,Ventura County,70.08,111.4,79.97,108.36,3.92,3.04,0.14,13.04,0
+Ventura County2010,CA,2010,823.32,Ventura County,140.74,110.1,216.89,107.44,,2.66,0.18,14.11,0
+Ventura County2000,CA,2000,753.2,Ventura County,140.74,130.8,,,,,1.36,1.6,3.68
+Ventura County1990,CA,1990,0.27,Ventura County,140.74,75.51,,,,,1.36,1.6,3.68
+Ventura County1985,CA,1985,599.77,Ventura County,140.74,75.51,,,,,1.36,1.6,3.68
+Yolo County2005,CA,2005,184.93,Yolo County,140.74,255.34,,,,0,1.36,1.6,3.68
+Yolo County1995,CA,1995,150.8,Yolo County,809.55,328.1,,,,,1.36,1.6,3.68
+Yolo County2015,CA,2015,213.02,Yolo County,431.76,294.83,571.24,294.35,0.34,0.48,0.48,0,0
+Yolo County2010,CA,2010,200.85,Yolo County,140.74,346.74,736.72,346.2,,0.54,0.54,0.01,0
+Yolo County2000,CA,2000,168.66,Yolo County,140.74,308.27,,,,,1.36,1.6,3.68
+Yolo County1990,CA,1990,0.24,Yolo County,140.74,75.51,,,,,1.36,1.6,3.68
+Yolo County1985,CA,1985,124.35,Yolo County,140.74,75.51,,,,,1.36,1.6,3.68
+Yuba County2005,CA,2005,67.15,Yuba County,140.74,77.75,,,,0,1.36,1.6,3.68
+Yuba County1995,CA,1995,62.3,Yuba County,306.07,85.6,,,,,1.36,1.6,3.68
+Yuba County2015,CA,2015,74.49,Yuba County,240.52,87.68,314.19,87.39,0.33,0.29,0.38,0,0
+Yuba County2010,CA,2010,72.16,Yuba County,140.74,76.44,240.07,76.14,,0.3,0.41,0.01,0
+Yuba County2000,CA,2000,60.22,Yuba County,140.74,89.25,,,,,1.36,1.6,3.68
+Yuba County1990,CA,1990,0.13,Yuba County,140.74,75.51,,,,,1.36,1.6,3.68
+Yuba County1985,CA,1985,53.97,Yuba County,140.74,75.51,,,,,1.36,1.6,3.68
+Adams County2015,CO,2015,491.34,Adams County,9.36,19.28,85.51,18.23,1.38,1.05,0.09,0,0
+Adams County2010,CO,2010,441.6,Adams County,140.74,30.59,143.74,29.58,,1.01,0.26,0,0
+Adams County2005,CO,2005,399.43,Adams County,140.74,29.85,120.17,28.83,,1.02,1.36,1.6,3.68
+Adams County2000,CO,2000,363.86,Adams County,140.74,27.57,,,,,1.36,1.6,3.68
+Adams County1995,CO,1995,303.3,Adams County,40.65,30.41,,,,,1.36,1.6,3.68
+Adams County1990,CO,1990,0.55,Adams County,140.74,75.51,,,,,1.36,1.6,3.68
+Adams County1985,CO,1985,276.47,Adams County,140.74,75.51,,,,,1.36,1.6,3.68
+Alamosa County2015,CO,2015,16.5,Alamosa County,61.92,107.66,136.45,107.58,0.07,0.08,0.15,1.03,0
+Alamosa County2010,CO,2010,15.45,Alamosa County,140.74,117.51,149.31,117.43,,0.08,0.15,0.26,0
+Alamosa County2005,CO,2005,15.28,Alamosa County,140.74,112.57,267.68,112.49,,0.08,1.36,1.6,3.68
+Alamosa County2000,CO,2000,14.97,Alamosa County,140.74,109.27,,,,,1.36,1.6,3.68
+Alamosa County1995,CO,1995,14.22,Alamosa County,170.36,106.67,,,,,1.36,1.6,3.68
+Alamosa County1990,CO,1990,0.2,Alamosa County,140.74,75.51,,,,,1.36,1.6,3.68
+Alamosa County1985,CO,1985,12.5,Alamosa County,140.74,75.51,,,,,1.36,1.6,3.68
+Arapahoe County2015,CO,2015,631.1,Arapahoe County,2.36,4.08,1.39,1.62,2.01,2.46,0.13,0,0.65
+Arapahoe County2010,CO,2010,572,Arapahoe County,140.74,5.06,14.07,2.16,,2.9,0.11,0,0.02
+Arapahoe County2005,CO,2005,529.09,Arapahoe County,140.74,3.99,5.23,1.75,,2.24,1.36,1.6,3.68
+Arapahoe County2000,CO,2000,487.97,Arapahoe County,140.74,3.36,,,,,1.36,1.6,3.68
+Arapahoe County1995,CO,1995,449.1,Arapahoe County,3.63,3.18,,,,,1.36,1.6,3.68
+Arapahoe County1990,CO,1990,0.17,Arapahoe County,140.74,75.51,,,,,1.36,1.6,3.68
+Arapahoe County1985,CO,1985,371.59,Arapahoe County,140.74,75.51,,,,,1.36,1.6,3.68
+Archuleta County2015,CO,2015,12.35,Archuleta County,24.22,20.77,41.79,20.62,0.11,0.15,0.19,0,0
+Archuleta County2010,CO,2010,12.08,Archuleta County,140.74,21.82,55.85,21.65,,0.17,0.09,0,0
+Archuleta County2005,CO,2005,11.89,Archuleta County,140.74,16.49,69.83,16.34,,0.15,1.36,1.6,3.68
+Archuleta County2000,CO,2000,9.9,Archuleta County,140.74,16.95,,,,,1.36,1.6,3.68
+Archuleta County1995,CO,1995,7.1,Archuleta County,16.37,20.45,,,,,1.36,1.6,3.68
+Archuleta County1990,CO,1990,4.2,Archuleta County,140.74,75.51,,,,,1.36,1.6,3.68
+Archuleta County1985,CO,1985,5.23,Archuleta County,140.74,75.51,,,,,1.36,1.6,3.68
+Baca County2015,CO,2015,3.62,Baca County,44.57,72.77,125.24,72.77,0,0,0.51,0,0
+Baca County2010,CO,2010,3.79,Baca County,140.74,86.52,96.81,86.52,,0,0.66,0,0
+Baca County2005,CO,2005,4.07,Baca County,140.74,85.97,125.86,85.97,,0,1.36,1.6,3.68
+Baca County2000,CO,2000,4.52,Baca County,140.74,78.13,,,,,1.36,1.6,3.68
+Baca County1995,CO,1995,4.38,Baca County,48.54,67.81,,,,,1.36,1.6,3.68
+Baca County1990,CO,1990,1.1,Baca County,140.74,75.51,,,,,1.36,1.6,3.68
+Baca County1985,CO,1985,4.82,Baca County,140.74,75.51,,,,,1.36,1.6,3.68
+Bent County2015,CO,2015,5.83,Bent County,50.64,46.64,167.81,46.59,0.1,0.05,0.26,0,0.09
+Bent County2010,CO,2010,6.5,Bent County,140.74,65.31,149.65,65.26,,0.05,0.71,0,0.92
+Bent County2005,CO,2005,5.56,Bent County,140.74,59.15,209.17,59.1,,0.05,1.36,1.6,3.68
+Bent County2000,CO,2000,6,Bent County,140.74,58.52,,,,,1.36,1.6,3.68
+Bent County1995,CO,1995,5.52,Bent County,179.14,63.28,,,,,1.36,1.6,3.68
+Bent County1990,CO,1990,0.83,Bent County,140.74,75.51,,,,,1.36,1.6,3.68
+Bent County1985,CO,1985,5.74,Bent County,140.74,75.51,,,,,1.36,1.6,3.68
+Boulder County2015,CO,2015,319.37,Boulder County,30.1,29.59,102.23,28.25,1.73,1.34,0.17,0,11.17
+Boulder County2010,CO,2010,294.57,Boulder County,140.74,48.2,143.95,46.86,,1.34,0.17,0.01,0
+Boulder County2005,CO,2005,280.44,Boulder County,140.74,38.08,149.86,36.72,,1.36,1.36,1.6,3.68
+Boulder County2000,CO,2000,291.29,Boulder County,140.74,33.94,,,,,1.36,1.6,3.68
+Boulder County1995,CO,1995,253.85,Boulder County,52.52,32.63,,,,,1.36,1.6,3.68
+Boulder County1990,CO,1990,0.36,Boulder County,140.74,75.51,,,,,1.36,1.6,3.68
+Boulder County1985,CO,1985,210.64,Boulder County,140.74,75.51,,,,,1.36,1.6,3.68
+Broomfield County2015,CO,2015,65.07,Broomfield County,0.62,0.84,1.16,0.41,0.62,0.43,0,0,0
+Broomfield County2010,CO,2010,55.89,Broomfield County,140.74,1.59,1.16,1.1,,0.49,0,0,0
+Broomfield County2005,CO,2005,43.48,Broomfield County,140.74,3.03,0,2.72,,0.31,1.36,1.6,3.68
+Chaffee County2015,CO,2015,18.66,Chaffee County,12.38,15.25,115.05,15.15,0.1,0.1,0.1,0,20.51
+Chaffee County2010,CO,2010,17.81,Chaffee County,140.74,11.43,80.37,11.33,,0.1,0.1,0.05,17.18
+Chaffee County2005,CO,2005,16.97,Chaffee County,140.74,19.32,103.41,19.22,,0.1,1.36,1.6,3.68
+Chaffee County2000,CO,2000,16.24,Chaffee County,140.74,22.07,,,,,1.36,1.6,3.68
+Chaffee County1995,CO,1995,14.41,Chaffee County,21.85,14.96,,,,,1.36,1.6,3.68
+Chaffee County1990,CO,1990,0.82,Chaffee County,140.74,75.51,,,,,1.36,1.6,3.68
+Chaffee County1985,CO,1985,12.27,Chaffee County,140.74,75.51,,,,,1.36,1.6,3.68
+Cheyenne County2015,CO,2015,1.83,Cheyenne County,16.41,25.92,29.24,25.87,0.08,0.05,0.22,0,0
+Cheyenne County2010,CO,2010,1.84,Cheyenne County,140.74,25.19,32.56,25.14,,0.05,0.4,0.77,3.24
+Cheyenne County2005,CO,2005,1.95,Cheyenne County,140.74,25.45,37.95,25.4,,0.05,1.36,1.6,3.68
+Cheyenne County2000,CO,2000,2.23,Cheyenne County,140.74,25.69,,,,,1.36,1.6,3.68
+Cheyenne County1995,CO,1995,2.31,Cheyenne County,21.58,18.4,,,,,1.36,1.6,3.68
+Cheyenne County1990,CO,1990,0.41,Cheyenne County,140.74,75.51,,,,,1.36,1.6,3.68
+Cheyenne County1985,CO,1985,2.47,Cheyenne County,140.74,75.51,,,,,1.36,1.6,3.68
+Clear Creek County2015,CO,2015,9.3,Clear Creek County,0,0,0,0,0,0,0,0,0
+Clear Creek County2010,CO,2010,9.09,Clear Creek County,140.74,0.02,0.17,0.02,,0,0,0,0
+Clear Creek County2005,CO,2005,9.2,Clear Creek County,140.74,0,0.07,0,,0,1.36,1.6,3.68
+Clear Creek County2000,CO,2000,9.32,Clear Creek County,140.74,0,,,,,1.36,1.6,3.68
+Clear Creek County1995,CO,1995,8.74,Clear Creek County,0,0,,,,,1.36,1.6,3.68
+Clear Creek County1990,CO,1990,0,Clear Creek County,140.74,75.51,,,,,1.36,1.6,3.68
+Clear Creek County1985,CO,1985,7.73,Clear Creek County,140.74,75.51,,,,,1.36,1.6,3.68
+Conejos County2015,CO,2015,8.13,Conejos County,100.94,118.45,293.97,118.45,0,0,0.36,5.57,6.69
+Conejos County2010,CO,2010,8.26,Conejos County,140.74,122.48,366.53,122.48,,0,0.41,12.26,0
+Conejos County2005,CO,2005,8.51,Conejos County,140.74,99.33,345.23,99.33,,0,1.36,1.6,3.68
+Conejos County2000,CO,2000,8.4,Conejos County,140.74,110.54,,,,,1.36,1.6,3.68
+Conejos County1995,CO,1995,7.81,Conejos County,262.5,110.69,,,,,1.36,1.6,3.68
+Conejos County1990,CO,1990,0.59,Conejos County,140.74,75.51,,,,,1.36,1.6,3.68
+Conejos County1985,CO,1985,8,Conejos County,140.74,75.51,,,,,1.36,1.6,3.68
+Costilla County2015,CO,2015,3.58,Costilla County,22.21,44.77,92.85,44.77,0,0,0.09,0,0
+Costilla County2010,CO,2010,3.52,Costilla County,140.74,49.02,135.15,49.02,,0,0.09,0.77,3.24
+Costilla County2005,CO,2005,3.42,Costilla County,140.74,45.18,172.34,45.18,,0,1.36,1.6,3.68
+Costilla County2000,CO,2000,3.66,Costilla County,140.74,54.6,,,,,1.36,1.6,3.68
+Costilla County1995,CO,1995,3.38,Costilla County,65.74,38.6,,,,,1.36,1.6,3.68
+Costilla County1990,CO,1990,5.36,Costilla County,140.74,75.51,,,,,1.36,1.6,3.68
+Costilla County1985,CO,1985,3.39,Costilla County,140.74,75.51,,,,,1.36,1.6,3.68
+Crowley County2015,CO,2015,5.56,Crowley County,4.02,7.16,11.87,7.16,0,0,0.98,0,0
+Crowley County2010,CO,2010,5.82,Crowley County,140.74,17,11.87,17,,0,0.83,0,0
+Crowley County2005,CO,2005,5.4,Crowley County,140.74,16.44,33.05,16.44,,0,1.36,1.6,3.68
+Crowley County2000,CO,2000,5.52,Crowley County,140.74,20.81,,,,,1.36,1.6,3.68
+Crowley County1995,CO,1995,4.3,Crowley County,29.66,12.81,,,,,1.36,1.6,3.68
+Crowley County1990,CO,1990,1.15,Crowley County,140.74,75.51,,,,,1.36,1.6,3.68
+Crowley County1985,CO,1985,3.26,Crowley County,140.74,75.51,,,,,1.36,1.6,3.68
+Custer County2015,CO,2015,4.45,Custer County,23.78,25.58,34.77,25.52,0.01,0.06,0.08,0,0.04
+Custer County2010,CO,2010,4.26,Custer County,140.74,21.14,26.74,21.08,,0.06,0.08,0,0
+Custer County2005,CO,2005,3.86,Custer County,140.74,24.85,44.79,24.79,,0.06,1.36,1.6,3.68
+Custer County2000,CO,2000,3.5,Custer County,140.74,18.3,,,,,1.36,1.6,3.68
+Custer County1995,CO,1995,2.7,Custer County,19.15,16.63,,,,,1.36,1.6,3.68
+Custer County1990,CO,1990,0.16,Custer County,140.74,75.51,,,,,1.36,1.6,3.68
+Custer County1985,CO,1985,2.13,Custer County,140.74,75.51,,,,,1.36,1.6,3.68
+Delta County2015,CO,2015,29.98,Delta County,87.24,77.41,340.86,77.21,0.38,0.2,0.51,0,11.19
+Delta County2010,CO,2010,30.95,Delta County,140.74,82.91,345.56,82.73,,0.18,0.49,0,5.85
+Delta County2005,CO,2005,29.95,Delta County,140.74,48.88,450.61,48.68,,0.2,1.36,1.6,3.68
+Delta County2000,CO,2000,27.83,Delta County,140.74,72.2,,,,,1.36,1.6,3.68
+Delta County1995,CO,1995,25.08,Delta County,176.59,82.44,,,,,1.36,1.6,3.68
+Delta County1990,CO,1990,8.57,Delta County,140.74,75.51,,,,,1.36,1.6,3.68
+Delta County1985,CO,1985,23.99,Delta County,140.74,75.51,,,,,1.36,1.6,3.68
+Denver County2015,CO,2015,682.55,Denver County,1.67,2.4,0.45,0.89,1.42,1.51,0,0,0
+Denver County2010,CO,2010,600.16,Denver County,140.74,1.02,0,0,,1.02,0,1.02,4.31
+Denver County2005,CO,2005,557.92,Denver County,140.74,1.18,0,0,,1.18,1.36,1.6,3.68
+Denver County2000,CO,2000,554.64,Denver County,140.74,0,,,,,1.36,1.6,3.68
+Denver County1995,CO,1995,494.46,Denver County,0,0,,,,,1.36,1.6,3.68
+Denver County1990,CO,1990,0,Denver County,140.74,75.51,,,,,1.36,1.6,3.68
+Denver County1985,CO,1985,510.91,Denver County,140.74,75.51,,,,,1.36,1.6,3.68
+Dolores County2015,CO,2015,1.98,Dolores County,3.67,8.14,4.16,8.14,0,0,0.03,0,0
+Dolores County2010,CO,2010,2.06,Dolores County,140.74,8.56,5.1,8.56,,0,0.01,0,0
+Dolores County2005,CO,2005,1.83,Dolores County,140.74,8.36,34.24,8.36,,0,1.36,1.6,3.68
+Dolores County2000,CO,2000,1.84,Dolores County,140.74,13.06,,,,,1.36,1.6,3.68
+Dolores County1995,CO,1995,1.59,Dolores County,11.57,7.9,,,,,1.36,1.6,3.68
+Dolores County1990,CO,1990,0.08,Dolores County,140.74,75.51,,,,,1.36,1.6,3.68
+Dolores County1985,CO,1985,1.58,Dolores County,140.74,75.51,,,,,1.36,1.6,3.68
+Douglas County2015,CO,2015,322.39,Douglas County,3.35,2.72,9.58,0.89,2.06,1.83,0.16,0,0
+Douglas County2010,CO,2010,285.47,Douglas County,140.74,4.08,13.87,2.23,,1.85,0.14,0,0
+Douglas County2005,CO,2005,249.42,Douglas County,140.74,6,10.6,4.41,,1.59,1.36,1.6,3.68
+Douglas County2000,CO,2000,175.77,Douglas County,140.74,5.62,,,,,1.36,1.6,3.68
+Douglas County1995,CO,1995,99.58,Douglas County,6.62,5.37,,,,,1.36,1.6,3.68
+Douglas County1990,CO,1990,0.14,Douglas County,140.74,75.51,,,,,1.36,1.6,3.68
+Douglas County1985,CO,1985,36.76,Douglas County,140.74,75.51,,,,,1.36,1.6,3.68
+Eagle County2015,CO,2015,53.61,Eagle County,17.97,20.9,129.17,18.74,1.25,2.16,0.09,0,1.48
+Eagle County2010,CO,2010,52.2,Eagle County,140.74,18.53,123.55,16.61,,1.92,0.08,0,0
+Eagle County2005,CO,2005,47.53,Eagle County,140.74,21.13,143.91,19.46,,1.67,1.36,1.6,3.68
+Eagle County2000,CO,2000,41.66,Eagle County,140.74,18.01,,,,,1.36,1.6,3.68
+Eagle County1995,CO,1995,28.84,Eagle County,24.61,21.59,,,,,1.36,1.6,3.68
+Eagle County1990,CO,1990,0.34,Eagle County,140.74,75.51,,,,,1.36,1.6,3.68
+Eagle County1985,CO,1985,18.26,Eagle County,140.74,75.51,,,,,1.36,1.6,3.68
+Elbert County2015,CO,2015,24.74,Elbert County,3.96,6.48,14.92,6.43,0.06,0.05,0.26,0,0
+Elbert County2010,CO,2010,23.09,Elbert County,140.74,8.57,10.55,8.52,,0.05,0.57,0,0
+Elbert County2005,CO,2005,22.79,Elbert County,140.74,5.38,33.11,5.28,,0.1,1.36,1.6,3.68
+Elbert County2000,CO,2000,19.87,Elbert County,140.74,13.39,,,,,1.36,1.6,3.68
+Elbert County1995,CO,1995,14.56,Elbert County,18.33,13.51,,,,,1.36,1.6,3.68
+Elbert County1990,CO,1990,0.75,Elbert County,140.74,75.51,,,,,1.36,1.6,3.68
+Elbert County1985,CO,1985,8.49,Elbert County,140.74,75.51,,,,,1.36,1.6,3.68
+El Paso County2015,CO,2015,674.47,El Paso County,8.41,12.05,6.4,9.92,2.58,2.13,0.23,0,0
+El Paso County2010,CO,2010,622.26,El Paso County,140.74,7.2,28.55,4.6,,2.6,0.4,0,0
+El Paso County2005,CO,2005,565.58,El Paso County,140.74,13.44,31.9,10.63,,2.81,1.36,1.6,3.68
+El Paso County2000,CO,2000,516.93,El Paso County,140.74,8.3,,,,,1.36,1.6,3.68
+El Paso County1995,CO,1995,465.8,El Paso County,14.15,11.29,,,,,1.36,1.6,3.68
+El Paso County1990,CO,1990,0.65,El Paso County,140.74,75.51,,,,,1.36,1.6,3.68
+El Paso County1985,CO,1985,368.75,El Paso County,140.74,75.51,,,,,1.36,1.6,3.68
+Fremont County2015,CO,2015,46.69,Fremont County,9.33,13.51,95.01,13.27,0.37,0.24,0.28,0.01,0
+Fremont County2010,CO,2010,46.82,Fremont County,140.74,15.61,116.21,15.31,,0.3,0.28,0,0
+Fremont County2005,CO,2005,47.77,Fremont County,140.74,16.03,125.62,15.79,,0.24,1.36,1.6,3.68
+Fremont County2000,CO,2000,46.15,Fremont County,140.74,22.49,,,,,1.36,1.6,3.68
+Fremont County1995,CO,1995,39.79,Fremont County,47.69,12.64,,,,,1.36,1.6,3.68
+Fremont County1990,CO,1990,0.23,Fremont County,140.74,75.51,,,,,1.36,1.6,3.68
+Fremont County1985,CO,1985,30.3,Fremont County,140.74,75.51,,,,,1.36,1.6,3.68
+Garfield County2015,CO,2015,58.1,Garfield County,60.16,56.22,232.43,55.59,0.73,0.63,0.28,0.19,17.81
+Garfield County2010,CO,2010,56.39,Garfield County,140.74,44.47,240.08,43.83,,0.64,0.28,0.02,2.51
+Garfield County2005,CO,2005,49.81,Garfield County,140.74,50.93,332.02,50.3,,0.63,1.36,1.6,3.68
+Garfield County2000,CO,2000,43.79,Garfield County,140.74,43.54,,,,,1.36,1.6,3.68
+Garfield County1995,CO,1995,35.34,Garfield County,109.09,63.19,,,,,1.36,1.6,3.68
+Garfield County1990,CO,1990,11.3,Garfield County,140.74,75.51,,,,,1.36,1.6,3.68
+Garfield County1985,CO,1985,25.15,Garfield County,140.74,75.51,,,,,1.36,1.6,3.68
+Gilpin County2015,CO,2015,5.83,Gilpin County,0,0,0,0,0,0,0,0,0
+Gilpin County2010,CO,2010,5.44,Gilpin County,140.74,0,0,0,,0,0,0.51,2.16
+Gilpin County2005,CO,2005,4.93,Gilpin County,140.74,0,0,0,,0,1.36,1.6,3.68
+Gilpin County2000,CO,2000,4.76,Gilpin County,140.74,0,,,,,1.36,1.6,3.68
+Gilpin County1995,CO,1995,3.58,Gilpin County,0,0,,,,,1.36,1.6,3.68
+Gilpin County1990,CO,1990,0,Gilpin County,140.74,75.51,,,,,1.36,1.6,3.68
+Gilpin County1985,CO,1985,2.76,Gilpin County,140.74,75.51,,,,,1.36,1.6,3.68
+Grand County2015,CO,2015,14.62,Grand County,37.13,44.11,182.83,43.69,0.41,0.42,0.17,0,38.82
+Grand County2010,CO,2010,14.84,Grand County,140.74,41.3,183.6,40.98,,0.32,0.19,0,0
+Grand County2005,CO,2005,13.21,Grand County,140.74,30.78,226.17,30.36,,0.42,1.36,1.6,3.68
+Grand County2000,CO,2000,12.44,Grand County,140.74,27.41,,,,,1.36,1.6,3.68
+Grand County1995,CO,1995,9.19,Grand County,40.74,47.88,,,,,1.36,1.6,3.68
+Grand County1990,CO,1990,4.23,Grand County,140.74,75.51,,,,,1.36,1.6,3.68
+Grand County1985,CO,1985,9.66,Grand County,140.74,75.51,,,,,1.36,1.6,3.68
+Gunnison County2015,CO,2015,16.07,Gunnison County,58.37,57.95,520.24,57.77,0.19,0.18,0.23,2.84,6.06
+Gunnison County2010,CO,2010,15.32,Gunnison County,140.74,56.79,553,56.61,,0.18,0.19,1.39,4.61
+Gunnison County2005,CO,2005,14.23,Gunnison County,140.74,41.66,550.78,41.48,,0.18,1.36,1.6,3.68
+Gunnison County2000,CO,2000,13.96,Gunnison County,140.74,46.76,,,,,1.36,1.6,3.68
+Gunnison County1995,CO,1995,11.93,Gunnison County,69.1,61.88,,,,,1.36,1.6,3.68
+Gunnison County1990,CO,1990,0.52,Gunnison County,140.74,75.51,,,,,1.36,1.6,3.68
+Gunnison County1985,CO,1985,11.17,Gunnison County,140.74,75.51,,,,,1.36,1.6,3.68
+Hinsdale County2015,CO,2015,0.77,Hinsdale County,11.94,5.88,20.45,5.88,0,0,0.02,0,8.5
+Hinsdale County2010,CO,2010,0.84,Hinsdale County,140.74,6.1,26.97,6.1,,0,0,0.51,2.16
+Hinsdale County2005,CO,2005,0.77,Hinsdale County,140.74,5.33,69.75,5.33,,0,1.36,1.6,3.68
+Hinsdale County2000,CO,2000,0.79,Hinsdale County,140.74,2.44,,,,,1.36,1.6,3.68
+Hinsdale County1995,CO,1995,0.65,Hinsdale County,4.94,5.57,,,,,1.36,1.6,3.68
+Hinsdale County1990,CO,1990,0.2,Hinsdale County,140.74,75.51,,,,,1.36,1.6,3.68
+Hinsdale County1985,CO,1985,0.41,Hinsdale County,140.74,75.51,,,,,1.36,1.6,3.68
+Huerfano County2015,CO,2015,6.49,Huerfano County,9.03,12.74,37.77,12.62,0.17,0.12,0.06,0,0.25
+Huerfano County2010,CO,2010,6.71,Huerfano County,140.74,16.44,34.94,16.32,,0.12,0.17,0,0
+Huerfano County2005,CO,2005,7.77,Huerfano County,140.74,17.05,35.11,16.93,,0.12,1.36,1.6,3.68
+Huerfano County2000,CO,2000,7.86,Huerfano County,140.74,15.77,,,,,1.36,1.6,3.68
+Huerfano County1995,CO,1995,6.36,Huerfano County,41.47,19.6,,,,,1.36,1.6,3.68
+Huerfano County1990,CO,1990,0.36,Huerfano County,140.74,75.51,,,,,1.36,1.6,3.68
+Huerfano County1985,CO,1985,7.25,Huerfano County,140.74,75.51,,,,,1.36,1.6,3.68
+Jackson County2015,CO,2015,1.36,Jackson County,63.93,90.39,340.4,90.39,0,0,0.14,0,2.15
+Jackson County2010,CO,2010,1.39,Jackson County,140.74,112.27,347.13,112.27,,0,0.14,0,0
+Jackson County2005,CO,2005,1.45,Jackson County,140.74,114.41,427.76,114.41,,0,1.36,1.6,3.68
+Jackson County2000,CO,2000,1.58,Jackson County,140.74,104.37,,,,,1.36,1.6,3.68
+Jackson County1995,CO,1995,1.54,Jackson County,138.33,85.53,,,,,1.36,1.6,3.68
+Jackson County1990,CO,1990,3.16,Jackson County,140.74,75.51,,,,,1.36,1.6,3.68
+Jackson County1985,CO,1985,1.64,Jackson County,140.74,75.51,,,,,1.36,1.6,3.68
+Jefferson County2015,CO,2015,565.52,Jefferson County,2.89,3.31,18.55,1.47,1.03,1.84,0.06,0,0
+Jefferson County2010,CO,2010,534.54,Jefferson County,140.74,5.21,10.65,2.41,,2.8,0.06,0,1.73
+Jefferson County2005,CO,2005,526.8,Jefferson County,140.74,6.89,27.5,4.36,,2.53,1.36,1.6,3.68
+Jefferson County2000,CO,2000,527.06,Jefferson County,140.74,7.14,,,,,1.36,1.6,3.68
+Jefferson County1995,CO,1995,484.87,Jefferson County,3.84,2.42,,,,,1.36,1.6,3.68
+Jefferson County1990,CO,1990,0.07,Jefferson County,140.74,75.51,,,,,1.36,1.6,3.68
+Jefferson County1985,CO,1985,415.1,Jefferson County,140.74,75.51,,,,,1.36,1.6,3.68
+Kiowa County2015,CO,2015,1.42,Kiowa County,1.63,4.85,1.6,4.8,0.09,0.05,0.1,0,0
+Kiowa County2010,CO,2010,1.4,Kiowa County,140.74,4.68,4.79,4.63,,0.05,0.26,0,0
+Kiowa County2005,CO,2005,1.42,Kiowa County,140.74,4.66,8.03,4.61,,0.05,1.36,1.6,3.68
+Kiowa County2000,CO,2000,1.62,Kiowa County,140.74,8.75,,,,,1.36,1.6,3.68
+Kiowa County1995,CO,1995,1.63,Kiowa County,8.27,5.4,,,,,1.36,1.6,3.68
+Kiowa County1990,CO,1990,0.46,Kiowa County,140.74,75.51,,,,,1.36,1.6,3.68
+Kiowa County1985,CO,1985,1.89,Kiowa County,140.74,75.51,,,,,1.36,1.6,3.68
+Kit Carson County2015,CO,2015,7.76,Kit Carson County,92.94,133.69,110.87,133.68,0.01,0.01,1.66,0,0
+Kit Carson County2010,CO,2010,8.27,Kit Carson County,140.74,157.72,126.49,157.71,,0.01,1.93,0,0
+Kit Carson County2005,CO,2005,7.64,Kit Carson County,140.74,162.85,281,162.82,,0.03,1.36,1.6,3.68
+Kit Carson County2000,CO,2000,8.01,Kit Carson County,140.74,147.61,,,,,1.36,1.6,3.68
+Kit Carson County1995,CO,1995,7.3,Kit Carson County,145.07,150.89,,,,,1.36,1.6,3.68
+Kit Carson County1990,CO,1990,1.82,Kit Carson County,140.74,75.51,,,,,1.36,1.6,3.68
+Kit Carson County1985,CO,1985,7.79,Kit Carson County,140.74,75.51,,,,,1.36,1.6,3.68
+Lake County2015,CO,2015,7.49,Lake County,1.58,2.16,13.99,2.14,0.01,0.02,0.01,3.29,0
+Lake County2010,CO,2010,7.31,Lake County,140.74,1.47,11.45,1.45,,0.02,0,0.28,0
+Lake County2005,CO,2005,7.74,Lake County,140.74,1.82,12.69,1.8,,0.02,1.36,1.6,3.68
+Lake County2000,CO,2000,7.81,Lake County,140.74,34.06,,,,,1.36,1.6,3.68
+Lake County1995,CO,1995,6.3,Lake County,3.19,6.42,,,,,1.36,1.6,3.68
+Lake County1990,CO,1990,0,Lake County,140.74,75.51,,,,,1.36,1.6,3.68
+Lake County1985,CO,1985,6.98,Lake County,140.74,75.51,,,,,1.36,1.6,3.68
+La Plata County2015,CO,2015,54.69,La Plata County,72.69,75.51,321.82,75.02,0.3,0.49,0.32,0,2.44
+La Plata County2010,CO,2010,51.33,La Plata County,140.74,72.5,320.86,72.09,,0.41,0.34,0,5.79
+La Plata County2005,CO,2005,47.45,La Plata County,140.74,63.26,368.61,62.88,,0.38,1.36,1.6,3.68
+La Plata County2000,CO,2000,43.94,La Plata County,140.74,40.06,,,,,1.36,1.6,3.68
+La Plata County1995,CO,1995,38.31,La Plata County,132.96,94.32,,,,,1.36,1.6,3.68
+La Plata County1990,CO,1990,10.7,La Plata County,140.74,75.51,,,,,1.36,1.6,3.68
+La Plata County1985,CO,1985,30.84,La Plata County,140.74,75.51,,,,,1.36,1.6,3.68
+Larimer County2015,CO,2015,333.58,Larimer County,44.75,54.14,117.27,52.67,0.89,1.47,0.82,0.66,6.55
+Larimer County2010,CO,2010,299.63,Larimer County,140.74,85.75,361.9,84.1,,1.65,0.97,2.08,18.83
+Larimer County2005,CO,2005,271.93,Larimer County,140.74,84.48,418.87,83.01,,1.47,1.36,1.6,3.68
+Larimer County2000,CO,2000,251.49,Larimer County,140.74,81.47,,,,,1.36,1.6,3.68
+Larimer County1995,CO,1995,217.22,Larimer County,102.04,75.19,,,,,1.36,1.6,3.68
+Larimer County1990,CO,1990,1.27,Larimer County,140.74,75.51,,,,,1.36,1.6,3.68
+Larimer County1985,CO,1985,170.28,Larimer County,140.74,75.51,,,,,1.36,1.6,3.68
+Las Animas County2015,CO,2015,14.06,Las Animas County,18.68,21.2,21.09,21.17,0.05,0.03,0.53,0,0
+Las Animas County2010,CO,2010,15.51,Las Animas County,140.74,21.18,66.74,21.05,,0.13,0.6,0,0
+Las Animas County2005,CO,2005,15.45,Las Animas County,140.74,24.92,62.47,24.89,,0.03,1.36,1.6,3.68
+Las Animas County2000,CO,2000,15.21,Las Animas County,140.74,23.37,,,,,1.36,1.6,3.68
+Las Animas County1995,CO,1995,14.27,Las Animas County,52.05,27.16,,,,,1.36,1.6,3.68
+Las Animas County1990,CO,1990,1.45,Las Animas County,140.74,75.51,,,,,1.36,1.6,3.68
+Las Animas County1985,CO,1985,14.29,Las Animas County,140.74,75.51,,,,,1.36,1.6,3.68
+Lincoln County2015,CO,2015,5.56,Lincoln County,1.56,7.03,4.43,6.98,0.05,0.05,0.48,0,0
+Lincoln County2010,CO,2010,5.47,Lincoln County,140.74,4.72,3.34,4.67,,0.05,0.61,0,0
+Lincoln County2005,CO,2005,5.62,Lincoln County,140.74,4.65,4.79,4.6,,0.05,1.36,1.6,3.68
+Lincoln County2000,CO,2000,6.09,Lincoln County,140.74,7.22,,,,,1.36,1.6,3.68
+Lincoln County1995,CO,1995,5.6,Lincoln County,10.1,7.9,,,,,1.36,1.6,3.68
+Lincoln County1990,CO,1990,0.96,Lincoln County,140.74,75.51,,,,,1.36,1.6,3.68
+Lincoln County1985,CO,1985,4.65,Lincoln County,140.74,75.51,,,,,1.36,1.6,3.68
+Logan County2015,CO,2015,22.04,Logan County,116.99,102.53,142.72,102.42,0.18,0.11,2.43,0,0.33
+Logan County2010,CO,2010,22.71,Logan County,140.74,112.38,157.38,112.27,,0.11,2.37,0,0.3
+Logan County2005,CO,2005,20.72,Logan County,140.74,103.75,284.23,103.64,,0.11,1.36,1.6,3.68
+Logan County2000,CO,2000,20.5,Logan County,140.74,118.89,,,,,1.36,1.6,3.68
+Logan County1995,CO,1995,17.87,Logan County,163.02,108.44,,,,,1.36,1.6,3.68
+Logan County1990,CO,1990,1.48,Logan County,140.74,75.51,,,,,1.36,1.6,3.68
+Logan County1985,CO,1985,19.82,Logan County,140.74,75.51,,,,,1.36,1.6,3.68
+Mesa County2015,CO,2015,148.51,Mesa County,107.58,87.25,755.23,86.36,1.78,0.89,0.33,0,73.26
+Mesa County2010,CO,2010,146.72,Mesa County,140.74,82.26,740.65,81.49,,0.77,0.46,0,0
+Mesa County2005,CO,2005,129.87,Mesa County,140.74,85.9,864.45,85.01,,0.89,1.36,1.6,3.68
+Mesa County2000,CO,2000,116.26,Mesa County,140.74,89.72,,,,,1.36,1.6,3.68
+Mesa County1995,CO,1995,106.55,Mesa County,174.16,102.7,,,,,1.36,1.6,3.68
+Mesa County1990,CO,1990,4.93,Mesa County,140.74,75.51,,,,,1.36,1.6,3.68
+Mesa County1985,CO,1985,88.58,Mesa County,140.74,75.51,,,,,1.36,1.6,3.68
+Mineral County2015,CO,2015,0.73,Mineral County,3.21,1.46,7.02,1.46,0,0,0,0,0
+Mineral County2010,CO,2010,0.71,Mineral County,140.74,1.53,15.61,1.53,,0,0,0.51,2.16
+Mineral County2005,CO,2005,0.93,Mineral County,140.74,2.06,21.32,2.06,,0,1.36,1.6,3.68
+Mineral County2000,CO,2000,0.83,Mineral County,140.74,0,,,,,1.36,1.6,3.68
+Mineral County1995,CO,1995,0.63,Mineral County,0.72,0.99,,,,,1.36,1.6,3.68
+Mineral County1990,CO,1990,1.47,Mineral County,140.74,75.51,,,,,1.36,1.6,3.68
+Mineral County1985,CO,1985,0.8,Mineral County,140.74,75.51,,,,,1.36,1.6,3.68
+Moffat County2015,CO,2015,12.94,Moffat County,18.23,30.16,120.73,30,0.19,0.16,0.45,0,2.82
+Moffat County2010,CO,2010,13.8,Moffat County,140.74,26.89,151.09,26.73,,0.16,0.45,0,0.51
+Moffat County2005,CO,2005,13.42,Moffat County,140.74,20.68,148.49,20.52,,0.16,1.36,1.6,3.68
+Moffat County2000,CO,2000,13.18,Moffat County,140.74,36.37,,,,,1.36,1.6,3.68
+Moffat County1995,CO,1995,12.14,Moffat County,45.16,34.14,,,,,1.36,1.6,3.68
+Moffat County1990,CO,1990,0.87,Moffat County,140.74,75.51,,,,,1.36,1.6,3.68
+Moffat County1985,CO,1985,12.61,Moffat County,140.74,75.51,,,,,1.36,1.6,3.68
+Montezuma County2015,CO,2015,26.17,Montezuma County,75.77,73.25,184.77,73.2,0.08,0.05,0.31,0,1.77
+Montezuma County2010,CO,2010,25.54,Montezuma County,140.74,71.25,245.1,71.15,,0.1,0.29,0,4.09
+Montezuma County2005,CO,2005,24.78,Montezuma County,140.74,60.35,246.46,60.25,,0.1,1.36,1.6,3.68
+Montezuma County2000,CO,2000,23.83,Montezuma County,140.74,56.33,,,,,1.36,1.6,3.68
+Montezuma County1995,CO,1995,21.59,Montezuma County,117.93,70.54,,,,,1.36,1.6,3.68
+Montezuma County1990,CO,1990,6.74,Montezuma County,140.74,75.51,,,,,1.36,1.6,3.68
+Montezuma County1985,CO,1985,18.03,Montezuma County,140.74,75.51,,,,,1.36,1.6,3.68
+Montrose County2015,CO,2015,40.95,Montrose County,105.41,97.48,670.56,97.18,0.57,0.3,0.44,0,10.8
+Montrose County2010,CO,2010,41.28,Montrose County,140.74,97.77,689.04,97.42,,0.35,0.68,0,0
+Montrose County2005,CO,2005,37.48,Montrose County,140.74,96.64,679.13,96.29,,0.35,1.36,1.6,3.68
+Montrose County2000,CO,2000,33.43,Montrose County,140.74,81.65,,,,,1.36,1.6,3.68
+Montrose County1995,CO,1995,28.83,Montrose County,170.6,95.7,,,,,1.36,1.6,3.68
+Montrose County1990,CO,1990,28.01,Montrose County,140.74,75.51,,,,,1.36,1.6,3.68
+Montrose County1985,CO,1985,25.57,Montrose County,140.74,75.51,,,,,1.36,1.6,3.68
+Morgan County2015,CO,2015,28.36,Morgan County,91.59,109.7,122.23,109.52,0.25,0.18,3.29,0,0
+Morgan County2010,CO,2010,28.16,Morgan County,140.74,137.2,164.84,137.02,,0.18,3.28,0.77,3.24
+Morgan County2005,CO,2005,28,Morgan County,140.74,145.07,278.56,144.89,,0.18,1.36,1.6,3.68
+Morgan County2000,CO,2000,27.17,Morgan County,140.74,166.62,,,,,1.36,1.6,3.68
+Morgan County1995,CO,1995,23.73,Morgan County,177.35,134.72,,,,,1.36,1.6,3.68
+Morgan County1990,CO,1990,2.83,Morgan County,140.74,75.51,,,,,1.36,1.6,3.68
+Morgan County1985,CO,1985,22.83,Morgan County,140.74,75.51,,,,,1.36,1.6,3.68
+Otero County2015,CO,2015,18.34,Otero County,78.85,57.38,348.87,57.28,0.2,0.1,0.88,0,0
+Otero County2010,CO,2010,18.83,Otero County,140.74,64.51,431.23,64.41,,0.1,0.9,0,0
+Otero County2005,CO,2005,19.5,Otero County,140.74,66.87,387.4,66.77,,0.1,1.36,1.6,3.68
+Otero County2000,CO,2000,20.31,Otero County,140.74,64.31,,,,,1.36,1.6,3.68
+Otero County1995,CO,1995,20.79,Otero County,177.81,64.41,,,,,1.36,1.6,3.68
+Otero County1990,CO,1990,1.01,Otero County,140.74,75.51,,,,,1.36,1.6,3.68
+Otero County1985,CO,1985,22.21,Otero County,140.74,75.51,,,,,1.36,1.6,3.68
+Ouray County2015,CO,2015,4.69,Ouray County,13.97,14.77,94.04,14.72,0.05,0.05,0.08,0,0.49
+Ouray County2010,CO,2010,4.44,Ouray County,140.74,16.04,103.07,15.94,,0.1,0.07,0.77,3.24
+Ouray County2005,CO,2005,4.26,Ouray County,140.74,14.63,102.9,14.53,,0.1,1.36,1.6,3.68
+Ouray County2000,CO,2000,3.74,Ouray County,140.74,16.81,,,,,1.36,1.6,3.68
+Ouray County1995,CO,1995,3.03,Ouray County,11.78,14.93,,,,,1.36,1.6,3.68
+Ouray County1990,CO,1990,0.23,Ouray County,140.74,75.51,,,,,1.36,1.6,3.68
+Ouray County1985,CO,1985,2.01,Ouray County,140.74,75.51,,,,,1.36,1.6,3.68
+Park County2015,CO,2015,16.51,Park County,0.22,0.89,33.64,0.89,0,0,0.1,0,3.23
+Park County2010,CO,2010,16.21,Park County,140.74,5.74,22.16,5.74,,0,0.01,0,0
+Park County2005,CO,2005,16.95,Park County,140.74,30.26,19.32,30.26,,0,1.36,1.6,3.68
+Park County2000,CO,2000,14.52,Park County,140.74,16.25,,,,,1.36,1.6,3.68
+Park County1995,CO,1995,10.59,Park County,3.09,8.3,,,,,1.36,1.6,3.68
+Park County1990,CO,1990,0.2,Park County,140.74,75.51,,,,,1.36,1.6,3.68
+Park County1985,CO,1985,6.06,Park County,140.74,75.51,,,,,1.36,1.6,3.68
+Phillips County2015,CO,2015,4.35,Phillips County,53.39,68.13,73.56,67.96,0.04,0.17,0.38,0,0
+Phillips County2010,CO,2010,4.44,Phillips County,140.74,66.69,57.33,66.64,,0.05,0.4,0,0
+Phillips County2005,CO,2005,4.59,Phillips County,140.74,66.86,101.51,66.76,,0.1,1.36,1.6,3.68
+Phillips County2000,CO,2000,4.48,Phillips County,140.74,81.16,,,,,1.36,1.6,3.68
+Phillips County1995,CO,1995,4.31,Phillips County,76.3,75.38,,,,,1.36,1.6,3.68
+Phillips County1990,CO,1990,0.47,Phillips County,140.74,75.51,,,,,1.36,1.6,3.68
+Phillips County1985,CO,1985,4.53,Phillips County,140.74,75.51,,,,,1.36,1.6,3.68
+Pitkin County2015,CO,2015,17.79,Pitkin County,11.71,11.15,117.02,10.8,0.29,0.35,0.05,0,0
+Pitkin County2010,CO,2010,17.15,Pitkin County,140.74,9.72,116.05,9.37,,0.35,0,0,0
+Pitkin County2005,CO,2005,14.91,Pitkin County,140.74,13.51,126.22,13.29,,0.22,1.36,1.6,3.68
+Pitkin County2000,CO,2000,14.87,Pitkin County,140.74,12.03,,,,,1.36,1.6,3.68
+Pitkin County1995,CO,1995,13.59,Pitkin County,6.91,13.78,,,,,1.36,1.6,3.68
+Pitkin County1990,CO,1990,3.7,Pitkin County,140.74,75.51,,,,,1.36,1.6,3.68
+Pitkin County1985,CO,1985,12.14,Pitkin County,140.74,75.51,,,,,1.36,1.6,3.68
+Prowers County2015,CO,2015,11.95,Prowers County,104,111.6,110.39,111.55,0.08,0.05,1.24,0,0
+Prowers County2010,CO,2010,12.55,Prowers County,140.74,128.09,143.8,128.04,,0.05,1.73,0,0
+Prowers County2005,CO,2005,13.89,Prowers County,140.74,129.15,484.16,129.1,,0.05,1.36,1.6,3.68
+Prowers County2000,CO,2000,14.48,Prowers County,140.74,109.74,,,,,1.36,1.6,3.68
+Prowers County1995,CO,1995,13.59,Prowers County,305.96,124.77,,,,,1.36,1.6,3.68
+Prowers County1990,CO,1990,1.45,Prowers County,140.74,75.51,,,,,1.36,1.6,3.68
+Prowers County1985,CO,1985,14.14,Prowers County,140.74,75.51,,,,,1.36,1.6,3.68
+Pueblo County2015,CO,2015,163.59,Pueblo County,32.66,31.95,264.7,31.12,1.46,0.83,0.21,0,3.75
+Pueblo County2010,CO,2010,159.06,Pueblo County,140.74,27.13,153.59,26.49,,0.64,0.59,0,0.39
+Pueblo County2005,CO,2005,151.32,Pueblo County,140.74,30.92,123.88,30.07,,0.85,1.36,1.6,3.68
+Pueblo County2000,CO,2000,141.47,Pueblo County,140.74,33.23,,,,,1.36,1.6,3.68
+Pueblo County1995,CO,1995,129.76,Pueblo County,58.74,29.14,,,,,1.36,1.6,3.68
+Pueblo County1990,CO,1990,0.87,Pueblo County,140.74,75.51,,,,,1.36,1.6,3.68
+Pueblo County1985,CO,1985,127.02,Pueblo County,140.74,75.51,,,,,1.36,1.6,3.68
+Rio Blanco County2015,CO,2015,6.57,Rio Blanco County,35.47,32.48,135.29,32.32,0.2,0.16,0.18,0,0
+Rio Blanco County2010,CO,2010,6.67,Rio Blanco County,140.74,30.83,246.64,30.72,,0.11,0.34,0.51,4.43
+Rio Blanco County2005,CO,2005,5.97,Rio Blanco County,140.74,47.64,226.94,47.53,,0.11,1.36,1.6,3.68
+Rio Blanco County2000,CO,2000,5.99,Rio Blanco County,140.74,32.64,,,,,1.36,1.6,3.68
+Rio Blanco County1995,CO,1995,6.47,Rio Blanco County,27.54,29.8,,,,,1.36,1.6,3.68
+Rio Blanco County1990,CO,1990,9.19,Rio Blanco County,140.74,75.51,,,,,1.36,1.6,3.68
+Rio Blanco County1985,CO,1985,6.02,Rio Blanco County,140.74,75.51,,,,,1.36,1.6,3.68
+Rio Grande County2015,CO,2015,11.54,Rio Grande County,72.16,112.21,556.89,112.06,0.1,0.15,0.19,2.17,0
+Rio Grande County2010,CO,2010,11.98,Rio Grande County,140.74,114.81,577.09,114.66,,0.15,0.21,0,0
+Rio Grande County2005,CO,2005,12.23,Rio Grande County,140.74,135.84,727.11,135.69,,0.15,1.36,1.6,3.68
+Rio Grande County2000,CO,2000,12.41,Rio Grande County,140.74,143.25,,,,,1.36,1.6,3.68
+Rio Grande County1995,CO,1995,11.26,Rio Grande County,165.87,124.62,,,,,1.36,1.6,3.68
+Rio Grande County1990,CO,1990,0.28,Rio Grande County,140.74,75.51,,,,,1.36,1.6,3.68
+Rio Grande County1985,CO,1985,11.46,Rio Grande County,140.74,75.51,,,,,1.36,1.6,3.68
+Routt County2015,CO,2015,24.13,Routt County,47.6,52.34,171.19,52.01,0.37,0.33,0.51,0.03,3.23
+Routt County2010,CO,2010,23.51,Routt County,140.74,49.23,191.22,48.91,,0.32,0.32,0.03,2.25
+Routt County2005,CO,2005,21.31,Routt County,140.74,52.6,188.59,52.22,,0.38,1.36,1.6,3.68
+Routt County2000,CO,2000,19.69,Routt County,140.74,48.55,,,,,1.36,1.6,3.68
+Routt County1995,CO,1995,16.71,Routt County,64.77,59.91,,,,,1.36,1.6,3.68
+Routt County1990,CO,1990,6.93,Routt County,140.74,75.51,,,,,1.36,1.6,3.68
+Routt County1985,CO,1985,14.67,Routt County,140.74,75.51,,,,,1.36,1.6,3.68
+Saguache County2015,CO,2015,6.25,Saguache County,84.05,138.64,366.19,138.59,0.05,0.05,0.28,0,0.04
+Saguache County2010,CO,2010,6.11,Saguache County,140.74,124.87,269.36,124.82,,0.05,0.25,0,0
+Saguache County2005,CO,2005,7.03,Saguache County,140.74,118.65,507.46,118.6,,0.05,1.36,1.6,3.68
+Saguache County2000,CO,2000,5.92,Saguache County,140.74,209.89,,,,,1.36,1.6,3.68
+Saguache County1995,CO,1995,5.51,Saguache County,173.42,117.63,,,,,1.36,1.6,3.68
+Saguache County1990,CO,1990,0.42,Saguache County,140.74,75.51,,,,,1.36,1.6,3.68
+Saguache County1985,CO,1985,3.95,Saguache County,140.74,75.51,,,,,1.36,1.6,3.68
+San Juan County2015,CO,2015,0.7,San Juan County,0,0,0,0,0,0,0,0,0
+San Juan County2010,CO,2010,0.7,San Juan County,140.74,0,0,0,,0,0,0.26,1.08
+San Juan County2005,CO,2005,0.58,San Juan County,140.74,0,0,0,,0,1.36,1.6,3.68
+San Juan County2000,CO,2000,0.56,San Juan County,140.74,0,,,,,1.36,1.6,3.68
+San Juan County1995,CO,1995,0.55,San Juan County,0,0,,,,,1.36,1.6,3.68
+San Juan County1990,CO,1990,0,San Juan County,140.74,75.51,,,,,1.36,1.6,3.68
+San Juan County1985,CO,1985,0.79,San Juan County,140.74,75.51,,,,,1.36,1.6,3.68
+San Miguel County2015,CO,2015,7.88,San Miguel County,24.38,23.22,47.02,23.14,0.02,0.08,0.03,0,0.2
+San Miguel County2010,CO,2010,7.36,San Miguel County,140.74,20.7,36.71,20.64,,0.06,0.09,0,0
+San Miguel County2005,CO,2005,7.21,San Miguel County,140.74,10,27.27,9.92,,0.08,1.36,1.6,3.68
+San Miguel County2000,CO,2000,6.59,San Miguel County,140.74,1.86,,,,,1.36,1.6,3.68
+San Miguel County1995,CO,1995,4.93,San Miguel County,23.7,21.15,,,,,1.36,1.6,3.68
+San Miguel County1990,CO,1990,0.32,San Miguel County,140.74,75.51,,,,,1.36,1.6,3.68
+San Miguel County1985,CO,1985,3.51,San Miguel County,140.74,75.51,,,,,1.36,1.6,3.68
+Sedgwick County2015,CO,2015,2.4,Sedgwick County,36.31,43.45,73.59,43.45,0,0,0.15,0,0
+Sedgwick County2010,CO,2010,2.38,Sedgwick County,140.74,48.03,60.65,48.03,,0,0.16,0,0
+Sedgwick County2005,CO,2005,2.53,Sedgwick County,140.74,48.13,98.42,48.08,,0.05,1.36,1.6,3.68
+Sedgwick County2000,CO,2000,2.75,Sedgwick County,140.74,60.61,,,,,1.36,1.6,3.68
+Sedgwick County1995,CO,1995,2.61,Sedgwick County,57.78,54.07,,,,,1.36,1.6,3.68
+Sedgwick County1990,CO,1990,0.3,Sedgwick County,140.74,75.51,,,,,1.36,1.6,3.68
+Sedgwick County1985,CO,1985,3.12,Sedgwick County,140.74,75.51,,,,,1.36,1.6,3.68
+Summit County2015,CO,2015,30.26,Summit County,6.53,5.82,49.67,5.43,0.22,0.39,0.01,0,0
+Summit County2010,CO,2010,27.99,Summit County,140.74,5.22,60.19,4.81,,0.41,0.03,0,0
+Summit County2005,CO,2005,24.89,Summit County,140.74,6.23,59.05,5.85,,0.38,1.36,1.6,3.68
+Summit County2000,CO,2000,23.55,Summit County,140.74,0,,,,,1.36,1.6,3.68
+Summit County1995,CO,1995,17.2,Summit County,4.49,5.1,,,,,1.36,1.6,3.68
+Summit County1990,CO,1990,0.04,Summit County,140.74,75.51,,,,,1.36,1.6,3.68
+Summit County1985,CO,1985,13.67,Summit County,140.74,75.51,,,,,1.36,1.6,3.68
+Teller County2015,CO,2015,23.39,Teller County,0.7,1.08,2.26,0.98,0.05,0.1,0.03,0,0
+Teller County2010,CO,2010,23.35,Teller County,140.74,0.45,3.89,0.35,,0.1,0,0,0
+Teller County2005,CO,2005,21.92,Teller County,140.74,0.71,3.46,0.61,,0.1,1.36,1.6,3.68
+Teller County2000,CO,2000,20.56,Teller County,140.74,1.81,,,,,1.36,1.6,3.68
+Teller County1995,CO,1995,17.48,Teller County,0.24,1.26,,,,,1.36,1.6,3.68
+Teller County1990,CO,1990,0.04,Teller County,140.74,75.51,,,,,1.36,1.6,3.68
+Teller County1985,CO,1985,10.63,Teller County,140.74,75.51,,,,,1.36,1.6,3.68
+Washington County2015,CO,2015,4.86,Washington County,24.05,37.99,46.14,37.97,0.04,0.02,0.65,0,0
+Washington County2010,CO,2010,4.81,Washington County,140.74,46.53,70.62,46.51,,0.02,0.72,0,0
+Washington County2005,CO,2005,4.63,Washington County,140.74,48.47,118.37,48.45,,0.02,1.36,1.6,3.68
+Washington County2000,CO,2000,4.93,Washington County,140.74,54.1,,,,,1.36,1.6,3.68
+Washington County1995,CO,1995,4.69,Washington County,35.58,36.66,,,,,1.36,1.6,3.68
+Washington County1990,CO,1990,0.97,Washington County,140.74,75.51,,,,,1.36,1.6,3.68
+Washington County1985,CO,1985,5.35,Washington County,140.74,75.51,,,,,1.36,1.6,3.68
+Weld County2015,CO,2015,285.17,Weld County,269.58,294.88,364.65,293.86,0.7,1.02,8.55,0.18,6.6
+Weld County2010,CO,2010,252.83,Weld County,140.74,392.3,415.77,391.17,,1.13,8.73,0.05,1.23
+Weld County2005,CO,2005,228.94,Weld County,140.74,108.62,725.3,107.6,,1.02,1.36,1.6,3.68
+Weld County2000,CO,2000,180.94,Weld County,140.74,402.12,,,,,1.36,1.6,3.68
+Weld County1995,CO,1995,148.01,Weld County,531.34,367.77,,,,,1.36,1.6,3.68
+Weld County1990,CO,1990,9.5,Weld County,140.74,75.51,,,,,1.36,1.6,3.68
+Weld County1985,CO,1985,136.58,Weld County,140.74,75.51,,,,,1.36,1.6,3.68
+Yuma County2015,CO,2015,10.15,Yuma County,220.28,245.57,322.78,245.46,0.17,0.11,2.72,0,3.25
+Yuma County2010,CO,2010,10.04,Yuma County,140.74,259.46,211.8,259.28,,0.18,3.02,0.21,3.51
+Yuma County2005,CO,2005,9.79,Yuma County,140.74,268.64,390.17,268.54,,0.1,1.36,1.6,3.68
+Yuma County2000,CO,2000,9.84,Yuma County,140.74,243.09,,,,,1.36,1.6,3.68
+Yuma County1995,CO,1995,9.26,Yuma County,248.09,266.63,,,,,1.36,1.6,3.68
+Yuma County1990,CO,1990,2.07,Yuma County,140.74,75.51,,,,,1.36,1.6,3.68
+Yuma County1985,CO,1985,9.96,Yuma County,140.74,75.51,,,,,1.36,1.6,3.68
+Bernalillo County2015,NM,2015,676.69,Bernalillo County,24.28,6.72,36.73,5.17,4.08,1.55,0.18,0.02,0
+Bernalillo County2010,NM,2010,662.56,Bernalillo County,140.74,7.09,40.95,5.76,,1.33,0.22,0,0
+Bernalillo County2005,NM,2005,603.56,Bernalillo County,140.74,5.66,,,,0,1.36,1.6,3.68
+Bernalillo County2000,NM,2000,556.68,Bernalillo County,140.74,8.88,,,,,1.36,1.6,3.68
+Bernalillo County1995,NM,1995,523.03,Bernalillo County,18.62,9.06,,,,,1.36,1.6,3.68
+Bernalillo County1990,NM,1990,0.7,Bernalillo County,140.74,75.51,,,,,1.36,1.6,3.68
+Bernalillo County1985,NM,1985,463.65,Bernalillo County,140.74,75.51,,,,,1.36,1.6,3.68
+Catron County2015,NM,2015,3.46,Catron County,10.49,1.34,19.07,1.34,0,0,0.27,2.16,0
+Catron County2010,NM,2010,3.73,Catron County,140.74,1.34,19.07,1.34,,0,0.4,0.19,0
+Catron County2005,NM,2005,3.41,Catron County,140.74,1.36,,,,0,1.36,1.6,3.68
+Catron County2000,NM,2000,3.54,Catron County,140.74,1.94,,,,,1.36,1.6,3.68
+Catron County1995,NM,1995,2.61,Catron County,2.44,1.49,,,,,1.36,1.6,3.68
+Catron County1990,NM,1990,0.57,Catron County,140.74,75.51,,,,,1.36,1.6,3.68
+Catron County1985,NM,1985,2.72,Catron County,140.74,75.51,,,,,1.36,1.6,3.68
+Chaves County2015,NM,2015,65.76,Chaves County,77.8,49.78,129.92,49.43,0.57,0.35,5.89,1.59,0
+Chaves County2010,NM,2010,65.65,Chaves County,140.74,82.29,215.52,82,,0.29,7.45,1.71,0
+Chaves County2005,NM,2005,61.86,Chaves County,140.74,80.38,,,,0,1.36,1.6,3.68
+Chaves County2000,NM,2000,61.38,Chaves County,140.74,105.32,,,,,1.36,1.6,3.68
+Chaves County1995,NM,1995,61.93,Chaves County,174.93,82.11,,,,,1.36,1.6,3.68
+Chaves County1990,NM,1990,2.79,Chaves County,140.74,75.51,,,,,1.36,1.6,3.68
+Chaves County1985,NM,1985,54.99,Chaves County,140.74,75.51,,,,,1.36,1.6,3.68
+Cibola County2015,NM,2015,27.33,Cibola County,3.25,3.32,4.86,3.01,0.37,0.31,0.15,0,0
+Cibola County2010,NM,2010,27.21,Cibola County,140.74,3.01,4.86,3.01,,0,0.19,0,0
+Cibola County2005,NM,2005,27.62,Cibola County,140.74,3.01,,,,0,1.36,1.6,3.68
+Cibola County2000,NM,2000,25.6,Cibola County,140.74,3.34,,,,,1.36,1.6,3.68
+Cibola County1995,NM,1995,24.85,Cibola County,2.49,3.07,,,,,1.36,1.6,3.68
+Cibola County1990,NM,1990,0.23,Cibola County,140.74,75.51,,,,,1.36,1.6,3.68
+Cibola County1985,NM,1985,23.79,Cibola County,140.74,75.51,,,,,1.36,1.6,3.68
+Colfax County2015,NM,2015,12.41,Colfax County,30.89,19.74,53.99,19.66,0.13,0.08,0.22,0,0
+Colfax County2010,NM,2010,13.75,Colfax County,140.74,16.18,44.43,16.18,,0,0.38,0,0
+Colfax County2005,NM,2005,13.76,Colfax County,140.74,20.36,,,,0,1.36,1.6,3.68
+Colfax County2000,NM,2000,14.19,Colfax County,140.74,21.8,,,,,1.36,1.6,3.68
+Colfax County1995,NM,1995,13.66,Colfax County,17.94,20.31,,,,,1.36,1.6,3.68
+Colfax County1990,NM,1990,0.62,Colfax County,140.74,75.51,,,,,1.36,1.6,3.68
+Colfax County1985,NM,1985,14.48,Colfax County,140.74,75.51,,,,,1.36,1.6,3.68
+Curry County2015,NM,2015,50.4,Curry County,82.91,91.53,127.23,91.28,0.21,0.25,6.33,0,0
+Curry County2010,NM,2010,48.38,Curry County,140.74,107.26,149.13,106.99,,0.27,5.77,0,0
+Curry County2005,NM,2005,45.85,Curry County,140.74,86.74,,,,0,1.36,1.6,3.68
+Curry County2000,NM,2000,45.04,Curry County,140.74,145.43,,,,,1.36,1.6,3.68
+Curry County1995,NM,1995,47.89,Curry County,177.95,139.99,,,,,1.36,1.6,3.68
+Curry County1990,NM,1990,1.14,Curry County,140.74,75.51,,,,,1.36,1.6,3.68
+Curry County1985,NM,1985,43.46,Curry County,140.74,75.51,,,,,1.36,1.6,3.68
+De Baca County2015,NM,2015,1.83,De Baca County,21.45,8.42,36.97,8.42,0,0,0.17,0,0
+De Baca County2010,NM,2010,2.02,De Baca County,140.74,11.63,51.07,11.63,,0,0.35,0,0
+De Baca County2005,NM,2005,2.02,De Baca County,140.74,10.53,,,,0,1.36,1.6,3.68
+De Baca County2000,NM,2000,2.24,De Baca County,140.74,8.64,,,,,1.36,1.6,3.68
+De Baca County1995,NM,1995,2.37,De Baca County,25.7,8.88,,,,,1.36,1.6,3.68
+De Baca County1990,NM,1990,0.36,De Baca County,140.74,75.51,,,,,1.36,1.6,3.68
+De Baca County1985,NM,1985,2.41,De Baca County,140.74,75.51,,,,,1.36,1.6,3.68
+Dona Ana County2015,NM,2015,214.3,Dona Ana County,205.75,69.24,370.7,68.7,1.46,0.54,3.28,0,0
+Dona Ana County2010,NM,2010,209.23,Dona Ana County,140.74,65.71,351.01,65.05,,0.66,3.92,0,0
+Dona Ana County2005,NM,2005,189.44,Dona Ana County,140.74,75.17,,,,0,1.36,1.6,3.68
+Dona Ana County2000,NM,2000,174.68,Dona Ana County,140.74,76.04,,,,,1.36,1.6,3.68
+Dona Ana County1995,NM,1995,158.85,Dona Ana County,196.73,72.24,,,,,1.36,1.6,3.68
+Dona Ana County1990,NM,1990,2.7,Dona Ana County,140.74,75.51,,,,,1.36,1.6,3.68
+Dona Ana County1985,NM,1985,110.74,Dona Ana County,140.74,75.51,,,,,1.36,1.6,3.68
+Eddy County2015,NM,2015,57.58,Eddy County,76,37.03,137.02,36.74,0.47,0.29,1.18,0,0
+Eddy County2010,NM,2010,53.83,Eddy County,140.74,45.16,167.91,45.02,,0.14,1.19,0,0
+Eddy County2005,NM,2005,51.44,Eddy County,140.74,45.05,,,,0,1.36,1.6,3.68
+Eddy County2000,NM,2000,51.66,Eddy County,140.74,54.78,,,,,1.36,1.6,3.68
+Eddy County1995,NM,1995,52.94,Eddy County,134.59,54.98,,,,,1.36,1.6,3.68
+Eddy County1990,NM,1990,0.66,Eddy County,140.74,75.51,,,,,1.36,1.6,3.68
+Eddy County1985,NM,1985,51.22,Eddy County,140.74,75.51,,,,,1.36,1.6,3.68
+Grant County2015,NM,2015,28.61,Grant County,17.65,4.12,31.69,4.05,0.13,0.07,0.29,0,0
+Grant County2010,NM,2010,29.51,Grant County,140.74,4.12,32.27,4.12,,0,0.29,0,0
+Grant County2005,NM,2005,29.75,Grant County,140.74,3.65,,,,0,1.36,1.6,3.68
+Grant County2000,NM,2000,31,Grant County,140.74,3.41,,,,,1.36,1.6,3.68
+Grant County1995,NM,1995,30.26,Grant County,6.17,3.33,,,,,1.36,1.6,3.68
+Grant County1990,NM,1990,0.56,Grant County,140.74,75.51,,,,,1.36,1.6,3.68
+Grant County1985,NM,1985,26.2,Grant County,140.74,75.51,,,,,1.36,1.6,3.68
+Guadalupe County2015,NM,2015,4.37,Guadalupe County,10.15,3.75,18.4,3.72,0.02,0.03,0.24,0,4.32
+Guadalupe County2010,NM,2010,4.69,Guadalupe County,140.74,3.82,18.4,3.72,,0.1,0.35,0.72,4.32
+Guadalupe County2005,NM,2005,4.37,Guadalupe County,140.74,3.68,,,,0,1.36,1.6,3.68
+Guadalupe County2000,NM,2000,4.68,Guadalupe County,140.74,3.64,,,,,1.36,1.6,3.68
+Guadalupe County1995,NM,1995,4.14,Guadalupe County,7.44,3.76,,,,,1.36,1.6,3.68
+Guadalupe County1990,NM,1990,0.46,Guadalupe County,140.74,75.51,,,,,1.36,1.6,3.68
+Guadalupe County1985,NM,1985,4.43,Guadalupe County,140.74,75.51,,,,,1.36,1.6,3.68
+Harding County2015,NM,2015,0.7,Harding County,1.47,1.14,2.26,1.14,0,0,0.21,0,0
+Harding County2010,NM,2010,0.7,Harding County,140.74,1.37,2.74,1.37,,0,0.38,0,0
+Harding County2005,NM,2005,0.74,Harding County,140.74,1.55,,,,0,1.36,1.6,3.68
+Harding County2000,NM,2000,0.81,Harding County,140.74,2.28,,,,,1.36,1.6,3.68
+Harding County1995,NM,1995,0.94,Harding County,2.96,2.63,,,,,1.36,1.6,3.68
+Harding County1990,NM,1990,0.49,Harding County,140.74,75.51,,,,,1.36,1.6,3.68
+Harding County1985,NM,1985,0.97,Harding County,140.74,75.51,,,,,1.36,1.6,3.68
+Hidalgo County2015,NM,2015,4.42,Hidalgo County,29.33,13.82,46.26,13.82,0,0,0.27,0.14,0
+Hidalgo County2010,NM,2010,4.89,Hidalgo County,140.74,17.41,58.31,17.41,,0,0.25,0.14,0
+Hidalgo County2005,NM,2005,5.14,Hidalgo County,140.74,17.29,,,,0,1.36,1.6,3.68
+Hidalgo County2000,NM,2000,5.93,Hidalgo County,140.74,11.62,,,,,1.36,1.6,3.68
+Hidalgo County1995,NM,1995,6.25,Hidalgo County,19.45,10.52,,,,,1.36,1.6,3.68
+Hidalgo County1990,NM,1990,0.5,Hidalgo County,140.74,75.51,,,,,1.36,1.6,3.68
+Hidalgo County1985,NM,1985,5.94,Hidalgo County,140.74,75.51,,,,,1.36,1.6,3.68
+Lea County2015,NM,2015,71.18,Lea County,96.45,47.23,147.1,46.86,0.7,0.37,2.61,0,0
+Lea County2010,NM,2010,64.73,Lea County,140.74,49.36,153.7,48.96,,0.4,1.95,0,0
+Lea County2005,NM,2005,56.72,Lea County,140.74,46.84,,,,0,1.36,1.6,3.68
+Lea County2000,NM,2000,55.51,Lea County,140.74,59.81,,,,,1.36,1.6,3.68
+Lea County1995,NM,1995,56.8,Lea County,93.18,51.34,,,,,1.36,1.6,3.68
+Lea County1990,NM,1990,0.71,Lea County,140.74,75.51,,,,,1.36,1.6,3.68
+Lea County1985,NM,1985,58.12,Lea County,140.74,75.51,,,,,1.36,1.6,3.68
+Lincoln County2015,NM,2015,19.42,Lincoln County,10.72,4.27,17.93,3.88,0.71,0.39,0.31,0,0
+Lincoln County2010,NM,2010,20.5,Lincoln County,140.74,4.22,17.93,3.88,,0.34,0.42,0,0
+Lincoln County2005,NM,2005,21.01,Lincoln County,140.74,4.1,,,,0,1.36,1.6,3.68
+Lincoln County2000,NM,2000,19.41,Lincoln County,140.74,4.05,,,,,1.36,1.6,3.68
+Lincoln County1995,NM,1995,14.75,Lincoln County,13.59,5.62,,,,,1.36,1.6,3.68
+Lincoln County1990,NM,1990,0.5,Lincoln County,140.74,75.51,,,,,1.36,1.6,3.68
+Lincoln County1985,NM,1985,12.47,Lincoln County,140.74,75.51,,,,,1.36,1.6,3.68
+Los Alamos County2015,NM,2015,17.79,Los Alamos County,0.14,0.07,0,0,0.14,0.07,0,0,0
+Los Alamos County2010,NM,2010,17.95,Los Alamos County,140.74,0,0,0,,0,0,0,0
+Los Alamos County2005,NM,2005,18.82,Los Alamos County,140.74,0,,,,0,1.36,1.6,3.68
+Los Alamos County2000,NM,2000,18.34,Los Alamos County,140.74,0,,,,,1.36,1.6,3.68
+Los Alamos County1995,NM,1995,18.71,Los Alamos County,0,0,,,,,1.36,1.6,3.68
+Los Alamos County1990,NM,1990,0,Los Alamos County,140.74,75.51,,,,,1.36,1.6,3.68
+Los Alamos County1985,NM,1985,18.79,Los Alamos County,140.74,75.51,,,,,1.36,1.6,3.68
+Luna County2015,NM,2015,24.52,Luna County,72.58,30.99,103.11,30.92,0.16,0.07,0.35,0,0
+Luna County2010,NM,2010,25.1,Luna County,140.74,31.03,103.27,30.96,,0.07,0.51,0,0
+Luna County2005,NM,2005,26.5,Luna County,140.74,33.17,,,,0,1.36,1.6,3.68
+Luna County2000,NM,2000,25.02,Luna County,140.74,42.3,,,,,1.36,1.6,3.68
+Luna County1995,NM,1995,22.13,Luna County,72.69,45.14,,,,,1.36,1.6,3.68
+Luna County1990,NM,1990,0.47,Luna County,140.74,75.51,,,,,1.36,1.6,3.68
+Luna County1985,NM,1985,17.52,Luna County,140.74,75.51,,,,,1.36,1.6,3.68
+McKinley County2015,NM,2015,76.71,McKinley County,0.66,0.98,0.98,0.92,0.12,0.06,0.42,0,0
+McKinley County2010,NM,2010,71.49,McKinley County,140.74,0.92,0.98,0.92,,0,0.45,0,0
+McKinley County2005,NM,2005,71.92,McKinley County,140.74,0.88,,,,0,1.36,1.6,3.68
+McKinley County2000,NM,2000,74.8,McKinley County,140.74,5.11,,,,,1.36,1.6,3.68
+McKinley County1995,NM,1995,67.56,McKinley County,1.89,3.95,,,,,1.36,1.6,3.68
+McKinley County1990,NM,1990,0.45,McKinley County,140.74,75.51,,,,,1.36,1.6,3.68
+McKinley County1985,NM,1985,59.03,McKinley County,140.74,75.51,,,,,1.36,1.6,3.68
+Mora County2015,NM,2015,4.6,Mora County,6.34,4.29,11.52,4.29,0,0,0.15,0.25,0
+Mora County2010,NM,2010,4.88,Mora County,140.74,4.29,11.52,4.29,,0,0.36,0.2,0
+Mora County2005,NM,2005,5.11,Mora County,140.74,14.88,,,,0,1.36,1.6,3.68
+Mora County2000,NM,2000,5.18,Mora County,140.74,14.83,,,,,1.36,1.6,3.68
+Mora County1995,NM,1995,4.59,Mora County,15.16,14.61,,,,,1.36,1.6,3.68
+Mora County1990,NM,1990,0.25,Mora County,140.74,75.51,,,,,1.36,1.6,3.68
+Mora County1985,NM,1985,4.21,Mora County,140.74,75.51,,,,,1.36,1.6,3.68
+Otero County2015,NM,2015,64.36,Otero County,12.85,8.67,20.19,8.34,0.77,0.33,0.2,0,1.13
+Otero County2010,NM,2010,63.8,Otero County,140.74,8.65,20.22,8.35,,0.3,0.19,0,0
+Otero County2005,NM,2005,63.54,Otero County,140.74,8.61,,,,0,1.36,1.6,3.68
+Otero County2000,NM,2000,62.3,Otero County,140.74,7.86,,,,,1.36,1.6,3.68
+Otero County1995,NM,1995,55.03,Otero County,24.44,8.75,,,,,1.36,1.6,3.68
+Otero County1990,NM,1990,0.28,Otero County,140.74,75.51,,,,,1.36,1.6,3.68
+Otero County1985,NM,1985,47.84,Otero County,140.74,75.51,,,,,1.36,1.6,3.68
+Quay County2015,NM,2015,8.46,Quay County,22.67,11.31,39.21,11.27,0.07,0.04,0.34,0,0
+Quay County2010,NM,2010,9.04,Quay County,140.74,11.36,39.39,11.32,,0.04,0.45,0,0
+Quay County2005,NM,2005,9.26,Quay County,140.74,30.31,,,,0,1.36,1.6,3.68
+Quay County2000,NM,2000,10.16,Quay County,140.74,36.2,,,,,1.36,1.6,3.68
+Quay County1995,NM,1995,10.36,Quay County,54.88,42.89,,,,,1.36,1.6,3.68
+Quay County1990,NM,1990,0.64,Quay County,140.74,75.51,,,,,1.36,1.6,3.68
+Quay County1985,NM,1985,10.78,Quay County,140.74,75.51,,,,,1.36,1.6,3.68
+Rio Arriba County2015,NM,2015,39.47,Rio Arriba County,53.59,30.22,97.32,30.21,0.02,0.01,0.32,3.17,0
+Rio Arriba County2010,NM,2010,40.25,Rio Arriba County,140.74,31.57,101.39,31.47,,0.1,0.36,0.95,0
+Rio Arriba County2005,NM,2005,40.83,Rio Arriba County,140.74,32.15,,,,0,1.36,1.6,3.68
+Rio Arriba County2000,NM,2000,41.19,Rio Arriba County,140.74,31.81,,,,,1.36,1.6,3.68
+Rio Arriba County1995,NM,1995,36.91,Rio Arriba County,29.83,32.06,,,,,1.36,1.6,3.68
+Rio Arriba County1990,NM,1990,0.36,Rio Arriba County,140.74,75.51,,,,,1.36,1.6,3.68
+Rio Arriba County1985,NM,1985,30.05,Rio Arriba County,140.74,75.51,,,,,1.36,1.6,3.68
+Roosevelt County2015,NM,2015,19.12,Roosevelt County,107.89,104.23,165.91,104.2,0.04,0.03,3.92,0,0
+Roosevelt County2010,NM,2010,19.85,Roosevelt County,140.74,104.27,165.94,104.22,,0.05,4.65,0,0
+Roosevelt County2005,NM,2005,18.24,Roosevelt County,140.74,86.35,,,,0,1.36,1.6,3.68
+Roosevelt County2000,NM,2000,18.02,Roosevelt County,140.74,87.34,,,,,1.36,1.6,3.68
+Roosevelt County1995,NM,1995,18.47,Roosevelt County,113.77,89.42,,,,,1.36,1.6,3.68
+Roosevelt County1990,NM,1990,1.32,Roosevelt County,140.74,75.51,,,,,1.36,1.6,3.68
+Roosevelt County1985,NM,1985,15.4,Roosevelt County,140.74,75.51,,,,,1.36,1.6,3.68
+Sandoval County2015,NM,2015,139.39,Sandoval County,25.12,8.53,43.67,8.19,0.98,0.34,0.2,0.97,0
+Sandoval County2010,NM,2010,131.56,Sandoval County,140.74,8.57,43.67,8.19,,0.38,0.12,0.5,0
+Sandoval County2005,NM,2005,107.46,Sandoval County,140.74,9.23,,,,0,1.36,1.6,3.68
+Sandoval County2000,NM,2000,89.91,Sandoval County,140.74,9.35,,,,,1.36,1.6,3.68
+Sandoval County1995,NM,1995,79.8,Sandoval County,15.79,9.08,,,,,1.36,1.6,3.68
+Sandoval County1990,NM,1990,0.38,Sandoval County,140.74,75.51,,,,,1.36,1.6,3.68
+Sandoval County1985,NM,1985,46.4,Sandoval County,140.74,75.51,,,,,1.36,1.6,3.68
+San Juan County2015,NM,2015,118.74,San Juan County,126.99,61.11,199.64,60.74,0.78,0.37,0.33,0,0
+San Juan County2010,NM,2010,130.04,San Juan County,140.74,85.3,279.5,85.05,,0.25,0.28,0,0
+San Juan County2005,NM,2005,126.21,San Juan County,140.74,79.89,,,,0,1.36,1.6,3.68
+San Juan County2000,NM,2000,113.8,San Juan County,140.74,72.66,,,,,1.36,1.6,3.68
+San Juan County1995,NM,1995,100.36,San Juan County,176.29,70.78,,,,,1.36,1.6,3.68
+San Juan County1990,NM,1990,0.5,San Juan County,140.74,75.51,,,,,1.36,1.6,3.68
+San Juan County1985,NM,1985,92.41,San Juan County,140.74,75.51,,,,,1.36,1.6,3.68
+San Miguel County2015,NM,2015,27.97,San Miguel County,18.32,11.28,32.73,11.17,0.16,0.11,0.37,0.72,0
+San Miguel County2010,NM,2010,29.39,San Miguel County,140.74,11.46,32.93,11.23,,0.23,0.53,0.48,0
+San Miguel County2005,NM,2005,29.53,San Miguel County,140.74,10.99,,,,0,1.36,1.6,3.68
+San Miguel County2000,NM,2000,30.13,San Miguel County,140.74,11.15,,,,,1.36,1.6,3.68
+San Miguel County1995,NM,1995,27.91,San Miguel County,10.17,11.72,,,,,1.36,1.6,3.68
+San Miguel County1990,NM,1990,0.54,San Miguel County,140.74,75.51,,,,,1.36,1.6,3.68
+San Miguel County1985,NM,1985,23.05,San Miguel County,140.74,75.51,,,,,1.36,1.6,3.68
+Santa Fe County2015,NM,2015,148.69,Santa Fe County,13.45,11.05,21.25,10.54,1.12,0.51,0.11,0,0
+Santa Fe County2010,NM,2010,144.17,Santa Fe County,140.74,17.36,34.36,17.03,,0.33,0.1,0,0
+Santa Fe County2005,NM,2005,140.86,Santa Fe County,140.74,15.09,,,,0,1.36,1.6,3.68
+Santa Fe County2000,NM,2000,129.29,Santa Fe County,140.74,16.86,,,,,1.36,1.6,3.68
+Santa Fe County1995,NM,1995,116.33,Santa Fe County,17.33,16.37,,,,,1.36,1.6,3.68
+Santa Fe County1990,NM,1990,0.26,Santa Fe County,140.74,75.51,,,,,1.36,1.6,3.68
+Santa Fe County1985,NM,1985,82.66,Santa Fe County,140.74,75.51,,,,,1.36,1.6,3.68
+Sierra County2015,NM,2015,11.28,Sierra County,19.14,5.99,33.69,5.89,0.38,0.1,0.39,0,0
+Sierra County2010,NM,2010,11.99,Sierra County,140.74,7.11,40.2,7.03,,0.08,0.5,0,0
+Sierra County2005,NM,2005,12.82,Sierra County,140.74,7.72,,,,0,1.36,1.6,3.68
+Sierra County2000,NM,2000,13.27,Sierra County,140.74,7.8,,,,,1.36,1.6,3.68
+Sierra County1995,NM,1995,10.68,Sierra County,20.63,9.06,,,,,1.36,1.6,3.68
+Sierra County1990,NM,1990,0.42,Sierra County,140.74,75.51,,,,,1.36,1.6,3.68
+Sierra County1985,NM,1985,9.08,Sierra County,140.74,75.51,,,,,1.36,1.6,3.68
+Socorro County2015,NM,2015,17.26,Socorro County,66.45,18.11,120.18,18.03,0.22,0.08,1.11,0,0
+Socorro County2010,NM,2010,17.87,Socorro County,140.74,18.9,125.98,18.9,,0,0.94,0,0
+Socorro County2005,NM,2005,18.15,Socorro County,140.74,21.97,,,,0,1.36,1.6,3.68
+Socorro County2000,NM,2000,18.08,Socorro County,140.74,20.19,,,,,1.36,1.6,3.68
+Socorro County1995,NM,1995,15.85,Socorro County,51.66,19.08,,,,,1.36,1.6,3.68
+Socorro County1990,NM,1990,0.63,Socorro County,140.74,75.51,,,,,1.36,1.6,3.68
+Socorro County1985,NM,1985,13.65,Socorro County,140.74,75.51,,,,,1.36,1.6,3.68
+Taos County2015,NM,2015,32.91,Taos County,45.65,27.06,82.2,26.93,0.15,0.13,0.1,9.65,0
+Taos County2010,NM,2010,32.94,Taos County,140.74,27.02,82.33,26.97,,0.05,0.1,10.9,0
+Taos County2005,NM,2005,31.72,Taos County,140.74,29.19,,,,0,1.36,1.6,3.68
+Taos County2000,NM,2000,29.98,Taos County,140.74,29.75,,,,,1.36,1.6,3.68
+Taos County1995,NM,1995,25.53,Taos County,36.57,29.5,,,,,1.36,1.6,3.68
+Taos County1990,NM,1990,0.12,Taos County,140.74,75.51,,,,,1.36,1.6,3.68
+Taos County1985,NM,1985,25.97,Taos County,140.74,75.51,,,,,1.36,1.6,3.68
+Torrance County2015,NM,2015,15.49,Torrance County,25.34,17.35,40.9,17.35,0,0,0.58,0,0
+Torrance County2010,NM,2010,16.38,Torrance County,140.74,22.55,53.17,22.55,,0,0.54,0,0
+Torrance County2005,NM,2005,17.5,Torrance County,140.74,17.31,,,,0,1.36,1.6,3.68
+Torrance County2000,NM,2000,16.91,Torrance County,140.74,17.21,,,,,1.36,1.6,3.68
+Torrance County1995,NM,1995,12.85,Torrance County,29.94,18.61,,,,,1.36,1.6,3.68
+Torrance County1990,NM,1990,0.28,Torrance County,140.74,75.51,,,,,1.36,1.6,3.68
+Torrance County1985,NM,1985,7.63,Torrance County,140.74,75.51,,,,,1.36,1.6,3.68
+Union County2015,NM,2015,4.2,Union County,23.05,25.32,35.48,25.29,0.05,0.03,0.62,0,0
+Union County2010,NM,2010,4.55,Union County,140.74,43.57,61.1,43.55,,0.02,1.43,0,0
+Union County2005,NM,2005,3.85,Union County,140.74,41.91,,,,0,1.36,1.6,3.68
+Union County2000,NM,2000,4.17,Union County,140.74,55.65,,,,,1.36,1.6,3.68
+Union County1995,NM,1995,4.17,Union County,62.6,48.17,,,,,1.36,1.6,3.68
+Union County1990,NM,1990,1.15,Union County,140.74,75.51,,,,,1.36,1.6,3.68
+Union County1985,NM,1985,4.75,Union County,140.74,75.51,,,,,1.36,1.6,3.68
+Valencia County2015,NM,2015,75.74,Valencia County,72.61,20.62,130.11,20.54,0.23,0.08,0.91,0,0
+Valencia County2010,NM,2010,76.57,Valencia County,140.74,24.23,153.1,24.17,,0.06,0.79,0,0
+Valencia County2005,NM,2005,69.42,Valencia County,140.74,22.69,,,,0,1.36,1.6,3.68
+Valencia County2000,NM,2000,66.15,Valencia County,140.74,20.84,,,,,1.36,1.6,3.68
+Valencia County1995,NM,1995,57.68,Valencia County,50.05,20.95,,,,,1.36,1.6,3.68
+Valencia County1990,NM,1990,0.52,Valencia County,140.74,75.51,,,,,1.36,1.6,3.68
+Valencia County1985,NM,1985,32.98,Valencia County,140.74,75.51,,,,,1.36,1.6,3.68
+Churchill County2015,NV,2015,24.2,Churchill County,114.79,53.66,163.68,53.62,0.08,0.04,0.56,0,0
+Churchill County2010,NV,2010,24.88,Churchill County,140.74,59.89,176.45,59.86,,0.03,0.52,0,0
+Churchill County2005,NV,2005,24.56,Churchill County,140.74,57.45,,,,0,1.36,1.6,3.68
+Churchill County2000,NV,2000,23.98,Churchill County,140.74,42.74,,,,,1.36,1.6,3.68
+Churchill County1995,NV,1995,21.1,Churchill County,91.4,44.6,,,,,1.36,1.6,3.68
+Churchill County1990,NV,1990,0.6,Churchill County,140.74,75.51,,,,,1.36,1.6,3.68
+Churchill County1985,NV,1985,15.45,Churchill County,140.74,75.51,,,,,1.36,1.6,3.68
+Clark County2015,NV,2015,2114.8,Clark County,28.54,8.74,11.34,3.71,19.65,5.03,0.05,0,0
+Clark County2010,NV,2010,1951.27,Clark County,140.74,9.08,12.82,3.52,,5.56,0.07,0,0
+Clark County2005,NV,2005,1710.55,Clark County,140.74,3.5,,,,0,1.36,1.6,3.68
+Clark County2000,NV,2000,1375.76,Clark County,140.74,5.8,,,,,1.36,1.6,3.68
+Clark County1995,NV,1995,992.59,Clark County,15.7,7.78,,,,,1.36,1.6,3.68
+Clark County1990,NV,1990,0.24,Clark County,140.74,75.51,,,,,1.36,1.6,3.68
+Clark County1985,NV,1985,572.14,Clark County,140.74,75.51,,,,,1.36,1.6,3.68
+Douglas County2015,NV,2015,47.71,Douglas County,56.79,26.04,78.22,25.62,0.87,0.42,0.11,2.01,0.71
+Douglas County2010,NV,2010,47,Douglas County,140.74,32.49,97.57,32.06,,0.43,0.16,1.05,0.61
+Douglas County2005,NV,2005,47.02,Douglas County,140.74,14.5,,,,0,1.36,1.6,3.68
+Douglas County2000,NV,2000,41.26,Douglas County,140.74,43.07,,,,,1.36,1.6,3.68
+Douglas County1995,NV,1995,34.7,Douglas County,81.7,39.09,,,,,1.36,1.6,3.68
+Douglas County1990,NV,1990,0.23,Douglas County,140.74,75.51,,,,,1.36,1.6,3.68
+Douglas County1985,NV,1985,23.2,Douglas County,140.74,75.51,,,,,1.36,1.6,3.68
+Elko County2015,NV,2015,51.94,Elko County,245.95,132.56,348.49,132.22,0.59,0.34,1.29,0,0
+Elko County2010,NV,2010,48.82,Elko County,140.74,132.4,335.23,132.06,,0.34,1.37,0,4
+Elko County2005,NV,2005,45.57,Elko County,140.74,130.75,,,,0,1.36,1.6,3.68
+Elko County2000,NV,2000,45.29,Elko County,140.74,158.26,,,,,1.36,1.6,3.68
+Elko County1995,NV,1995,41.73,Elko County,217.62,120.37,,,,,1.36,1.6,3.68
+Elko County1990,NV,1990,1.52,Elko County,140.74,75.51,,,,,1.36,1.6,3.68
+Elko County1985,NV,1985,22.85,Elko County,140.74,75.51,,,,,1.36,1.6,3.68
+Esmeralda County2015,NV,2015,0.83,Esmeralda County,42.63,17.46,53.29,17.46,0,0,0.01,0,0
+Esmeralda County2010,NV,2010,0.78,Esmeralda County,140.74,7.36,25.63,7.36,,0,0.02,0,0
+Esmeralda County2005,NV,2005,0.79,Esmeralda County,140.74,6.64,,,,0,1.36,1.6,3.68
+Esmeralda County2000,NV,2000,0.97,Esmeralda County,140.74,8.63,,,,,1.36,1.6,3.68
+Esmeralda County1995,NV,1995,1.18,Esmeralda County,23.7,12.2,,,,,1.36,1.6,3.68
+Esmeralda County1990,NV,1990,0.11,Esmeralda County,140.74,75.51,,,,,1.36,1.6,3.68
+Esmeralda County1985,NV,1985,1.38,Esmeralda County,140.74,75.51,,,,,1.36,1.6,3.68
+Eureka County2015,NV,2015,2.02,Eureka County,96.91,46.66,121.61,46.66,0,0,0.17,0,0
+Eureka County2010,NV,2010,1.99,Eureka County,140.74,39.69,109.36,39.69,,0,0.26,0,0
+Eureka County2005,NV,2005,1.43,Eureka County,140.74,25.6,,,,0,1.36,1.6,3.68
+Eureka County2000,NV,2000,1.65,Eureka County,140.74,35.14,,,,,1.36,1.6,3.68
+Eureka County1995,NV,1995,1.41,Eureka County,52.76,25.52,,,,,1.36,1.6,3.68
+Eureka County1990,NV,1990,0.14,Eureka County,140.74,75.51,,,,,1.36,1.6,3.68
+Eureka County1985,NV,1985,1.45,Eureka County,140.74,75.51,,,,,1.36,1.6,3.68
+Humboldt County2015,NV,2015,17.02,Humboldt County,345,137.51,440.67,137.47,0.09,0.04,0.6,0,0
+Humboldt County2010,NV,2010,16.53,Humboldt County,140.74,89.57,257.13,89.53,,0.04,0.65,0,0
+Humboldt County2005,NV,2005,17.13,Humboldt County,140.74,115.05,,,,0,1.36,1.6,3.68
+Humboldt County2000,NV,2000,16.11,Humboldt County,140.74,126.56,,,,,1.36,1.6,3.68
+Humboldt County1995,NV,1995,16.04,Humboldt County,181.57,94.34,,,,,1.36,1.6,3.68
+Humboldt County1990,NV,1990,0.56,Humboldt County,140.74,75.51,,,,,1.36,1.6,3.68
+Humboldt County1985,NV,1985,11.88,Humboldt County,140.74,75.51,,,,,1.36,1.6,3.68
+Lander County2015,NV,2015,5.9,Lander County,94.57,37.24,119.95,37.2,0.07,0.04,0.22,0,0
+Lander County2010,NV,2010,5.78,Lander County,140.74,29.54,99.81,29.5,,0.04,0.25,0,0
+Lander County2005,NV,2005,5.11,Lander County,140.74,29.55,,,,0,1.36,1.6,3.68
+Lander County2000,NV,2000,5.79,Lander County,140.74,30.89,,,,,1.36,1.6,3.68
+Lander County1995,NV,1995,6.47,Lander County,47.82,32.69,,,,,1.36,1.6,3.68
+Lander County1990,NV,1990,0.3,Lander County,140.74,75.51,,,,,1.36,1.6,3.68
+Lander County1985,NV,1985,4.5,Lander County,140.74,75.51,,,,,1.36,1.6,3.68
+Lincoln County2015,NV,2015,5.04,Lincoln County,47.02,22,59.15,22,0,0,0.19,0,0
+Lincoln County2010,NV,2010,5.35,Lincoln County,140.74,13.19,52.46,13.19,,0,0.17,0,0
+Lincoln County2005,NV,2005,4.39,Lincoln County,140.74,11,,,,0,1.36,1.6,3.68
+Lincoln County2000,NV,2000,4.17,Lincoln County,140.74,15.65,,,,,1.36,1.6,3.68
+Lincoln County1995,NV,1995,3.84,Lincoln County,31.2,16.94,,,,,1.36,1.6,3.68
+Lincoln County1990,NV,1990,0.11,Lincoln County,140.74,75.51,,,,,1.36,1.6,3.68
+Lincoln County1985,NV,1985,4.2,Lincoln County,140.74,75.51,,,,,1.36,1.6,3.68
+Lyon County2015,NV,2015,52.59,Lyon County,203.01,87.9,267.64,87.67,0.52,0.23,0.6,7.22,9.45
+Lyon County2010,NV,2010,51.98,Lyon County,140.74,78.76,202.79,78.53,,0.23,0.44,4.96,0
+Lyon County2005,NV,2005,47.52,Lyon County,140.74,73,,,,0,1.36,1.6,3.68
+Lyon County2000,NV,2000,34.5,Lyon County,140.74,62.82,,,,,1.36,1.6,3.68
+Lyon County1995,NV,1995,25.87,Lyon County,107.9,58.52,,,,,1.36,1.6,3.68
+Lyon County1990,NV,1990,0.4,Lyon County,140.74,75.51,,,,,1.36,1.6,3.68
+Lyon County1985,NV,1985,17.05,Lyon County,140.74,75.51,,,,,1.36,1.6,3.68
+Mineral County2015,NV,2015,4.48,Mineral County,7.52,3.07,9.29,3.04,0.09,0.03,0.03,0,0
+Mineral County2010,NV,2010,4.77,Mineral County,140.74,0.53,1.61,0.5,,0.03,0.03,0,0
+Mineral County2005,NV,2005,4.91,Mineral County,140.74,2.97,,,,0,1.36,1.6,3.68
+Mineral County2000,NV,2000,5.07,Mineral County,140.74,3.31,,,,,1.36,1.6,3.68
+Mineral County1995,NV,1995,6.18,Mineral County,15.93,8.69,,,,,1.36,1.6,3.68
+Mineral County1990,NV,1990,0.03,Mineral County,140.74,75.51,,,,,1.36,1.6,3.68
+Mineral County1985,NV,1985,6.03,Mineral County,140.74,75.51,,,,,1.36,1.6,3.68
+Nye County2015,NV,2015,42.48,Nye County,48.77,20.15,61.11,19.99,0.56,0.16,0.4,0,0
+Nye County2010,NV,2010,43.95,Nye County,140.74,6.89,21.36,6.65,,0.24,0.44,0,0
+Nye County2005,NV,2005,40.48,Nye County,140.74,14.5,,,,0,1.36,1.6,3.68
+Nye County2000,NV,2000,32.49,Nye County,140.74,12.55,,,,,1.36,1.6,3.68
+Nye County1995,NV,1995,24.56,Nye County,28.5,13.3,,,,,1.36,1.6,3.68
+Nye County1990,NV,1990,0.16,Nye County,140.74,75.51,,,,,1.36,1.6,3.68
+Nye County1985,NV,1985,14.85,Nye County,140.74,75.51,,,,,1.36,1.6,3.68
+Pershing County2015,NV,2015,6.63,Pershing County,112.29,52.78,156.31,52.78,0,0,0.3,0,0
+Pershing County2010,NV,2010,6.75,Pershing County,140.74,46.63,80.77,46.63,,0,0.24,0,0
+Pershing County2005,NV,2005,6.36,Pershing County,140.74,45.78,,,,0,1.36,1.6,3.68
+Pershing County2000,NV,2000,6.69,Pershing County,140.74,31.68,,,,,1.36,1.6,3.68
+Pershing County1995,NV,1995,4.53,Pershing County,53.4,28.8,,,,,1.36,1.6,3.68
+Pershing County1990,NV,1990,0.23,Pershing County,140.74,75.51,,,,,1.36,1.6,3.68
+Pershing County1985,NV,1985,3.61,Pershing County,140.74,75.51,,,,,1.36,1.6,3.68
+Storey County2015,NV,2015,3.99,Storey County,0,0,0,0,0,0,0,0,0
+Storey County2010,NV,2010,4.01,Storey County,140.74,0.12,0.34,0.12,,0,0,0,0
+Storey County2005,NV,2005,4.07,Storey County,140.74,0.2,,,,0,1.36,1.6,3.68
+Storey County2000,NV,2000,3.4,Storey County,140.74,0.64,,,,,1.36,1.6,3.68
+Storey County1995,NV,1995,2.84,Storey County,0.5,0.3,,,,,1.36,1.6,3.68
+Storey County1990,NV,1990,0,Storey County,140.74,75.51,,,,,1.36,1.6,3.68
+Storey County1985,NV,1985,1.78,Storey County,140.74,75.51,,,,,1.36,1.6,3.68
+Washoe County2015,NV,2015,446.9,Washoe County,37.07,16.68,47,15.39,3.11,1.29,0.14,2.4,8.45
+Washoe County2010,NV,2010,421.41,Washoe County,140.74,12.16,31.13,10.89,,1.27,0.18,4.62,13.61
+Washoe County2005,NV,2005,389.87,Washoe County,140.74,17.26,,,,0,1.36,1.6,3.68
+Washoe County2000,NV,2000,339.49,Washoe County,140.74,32.88,,,,,1.36,1.6,3.68
+Washoe County1995,NV,1995,290.83,Washoe County,46.1,23,,,,,1.36,1.6,3.68
+Washoe County1990,NV,1990,0.26,Washoe County,140.74,75.51,,,,,1.36,1.6,3.68
+Washoe County1985,NV,1985,224.42,Washoe County,140.74,75.51,,,,,1.36,1.6,3.68
+White Pine County2015,NV,2015,9.81,White Pine County,73.64,32.73,92.69,32.65,0.14,0.08,0.25,0,3.8
+White Pine County2010,NV,2010,10.03,White Pine County,140.74,16.77,61.47,16.69,,0.08,0.25,0,20.61
+White Pine County2005,NV,2005,8.99,White Pine County,140.74,27.56,,,,0,1.36,1.6,3.68
+White Pine County2000,NV,2000,9.18,White Pine County,140.74,34.24,,,,,1.36,1.6,3.68
+White Pine County1995,NV,1995,9.96,White Pine County,59.2,31.66,,,,,1.36,1.6,3.68
+White Pine County1990,NV,1990,0.24,White Pine County,140.74,75.51,,,,,1.36,1.6,3.68
+White Pine County1985,NV,1985,7.56,White Pine County,140.74,75.51,,,,,1.36,1.6,3.68
+Carson City County2015,NV,2015,54.52,Carson City County,5.29,2.38,5.88,1.93,0.97,0.45,0.02,0,0
+Carson City County2010,NV,2010,55.27,Carson City County,140.74,1.77,5.19,1.21,,0.56,0.01,0,0
+Carson City County2005,NV,2005,56.06,Carson City County,140.74,0.12,,,,0,1.36,1.6,3.68
+Carson City County2000,NV,2000,52.46,Carson City County,140.74,2.24,,,,,1.36,1.6,3.68
+Carson City County1995,NV,1995,46.28,Carson City County,3.6,2,,,,,1.36,1.6,3.68
+Carson City County1990,NV,1990,0.01,Carson City County,140.74,75.51,,,,,1.36,1.6,3.68
+Carson City County1985,NV,1985,35.4,Carson City County,140.74,75.51,,,,,1.36,1.6,3.68
+Beaver County2015,UT,2015,6.35,Beaver County,61.32,32.67,84.58,32.62,0.1,0.05,2.65,0,0
+Beaver County2010,UT,2010,6.63,Beaver County,140.74,32.25,77.72,32.21,,0.04,2.76,0,0
+Beaver County2005,UT,2005,6.34,Beaver County,140.74,26.56,,,,0,1.36,1.6,3.68
+Beaver County2000,UT,2000,6.01,Beaver County,140.74,36.16,,,,,1.36,1.6,3.68
+Beaver County1995,UT,1995,5.38,Beaver County,64.5,33.52,,,,,1.36,1.6,3.68
+Beaver County1990,UT,1990,0.37,Beaver County,140.74,75.51,,,,,1.36,1.6,3.68
+Beaver County1985,UT,1985,5.2,Beaver County,140.74,75.51,,,,,1.36,1.6,3.68
+Box Elder County2015,UT,2015,52.1,Box Elder County,270.59,145.98,409.6,145.75,0.38,0.23,1.38,3.55,0
+Box Elder County2010,UT,2010,49.98,Box Elder County,140.74,152.85,380.05,152.61,,0.24,1.54,6.03,0
+Box Elder County2005,UT,2005,45.3,Box Elder County,140.74,136.32,,,,0,1.36,1.6,3.68
+Box Elder County2000,UT,2000,42.75,Box Elder County,140.74,149.85,,,,,1.36,1.6,3.68
+Box Elder County1995,UT,1995,39.59,Box Elder County,200.06,120.58,,,,,1.36,1.6,3.68
+Box Elder County1990,UT,1990,0.79,Box Elder County,140.74,75.51,,,,,1.36,1.6,3.68
+Box Elder County1985,UT,1985,36.8,Box Elder County,140.74,75.51,,,,,1.36,1.6,3.68
+Cache County2015,UT,2015,120.78,Cache County,71.33,103.99,121.88,103.63,0.56,0.36,1.1,15.85,0
+Cache County2010,UT,2010,112.66,Cache County,140.74,106.22,236.6,105.92,,0.3,1.22,16.38,0
+Cache County2005,UT,2005,103.56,Cache County,140.74,89.77,,,,0,1.36,1.6,3.68
+Cache County2000,UT,2000,91.39,Cache County,140.74,116.85,,,,,1.36,1.6,3.68
+Cache County1995,UT,1995,77.3,Cache County,140.48,87.47,,,,,1.36,1.6,3.68
+Cache County1990,UT,1990,1.8,Cache County,140.74,75.51,,,,,1.36,1.6,3.68
+Cache County1985,UT,1985,64.8,Cache County,140.74,75.51,,,,,1.36,1.6,3.68
+Carbon County2015,UT,2015,20.48,Carbon County,24.52,11.62,37.32,11.52,0.17,0.1,0.17,0,0
+Carbon County2010,UT,2010,21.4,Carbon County,140.74,12.36,31.27,12.27,,0.09,0.14,0,0
+Carbon County2005,UT,2005,19.34,Carbon County,140.74,11.36,,,,0,1.36,1.6,3.68
+Carbon County2000,UT,2000,20.42,Carbon County,140.74,12.18,,,,,1.36,1.6,3.68
+Carbon County1995,UT,1995,20.65,Carbon County,47.52,7.9,,,,,1.36,1.6,3.68
+Carbon County1990,UT,1990,0.08,Carbon County,140.74,75.51,,,,,1.36,1.6,3.68
+Carbon County1985,UT,1985,23.1,Carbon County,140.74,75.51,,,,,1.36,1.6,3.68
+Daggett County2015,UT,2015,1.11,Daggett County,13.44,11.79,19.45,11.79,0,0,0.03,0,0
+Daggett County2010,UT,2010,1.06,Daggett County,140.74,10.81,18.06,10.81,,0,0.05,0,0
+Daggett County2005,UT,2005,0.96,Daggett County,140.74,10.93,,,,0,1.36,1.6,3.68
+Daggett County2000,UT,2000,0.92,Daggett County,140.74,10.91,,,,,1.36,1.6,3.68
+Daggett County1995,UT,1995,0.77,Daggett County,11.86,6.89,,,,,1.36,1.6,3.68
+Daggett County1990,UT,1990,0.04,Daggett County,140.74,75.51,,,,,1.36,1.6,3.68
+Daggett County1985,UT,1985,0.8,Daggett County,140.74,75.51,,,,,1.36,1.6,3.68
+Davis County2015,UT,2015,336.04,Davis County,32.31,17.1,40.15,15.73,2.19,1.37,0.06,0,0
+Davis County2010,UT,2010,306.48,Davis County,140.74,19.63,37.36,18.26,,1.37,0.08,0,0
+Davis County2005,UT,2005,278.28,Davis County,140.74,24.94,,,,0,1.36,1.6,3.68
+Davis County2000,UT,2000,238.99,Davis County,140.74,28.21,,,,,1.36,1.6,3.68
+Davis County1995,UT,1995,215.38,Davis County,68.15,20.97,,,,,1.36,1.6,3.68
+Davis County1990,UT,1990,1.4,Davis County,140.74,75.51,,,,,1.36,1.6,3.68
+Davis County1985,UT,1985,174.8,Davis County,140.74,75.51,,,,,1.36,1.6,3.68
+Duchesne County2015,UT,2015,20.86,Duchesne County,197.04,114.22,306.61,114.1,0.23,0.12,0.69,1.16,0
+Duchesne County2010,UT,2010,18.61,Duchesne County,140.74,123.93,320.62,123.8,,0.13,0.65,0,0
+Duchesne County2005,UT,2005,15.24,Duchesne County,140.74,98.56,,,,0,1.36,1.6,3.68
+Duchesne County2000,UT,2000,14.37,Duchesne County,140.74,106.67,,,,,1.36,1.6,3.68
+Duchesne County1995,UT,1995,13.8,Duchesne County,126.49,117.28,,,,,1.36,1.6,3.68
+Duchesne County1990,UT,1990,0.57,Duchesne County,140.74,75.51,,,,,1.36,1.6,3.68
+Duchesne County1985,UT,1985,15.3,Duchesne County,140.74,75.51,,,,,1.36,1.6,3.68
+Emery County2015,UT,2015,10.37,Emery County,89.98,54.55,126.65,54.45,0.2,0.1,0.33,0,0
+Emery County2010,UT,2010,10.98,Emery County,140.74,54.5,101.04,54.41,,0.09,0.36,0,0
+Emery County2005,UT,2005,10.49,Emery County,140.74,49.45,,,,0,1.36,1.6,3.68
+Emery County2000,UT,2000,10.86,Emery County,140.74,45.88,,,,,1.36,1.6,3.68
+Emery County1995,UT,1995,10.64,Emery County,87.32,31.68,,,,,1.36,1.6,3.68
+Emery County1990,UT,1990,0.21,Emery County,140.74,75.51,,,,,1.36,1.6,3.68
+Emery County1985,UT,1985,12.5,Emery County,140.74,75.51,,,,,1.36,1.6,3.68
+Garfield County2015,UT,2015,5.01,Garfield County,40.82,30.32,53.67,30.3,0.03,0.02,0.23,1.83,0
+Garfield County2010,UT,2010,5.17,Garfield County,140.74,33.39,59.96,33.37,,0.02,0.2,2.12,0
+Garfield County2005,UT,2005,4.7,Garfield County,140.74,27.68,,,,0,1.36,1.6,3.68
+Garfield County2000,UT,2000,4.74,Garfield County,140.74,29.58,,,,,1.36,1.6,3.68
+Garfield County1995,UT,1995,4.09,Garfield County,22.38,29.23,,,,,1.36,1.6,3.68
+Garfield County1990,UT,1990,0.7,Garfield County,140.74,75.51,,,,,1.36,1.6,3.68
+Garfield County1985,UT,1985,4.1,Garfield County,140.74,75.51,,,,,1.36,1.6,3.68
+Grand County2015,UT,2015,9.52,Grand County,13.91,7.54,18.62,7.45,0.2,0.09,0.05,0,0
+Grand County2010,UT,2010,9.23,Grand County,140.74,5.67,12.36,5.67,,0,0.05,0,0
+Grand County2005,UT,2005,8.83,Grand County,140.74,5.26,,,,0,1.36,1.6,3.68
+Grand County2000,UT,2000,8.49,Grand County,140.74,6.37,,,,,1.36,1.6,3.68
+Grand County1995,UT,1995,7.82,Grand County,4.45,3.09,,,,,1.36,1.6,3.68
+Grand County1990,UT,1990,0.12,Grand County,140.74,75.51,,,,,1.36,1.6,3.68
+Grand County1985,UT,1985,7.3,Grand County,140.74,75.51,,,,,1.36,1.6,3.68
+Iron County2015,UT,2015,48.37,Iron County,110.66,58.73,161.58,58.62,0.19,0.11,0.92,0,0
+Iron County2010,UT,2010,46.16,Iron County,140.74,59.93,195.53,59.93,,0,0.65,0,0
+Iron County2005,UT,2005,41.4,Iron County,140.74,58.21,,,,0,1.36,1.6,3.68
+Iron County2000,UT,2000,33.78,Iron County,140.74,66.17,,,,,1.36,1.6,3.68
+Iron County1995,UT,1995,25.92,Iron County,102.74,51.86,,,,,1.36,1.6,3.68
+Iron County1990,UT,1990,0.86,Iron County,140.74,75.51,,,,,1.36,1.6,3.68
+Iron County1985,UT,1985,19.6,Iron County,140.74,75.51,,,,,1.36,1.6,3.68
+Juab County2015,UT,2015,10.59,Juab County,44.07,24.83,60.95,24.78,0.09,0.05,0.28,0,0
+Juab County2010,UT,2010,10.25,Juab County,140.74,28.24,50.6,28.24,,0,0.26,0,0
+Juab County2005,UT,2005,8.97,Juab County,140.74,24.28,,,,0,1.36,1.6,3.68
+Juab County2000,UT,2000,8.24,Juab County,140.74,28.27,,,,,1.36,1.6,3.68
+Juab County1995,UT,1995,6.68,Juab County,39.73,20.1,,,,,1.36,1.6,3.68
+Juab County1990,UT,1990,0.35,Juab County,140.74,75.51,,,,,1.36,1.6,3.68
+Juab County1985,UT,1985,6,Juab County,140.74,75.51,,,,,1.36,1.6,3.68
+Kane County2015,UT,2015,7.13,Kane County,8.97,6.56,12.86,6.5,0.13,0.06,0.11,0.2,0
+Kane County2010,UT,2010,7.13,Kane County,140.74,7.28,14.3,7.26,,0.02,0.1,0.16,0
+Kane County2005,UT,2005,6.21,Kane County,140.74,9.07,,,,0,1.36,1.6,3.68
+Kane County2000,UT,2000,6.05,Kane County,140.74,9.38,,,,,1.36,1.6,3.68
+Kane County1995,UT,1995,6,Kane County,7.33,5,,,,,1.36,1.6,3.68
+Kane County1990,UT,1990,0.14,Kane County,140.74,75.51,,,,,1.36,1.6,3.68
+Kane County1985,UT,1985,4.7,Kane County,140.74,75.51,,,,,1.36,1.6,3.68
+Millard County2015,UT,2015,12.65,Millard County,222.33,102.16,297.31,101.99,0.32,0.17,1.35,0,0
+Millard County2010,UT,2010,12.5,Millard County,140.74,99.69,263.41,99.6,,0.09,1.33,0,0
+Millard County2005,UT,2005,13.17,Millard County,140.74,109.99,,,,0,1.36,1.6,3.68
+Millard County2000,UT,2000,12.41,Millard County,140.74,117.6,,,,,1.36,1.6,3.68
+Millard County1995,UT,1995,12.16,Millard County,196.36,88.84,,,,,1.36,1.6,3.68
+Millard County1990,UT,1990,1.02,Millard County,140.74,75.51,,,,,1.36,1.6,3.68
+Millard County1985,UT,1985,14.4,Millard County,140.74,75.51,,,,,1.36,1.6,3.68
+Morgan County2015,UT,2015,11.07,Morgan County,15.77,8.98,34.56,8.84,0.2,0.14,0.14,0,0
+Morgan County2010,UT,2010,9.47,Morgan County,140.74,9.95,33.77,9.8,,0.15,0.17,0,0
+Morgan County2005,UT,2005,8.52,Morgan County,140.74,9.91,,,,0,1.36,1.6,3.68
+Morgan County2000,UT,2000,7.13,Morgan County,140.74,10.33,,,,,1.36,1.6,3.68
+Morgan County1995,UT,1995,6.59,Morgan County,21.06,7.96,,,,,1.36,1.6,3.68
+Morgan County1990,UT,1990,0.2,Morgan County,140.74,75.51,,,,,1.36,1.6,3.68
+Morgan County1985,UT,1985,5.2,Morgan County,140.74,75.51,,,,,1.36,1.6,3.68
+Piute County2015,UT,2015,1.52,Piute County,27.98,19.76,37.06,19.76,0,0,0.26,0.26,0
+Piute County2010,UT,2010,1.56,Piute County,140.74,19.76,44.32,19.76,,0,0.3,0.26,0
+Piute County2005,UT,2005,1.37,Piute County,140.74,18.01,,,,0,1.36,1.6,3.68
+Piute County2000,UT,2000,1.44,Piute County,140.74,22.17,,,,,1.36,1.6,3.68
+Piute County1995,UT,1995,1.42,Piute County,27.35,13.79,,,,,1.36,1.6,3.68
+Piute County1990,UT,1990,0.86,Piute County,140.74,75.51,,,,,1.36,1.6,3.68
+Piute County1985,UT,1985,1.5,Piute County,140.74,75.51,,,,,1.36,1.6,3.68
+Rich County2015,UT,2015,2.31,Rich County,86.15,66.31,117.05,66.24,0.09,0.07,0.56,0,0
+Rich County2010,UT,2010,2.26,Rich County,140.74,67.97,141.69,67.9,,0.07,0.53,0,0
+Rich County2005,UT,2005,2.06,Rich County,140.74,51.81,,,,0,1.36,1.6,3.68
+Rich County2000,UT,2000,1.96,Rich County,140.74,72.04,,,,,1.36,1.6,3.68
+Rich County1995,UT,1995,1.83,Rich County,56.19,56.39,,,,,1.36,1.6,3.68
+Rich County1990,UT,1990,0.32,Rich County,140.74,75.51,,,,,1.36,1.6,3.68
+Rich County1985,UT,1985,2.4,Rich County,140.74,75.51,,,,,1.36,1.6,3.68
+Salt Lake County2015,UT,2015,1107.31,Salt Lake County,16.67,9.04,19.72,6.13,4.83,2.91,0.09,1.36,0
+Salt Lake County2010,UT,2010,1029.66,Salt Lake County,140.74,10.68,43.19,8.46,,2.22,0.09,1.31,0
+Salt Lake County2005,UT,2005,978.29,Salt Lake County,140.74,10.67,,,,0,1.36,1.6,3.68
+Salt Lake County2000,UT,2000,898.39,Salt Lake County,140.74,20.51,,,,,1.36,1.6,3.68
+Salt Lake County1995,UT,1995,808.38,Salt Lake County,55.69,16.3,,,,,1.36,1.6,3.68
+Salt Lake County1990,UT,1990,0.15,Salt Lake County,140.74,75.51,,,,,1.36,1.6,3.68
+Salt Lake County1985,UT,1985,693,Salt Lake County,140.74,75.51,,,,,1.36,1.6,3.68
+San Juan County2015,UT,2015,15.77,San Juan County,10.54,7.46,14.01,7.38,0.14,0.08,0.22,0,0
+San Juan County2010,UT,2010,14.75,San Juan County,140.74,8.18,20.77,8.18,,0,0.21,0,0
+San Juan County2005,UT,2005,14.57,San Juan County,140.74,7.34,,,,0,1.36,1.6,3.68
+San Juan County2000,UT,2000,14.41,San Juan County,140.74,10.33,,,,,1.36,1.6,3.68
+San Juan County1995,UT,1995,13.92,San Juan County,27.55,5.49,,,,,1.36,1.6,3.68
+San Juan County1990,UT,1990,0.29,San Juan County,140.74,75.51,,,,,1.36,1.6,3.68
+San Juan County1985,UT,1985,11.4,San Juan County,140.74,75.51,,,,,1.36,1.6,3.68
+Sanpete County2015,UT,2015,28.78,Sanpete County,142.79,96.35,196.69,96.25,0.16,0.1,1.17,2.63,0
+Sanpete County2010,UT,2010,27.82,Sanpete County,140.74,97.71,167.95,97.61,,0.1,1.24,7.36,0
+Sanpete County2005,UT,2005,25.45,Sanpete County,140.74,77.26,,,,0,1.36,1.6,3.68
+Sanpete County2000,UT,2000,22.76,Sanpete County,140.74,82.03,,,,,1.36,1.6,3.68
+Sanpete County1995,UT,1995,19.34,Sanpete County,83.91,99.06,,,,,1.36,1.6,3.68
+Sanpete County1990,UT,1990,3.67,Sanpete County,140.74,75.51,,,,,1.36,1.6,3.68
+Sanpete County1985,UT,1985,16.7,Sanpete County,140.74,75.51,,,,,1.36,1.6,3.68
+Sevier County2015,UT,2015,20.98,Sevier County,43.41,52.62,66.4,52.51,0.2,0.11,0.66,6.18,0
+Sevier County2010,UT,2010,20.8,Sevier County,140.74,52.77,133.34,52.65,,0.12,0.67,4.25,0
+Sevier County2005,UT,2005,19.65,Sevier County,140.74,48.6,,,,0,1.36,1.6,3.68
+Sevier County2000,UT,2000,18.84,Sevier County,140.74,59.92,,,,,1.36,1.6,3.68
+Sevier County1995,UT,1995,17.17,Sevier County,59.83,43.92,,,,,1.36,1.6,3.68
+Sevier County1990,UT,1990,2.2,Sevier County,140.74,75.51,,,,,1.36,1.6,3.68
+Sevier County1985,UT,1985,16,Sevier County,140.74,75.51,,,,,1.36,1.6,3.68
+Summit County2015,UT,2015,39.63,Summit County,32.91,34.21,44.07,33.44,0.97,0.77,0.27,2.32,0
+Summit County2010,UT,2010,36.32,Summit County,140.74,31.93,53.99,31.39,,0.54,0.42,3.48,0
+Summit County2005,UT,2005,36.28,Summit County,140.74,32.35,,,,0,1.36,1.6,3.68
+Summit County2000,UT,2000,29.74,Summit County,140.74,38.1,,,,,1.36,1.6,3.68
+Summit County1995,UT,1995,23.29,Summit County,45.04,29.42,,,,,1.36,1.6,3.68
+Summit County1990,UT,1990,0.21,Summit County,140.74,75.51,,,,,1.36,1.6,3.68
+Summit County1985,UT,1985,12.9,Summit County,140.74,75.51,,,,,1.36,1.6,3.68
+Tooele County2015,UT,2015,62.95,Tooele County,61.29,26.7,83,26.21,0.85,0.49,0.37,0,0
+Tooele County2010,UT,2010,58.22,Tooele County,140.74,27.43,58.24,27.32,,0.11,0.36,0,0
+Tooele County2005,UT,2005,52.13,Tooele County,140.74,21.96,,,,0,1.36,1.6,3.68
+Tooele County2000,UT,2000,40.74,Tooele County,140.74,32.97,,,,,1.36,1.6,3.68
+Tooele County1995,UT,1995,29.26,Tooele County,44.23,16.48,,,,,1.36,1.6,3.68
+Tooele County1990,UT,1990,0.37,Tooele County,140.74,75.51,,,,,1.36,1.6,3.68
+Tooele County1985,UT,1985,29,Tooele County,140.74,75.51,,,,,1.36,1.6,3.68
+Uintah County2015,UT,2015,37.93,Uintah County,131.04,79.12,193.77,78.99,0.24,0.13,0.52,24.93,0
+Uintah County2010,UT,2010,32.59,Uintah County,140.74,81.04,227.2,80.91,,0.13,0.62,25.48,0
+Uintah County2005,UT,2005,26.88,Uintah County,140.74,70.49,,,,0,1.36,1.6,3.68
+Uintah County2000,UT,2000,25.22,Uintah County,140.74,85.8,,,,,1.36,1.6,3.68
+Uintah County1995,UT,1995,25,Uintah County,138.93,70.01,,,,,1.36,1.6,3.68
+Uintah County1990,UT,1990,0.55,Uintah County,140.74,75.51,,,,,1.36,1.6,3.68
+Uintah County1985,UT,1985,25.4,Uintah County,140.74,75.51,,,,,1.36,1.6,3.68
+Utah County2015,UT,2015,575.21,Utah County,143.4,85.56,232.2,84.11,2.4,1.45,1.24,5.07,0
+Utah County2010,UT,2010,516.56,Utah County,140.74,92.12,238.92,90.68,,1.44,1.3,4.52,0
+Utah County2005,UT,2005,456.07,Utah County,140.74,88.79,,,,0,1.36,1.6,3.68
+Utah County2000,UT,2000,368.54,Utah County,140.74,110.2,,,,,1.36,1.6,3.68
+Utah County1995,UT,1995,298.79,Utah County,96.58,83.6,,,,,1.36,1.6,3.68
+Utah County1990,UT,1990,13.73,Utah County,140.74,75.51,,,,,1.36,1.6,3.68
+Utah County1985,UT,1985,237.6,Utah County,140.74,75.51,,,,,1.36,1.6,3.68
+Wasatch County2015,UT,2015,29.16,Wasatch County,26.69,18.12,31.28,17.36,1.09,0.76,0.2,2.53,0
+Wasatch County2010,UT,2010,23.53,Wasatch County,140.74,16.63,42.38,15.91,,0.72,0.19,3.46,0
+Wasatch County2005,UT,2005,20,Wasatch County,140.74,16.83,,,,0,1.36,1.6,3.68
+Wasatch County2000,UT,2000,15.22,Wasatch County,140.74,19.12,,,,,1.36,1.6,3.68
+Wasatch County1995,UT,1995,11.76,Wasatch County,31.42,15,,,,,1.36,1.6,3.68
+Wasatch County1990,UT,1990,0.11,Wasatch County,140.74,75.51,,,,,1.36,1.6,3.68
+Wasatch County1985,UT,1985,9.6,Wasatch County,140.74,75.51,,,,,1.36,1.6,3.68
+Washington County2015,UT,2015,155.6,Washington County,27.29,14.82,43.63,13.41,3.54,1.41,0.21,0,0
+Washington County2010,UT,2010,138.12,Washington County,140.74,14.35,75.99,13.69,,0.66,0.22,0,0
+Washington County2005,UT,2005,127.13,Washington County,140.74,14.49,,,,0,1.36,1.6,3.68
+Washington County2000,UT,2000,90.35,Washington County,140.74,15.77,,,,,1.36,1.6,3.68
+Washington County1995,UT,1995,70.61,Washington County,31.71,11.99,,,,,1.36,1.6,3.68
+Washington County1990,UT,1990,0.41,Washington County,140.74,75.51,,,,,1.36,1.6,3.68
+Washington County1985,UT,1985,35.6,Washington County,140.74,75.51,,,,,1.36,1.6,3.68
+Wayne County2015,UT,2015,2.69,Wayne County,33.34,19.69,46.85,19.69,0,0,0.24,13.92,0
+Wayne County2010,UT,2010,2.78,Wayne County,140.74,20.32,47.55,20.32,,0,0.39,21.03,0
+Wayne County2005,UT,2005,2.5,Wayne County,140.74,16.39,,,,0,1.36,1.6,3.68
+Wayne County2000,UT,2000,2.51,Wayne County,140.74,17.68,,,,,1.36,1.6,3.68
+Wayne County1995,UT,1995,2.3,Wayne County,18.71,16.95,,,,,1.36,1.6,3.68
+Wayne County1990,UT,1990,0.59,Wayne County,140.74,75.51,,,,,1.36,1.6,3.68
+Wayne County1985,UT,1985,2.2,Wayne County,140.74,75.51,,,,,1.36,1.6,3.68
+Weber County2015,UT,2015,243.65,Weber County,61.08,37.81,75.66,36.73,1.71,1.08,0.4,1.29,0
+Weber County2010,UT,2010,231.24,Weber County,140.74,38.27,71.21,37.46,,0.81,0.43,1.29,0
+Weber County2005,UT,2005,213.68,Weber County,140.74,39.32,,,,0,1.36,1.6,3.68
+Weber County2000,UT,2000,196.53,Weber County,140.74,46.77,,,,,1.36,1.6,3.68
+Weber County1995,UT,1995,175.56,Weber County,71.15,31.79,,,,,1.36,1.6,3.68
+Weber County1990,UT,1990,1.43,Weber County,140.74,75.51,,,,,1.36,1.6,3.68
+Weber County1985,UT,1985,156.9,Weber County,140.74,75.51,,,,,1.36,1.6,3.68
+Albany County2015,WY,2015,37.96,Albany County,160.04,94.45,,,,,0.8,2.98,1.34
+Albany County2010,WY,2010,36.3,Albany County,140.74,51.61,,,,,0.63,0.75,0.34
+Albany County2005,WY,2005,30.89,Albany County,140.74,75.5,,,,0,1.36,1.6,3.68
+Albany County2000,WY,2000,32.01,Albany County,140.74,95.5,,,,,1.36,1.6,3.68
+Albany County1995,WY,1995,30.98,Albany County,102.11,95.3,,,,,1.36,1.6,3.68
+Albany County1990,WY,1990,0.75,Albany County,140.74,75.51,,,,,1.36,1.6,3.68
+Albany County1985,WY,1985,29.9,Albany County,140.74,75.51,,,,,1.36,1.6,3.68
+Big Horn County2015,WY,2015,12.02,Big Horn County,142.04,108.7,,,,,0.6,0,1.22
+Big Horn County2010,WY,2010,11.67,Big Horn County,140.74,81.49,,,,,0.65,0,1.49
+Big Horn County2005,WY,2005,11.33,Big Horn County,140.74,72.4,,,,0,1.36,1.6,3.68
+Big Horn County2000,WY,2000,11.46,Big Horn County,140.74,83.1,,,,,1.36,1.6,3.68
+Big Horn County1995,WY,1995,11.11,Big Horn County,236.61,143.6,,,,,1.36,1.6,3.68
+Big Horn County1990,WY,1990,0.64,Big Horn County,140.74,75.51,,,,,1.36,1.6,3.68
+Big Horn County1985,WY,1985,12.3,Big Horn County,140.74,75.51,,,,,1.36,1.6,3.68
+Campbell County2015,WY,2015,49.22,Campbell County,2.37,1.81,,,,,0.98,0,0
+Campbell County2010,WY,2010,46.13,Campbell County,140.74,9.97,,,,,0.95,0,0
+Campbell County2005,WY,2005,37.41,Campbell County,140.74,8.24,,,,0,1.36,1.6,3.68
+Campbell County2000,WY,2000,33.7,Campbell County,140.74,12.8,,,,,1.36,1.6,3.68
+Campbell County1995,WY,1995,31.67,Campbell County,0,0,,,,,1.36,1.6,3.68
+Campbell County1990,WY,1990,0.82,Campbell County,140.74,75.51,,,,,1.36,1.6,3.68
+Campbell County1985,WY,1985,36.9,Campbell County,140.74,75.51,,,,,1.36,1.6,3.68
+Carbon County2015,WY,2015,15.56,Carbon County,271.18,165.48,,,,,1.05,0.66,0.07
+Carbon County2010,WY,2010,15.89,Carbon County,140.74,87.96,,,,,0.99,0.74,0.07
+Carbon County2005,WY,2005,15.33,Carbon County,140.74,85.01,,,,0,1.36,1.6,3.68
+Carbon County2000,WY,2000,15.64,Carbon County,140.74,74.2,,,,,1.36,1.6,3.68
+Carbon County1995,WY,1995,16.11,Carbon County,177.76,185.3,,,,,1.36,1.6,3.68
+Carbon County1990,WY,1990,1.24,Carbon County,140.74,75.51,,,,,1.36,1.6,3.68
+Carbon County1985,WY,1985,19.9,Carbon County,140.74,75.51,,,,,1.36,1.6,3.68
+Converse County2015,WY,2015,14.24,Converse County,50.99,31.92,,,,,0.75,0,0
+Converse County2010,WY,2010,13.83,Converse County,140.74,25.7,,,,,0.71,0,0
+Converse County2005,WY,2005,12.77,Converse County,140.74,24.56,,,,0,1.36,1.6,3.68
+Converse County2000,WY,2000,12.05,Converse County,140.74,35.79,,,,,1.36,1.6,3.68
+Converse County1995,WY,1995,11.96,Converse County,14.29,44.91,,,,,1.36,1.6,3.68
+Converse County1990,WY,1990,0.95,Converse County,140.74,75.51,,,,,1.36,1.6,3.68
+Converse County1985,WY,1985,14.2,Converse County,140.74,75.51,,,,,1.36,1.6,3.68
+Crook County2015,WY,2015,7.44,Crook County,10.04,7.75,,,,,0.83,0,0
+Crook County2010,WY,2010,7.08,Crook County,140.74,10.33,,,,,0.8,0,0
+Crook County2005,WY,2005,6.18,Crook County,140.74,7.17,,,,0,1.36,1.6,3.68
+Crook County2000,WY,2000,5.89,Crook County,140.74,17.6,,,,,1.36,1.6,3.68
+Crook County1995,WY,1995,5.66,Crook County,12.01,4.4,,,,,1.36,1.6,3.68
+Crook County1990,WY,1990,0.7,Crook County,140.74,75.51,,,,,1.36,1.6,3.68
+Crook County1985,WY,1985,5.9,Crook County,140.74,75.51,,,,,1.36,1.6,3.68
+Fremont County2015,WY,2015,40.32,Fremont County,235.3,157.08,,,,,1.07,0,0.89
+Fremont County2010,WY,2010,40.12,Fremont County,140.74,122.11,,,,,1.26,0,0.09
+Fremont County2005,WY,2005,36.49,Fremont County,140.74,96.3,,,,0,1.36,1.6,3.68
+Fremont County2000,WY,2000,35.8,Fremont County,140.74,100,,,,,1.36,1.6,3.68
+Fremont County1995,WY,1995,35.71,Fremont County,418.85,216,,,,,1.36,1.6,3.68
+Fremont County1990,WY,1990,1.04,Fremont County,140.74,75.51,,,,,1.36,1.6,3.68
+Fremont County1985,WY,1985,36.6,Fremont County,140.74,75.51,,,,,1.36,1.6,3.68
+Goshen County2015,WY,2015,13.38,Goshen County,201.76,109.18,,,,,1.27,0,0
+Goshen County2010,WY,2010,13.25,Goshen County,140.74,98.03,,,,,1.27,0,0
+Goshen County2005,WY,2005,12.24,Goshen County,140.74,77.11,,,,0,1.36,1.6,3.68
+Goshen County2000,WY,2000,12.54,Goshen County,140.74,105.6,,,,,1.36,1.6,3.68
+Goshen County1995,WY,1995,12.63,Goshen County,83.32,115.2,,,,,1.36,1.6,3.68
+Goshen County1990,WY,1990,1.33,Goshen County,140.74,75.51,,,,,1.36,1.6,3.68
+Goshen County1985,WY,1985,12.6,Goshen County,140.74,75.51,,,,,1.36,1.6,3.68
+Hot Springs County2015,WY,2015,4.74,Hot Springs County,15.1,12.61,,,,,0.28,0,0
+Hot Springs County2010,WY,2010,4.81,Hot Springs County,140.74,18.99,,,,,0.32,0,0
+Hot Springs County2005,WY,2005,4.54,Hot Springs County,140.74,17.77,,,,0,1.36,1.6,3.68
+Hot Springs County2000,WY,2000,4.88,Hot Springs County,140.74,18.5,,,,,1.36,1.6,3.68
+Hot Springs County1995,WY,1995,4.57,Hot Springs County,48.49,32.04,,,,,1.36,1.6,3.68
+Hot Springs County1990,WY,1990,0.38,Hot Springs County,140.74,75.51,,,,,1.36,1.6,3.68
+Hot Springs County1985,WY,1985,6,Hot Springs County,140.74,75.51,,,,,1.36,1.6,3.68
+Johnson County2015,WY,2015,8.59,Johnson County,49.52,39.95,,,,,0.76,0,1.24
+Johnson County2010,WY,2010,8.57,Johnson County,140.74,25.31,,,,,0.59,0.13,1.24
+Johnson County2005,WY,2005,7.72,Johnson County,140.74,25.47,,,,0,1.36,1.6,3.68
+Johnson County2000,WY,2000,7.08,Johnson County,140.74,27.1,,,,,1.36,1.6,3.68
+Johnson County1995,WY,1995,6.64,Johnson County,62.46,61.8,,,,,1.36,1.6,3.68
+Johnson County1990,WY,1990,0.7,Johnson County,140.74,75.51,,,,,1.36,1.6,3.68
+Johnson County1985,WY,1985,7,Johnson County,140.74,75.51,,,,,1.36,1.6,3.68
+Laramie County2015,WY,2015,97.12,Laramie County,79.91,59.27,,,,,1.25,0,0
+Laramie County2010,WY,2010,91.74,Laramie County,140.74,54.87,,,,,1.15,0,0
+Laramie County2005,WY,2005,85.16,Laramie County,140.74,64.41,,,,0,1.36,1.6,3.68
+Laramie County2000,WY,2000,81.61,Laramie County,140.74,53.2,,,,,1.36,1.6,3.68
+Laramie County1995,WY,1995,78.44,Laramie County,73.39,48.1,,,,,1.36,1.6,3.68
+Laramie County1990,WY,1990,0.85,Laramie County,140.74,75.51,,,,,1.36,1.6,3.68
+Laramie County1985,WY,1985,72.9,Laramie County,140.74,75.51,,,,,1.36,1.6,3.68
+Lincoln County2015,WY,2015,18.72,Lincoln County,116.33,72.71,,,,,0.57,0,0
+Lincoln County2010,WY,2010,18.11,Lincoln County,140.74,62.82,,,,,0.52,0,0
+Lincoln County2005,WY,2005,16,Lincoln County,140.74,61.3,,,,0,1.36,1.6,3.68
+Lincoln County2000,WY,2000,14.57,Lincoln County,140.74,59.6,,,,,1.36,1.6,3.68
+Lincoln County1995,WY,1995,13.92,Lincoln County,193.72,178,,,,,1.36,1.6,3.68
+Lincoln County1990,WY,1990,0.67,Lincoln County,140.74,75.51,,,,,1.36,1.6,3.68
+Lincoln County1985,WY,1985,15.2,Lincoln County,140.74,75.51,,,,,1.36,1.6,3.68
+Natrona County2015,WY,2015,82.18,Natrona County,38.58,28.92,,,,,0.63,0,10.91
+Natrona County2010,WY,2010,75.45,Natrona County,140.74,28.43,,,,,0.7,0,2.74
+Natrona County2005,WY,2005,69.8,Natrona County,140.74,14.5,,,,0,1.36,1.6,3.68
+Natrona County2000,WY,2000,66.53,Natrona County,140.74,32.4,,,,,1.36,1.6,3.68
+Natrona County1995,WY,1995,64.02,Natrona County,49.2,37,,,,,1.36,1.6,3.68
+Natrona County1990,WY,1990,0.59,Natrona County,140.74,75.51,,,,,1.36,1.6,3.68
+Natrona County1985,WY,1985,72.9,Natrona County,140.74,75.51,,,,,1.36,1.6,3.68
+Niobrara County2015,WY,2015,2.54,Niobrara County,15.61,14.57,,,,,0.53,0,0
+Niobrara County2010,WY,2010,2.48,Niobrara County,140.74,14.27,,,,,0.58,0,0
+Niobrara County2005,WY,2005,2.29,Niobrara County,140.74,17.88,,,,0,1.36,1.6,3.68
+Niobrara County2000,WY,2000,2.41,Niobrara County,140.74,13.8,,,,,1.36,1.6,3.68
+Niobrara County1995,WY,1995,2.62,Niobrara County,19.64,20.49,,,,,1.36,1.6,3.68
+Niobrara County1990,WY,1990,0.51,Niobrara County,140.74,75.51,,,,,1.36,1.6,3.68
+Niobrara County1985,WY,1985,3.2,Niobrara County,140.74,75.51,,,,,1.36,1.6,3.68
+Park County2015,WY,2015,29.23,Park County,147.85,110.28,,,,,0.51,0,3.02
+Park County2010,WY,2010,28.21,Park County,140.74,81.11,,,,,0.72,0,5.11
+Park County2005,WY,2005,26.66,Park County,140.74,79.07,,,,0,1.36,1.6,3.68
+Park County2000,WY,2000,25.79,Park County,140.74,93.7,,,,,1.36,1.6,3.68
+Park County1995,WY,1995,25.53,Park County,397.88,130.2,,,,,1.36,1.6,3.68
+Park County1990,WY,1990,0.67,Park County,140.74,75.51,,,,,1.36,1.6,3.68
+Park County1985,WY,1985,24.7,Park County,140.74,75.51,,,,,1.36,1.6,3.68
+Platte County2015,WY,2015,8.81,Platte County,113.78,72.23,,,,,0.95,0,0
+Platte County2010,WY,2010,8.67,Platte County,140.74,75.26,,,,,1.23,0,0
+Platte County2005,WY,2005,8.62,Platte County,140.74,49.25,,,,0,1.36,1.6,3.68
+Platte County2000,WY,2000,8.81,Platte County,140.74,62.2,,,,,1.36,1.6,3.68
+Platte County1995,WY,1995,8.34,Platte County,68.61,106,,,,,1.36,1.6,3.68
+Platte County1990,WY,1990,0.9,Platte County,140.74,75.51,,,,,1.36,1.6,3.68
+Platte County1985,WY,1985,9.8,Platte County,140.74,75.51,,,,,1.36,1.6,3.68
+Sheridan County2015,WY,2015,30.01,Sheridan County,63.85,49.77,,,,,0.8,0.13,0
+Sheridan County2010,WY,2010,29.12,Sheridan County,140.74,41.86,,,,,0.85,0,0
+Sheridan County2005,WY,2005,27.39,Sheridan County,140.74,42.07,,,,0,1.36,1.6,3.68
+Sheridan County2000,WY,2000,26.56,Sheridan County,140.74,50.2,,,,,1.36,1.6,3.68
+Sheridan County1995,WY,1995,25.09,Sheridan County,162.29,91.8,,,,,1.36,1.6,3.68
+Sheridan County1990,WY,1990,0.89,Sheridan County,140.74,75.51,,,,,1.36,1.6,3.68
+Sheridan County1985,WY,1985,26.7,Sheridan County,140.74,75.51,,,,,1.36,1.6,3.68
+Sublette County2015,WY,2015,9.9,Sublette County,196.93,143.13,,,,,0.82,1.15,2.32
+Sublette County2010,WY,2010,10.25,Sublette County,140.74,61.45,,,,,0.63,0.48,0.97
+Sublette County2005,WY,2005,6.93,Sublette County,140.74,63.15,,,,0,1.36,1.6,3.68
+Sublette County2000,WY,2000,5.92,Sublette County,140.74,90.9,,,,,1.36,1.6,3.68
+Sublette County1995,WY,1995,5.51,Sublette County,317.53,284.5,,,,,1.36,1.6,3.68
+Sublette County1990,WY,1990,0.8,Sublette County,140.74,75.51,,,,,1.36,1.6,3.68
+Sublette County1985,WY,1985,5.7,Sublette County,140.74,75.51,,,,,1.36,1.6,3.68
+Sweetwater County2015,WY,2015,44.63,Sweetwater County,34.08,28.43,,,,,0.28,0,0
+Sweetwater County2010,WY,2010,43.81,Sweetwater County,140.74,22.26,,,,,0.25,0,0
+Sweetwater County2005,WY,2005,37.98,Sweetwater County,140.74,19,,,,0,1.36,1.6,3.68
+Sweetwater County2000,WY,2000,37.61,Sweetwater County,140.74,21.1,,,,,1.36,1.6,3.68
+Sweetwater County1995,WY,1995,40.98,Sweetwater County,16.83,16,,,,,1.36,1.6,3.68
+Sweetwater County1990,WY,1990,0.31,Sweetwater County,140.74,75.51,,,,,1.36,1.6,3.68
+Sweetwater County1985,WY,1985,44.7,Sweetwater County,140.74,75.51,,,,,1.36,1.6,3.68
+Teton County2015,WY,2015,23.13,Teton County,22.57,14.68,,,,,0.06,0,0.65
+Teton County2010,WY,2010,21.29,Teton County,140.74,10.76,,,,,0.09,0,0.78
+Teton County2005,WY,2005,19.03,Teton County,140.74,26.9,,,,0,1.36,1.6,3.68
+Teton County2000,WY,2000,18.25,Teton County,140.74,17,,,,,1.36,1.6,3.68
+Teton County1995,WY,1995,13.44,Teton County,25.58,19.1,,,,,1.36,1.6,3.68
+Teton County1990,WY,1990,0.15,Teton County,140.74,75.51,,,,,1.36,1.6,3.68
+Teton County1985,WY,1985,10.8,Teton County,140.74,75.51,,,,,1.36,1.6,3.68
+Uinta County2015,WY,2015,20.82,Uinta County,111.64,70.14,,,,,0.48,0,0
+Uinta County2010,WY,2010,21.12,Uinta County,140.74,53.67,,,,,0.58,0,0
+Uinta County2005,WY,2005,19.94,Uinta County,140.74,27.15,,,,0,1.36,1.6,3.68
+Uinta County2000,WY,2000,19.74,Uinta County,140.74,46.1,,,,,1.36,1.6,3.68
+Uinta County1995,WY,1995,20.09,Uinta County,105.41,97,,,,,1.36,1.6,3.68
+Uinta County1990,WY,1990,0.67,Uinta County,140.74,75.51,,,,,1.36,1.6,3.68
+Uinta County1985,WY,1985,23.5,Uinta County,140.74,75.51,,,,,1.36,1.6,3.68
+Washakie County2015,WY,2015,8.33,Washakie County,64.22,38.43,,,,,0.32,0,2.26
+Washakie County2010,WY,2010,8.53,Washakie County,140.74,38.32,,,,,0.48,0,5.9
+Washakie County2005,WY,2005,7.93,Washakie County,140.74,42.07,,,,0,1.36,1.6,3.68
+Washakie County2000,WY,2000,8.29,Washakie County,140.74,42.4,,,,,1.36,1.6,3.68
+Washakie County1995,WY,1995,8.66,Washakie County,71.62,57.3,,,,,1.36,1.6,3.68
+Washakie County1990,WY,1990,0.43,Washakie County,140.74,75.51,,,,,1.36,1.6,3.68
+Washakie County1985,WY,1985,10,Washakie County,140.74,75.51,,,,,1.36,1.6,3.68
+Weston County2015,WY,2015,7.23,Weston County,5.01,4.23,,,,,0.58,0,0
+Weston County2010,WY,2010,7.21,Weston County,140.74,5.15,,,,,0.53,0,0
+Weston County2005,WY,2005,6.67,Weston County,140.74,5.24,,,,0,1.36,1.6,3.68
+Weston County2000,WY,2000,6.64,Weston County,140.74,5.7,,,,,1.36,1.6,3.68
+Weston County1995,WY,1995,6.51,Weston County,1.85,6.71,,,,,1.36,1.6,3.68
+Weston County1990,WY,1990,0.47,Weston County,140.74,75.51,,,,,1.36,1.6,3.68
+Weston County1985,WY,1985,7.9,Weston County,140.74,75.51,,,,,1.36,1.6,3.68
