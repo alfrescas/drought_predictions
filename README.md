@@ -36,9 +36,9 @@ In addition to meeting twice a week via Zoom during our regularly scheduled clas
   
 ## Machine Learning Model
 ### Linear Regression Model
-Team members present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
-- Takes in data in from the provisional database 
-- Outputs label(s) for input data
+Linear regression is used to predict continuos variables. It will take in a set of factors to attempt to learn patterns from them to predict a numerical value. The model predicts the result based on learned patterns if new data is added. 
+
+We chose this model to predict what the water levels will be in the years to come.
 
 ## Database
 ### ERD
