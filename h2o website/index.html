@@ -7,6 +7,7 @@
     <title>When Will the Water Run Out?</title>
 </head>
 
+
 <link
 rel="stylesheet"
 href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
@@ -22,25 +23,29 @@ crossorigin="anonymous"/>
 </div>
 <br>
 <br>
-<div class="col-md-8">
+<div class="container text-center">
                 
-    <h2>Water Usage in the Colorado River Basin </h2>
-
+    <h1>Water Usage in the Colorado River Basin </h1>
 </div>
 <br>
 <br>
+<div class="container text-center">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ4M1y9kx-kXKB7poh-Jrk2mEmMnse41maTAigkOneMSfbYTrgYHjmgmF3zHJRtbRE6XYs5_GQtjXt5/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
-<div class="col-md-4">
+<br>
+<br>
+<div class="container">
+    <div class="col-md-4">
     <p>
-        <h3>Reason why we selected this topic:</h3> <br>
+        <h4>Reason why we selected this topic:</h4>
         Water is one of our most precious resources because humanity couldn't exist without it. In addition to its key role in our survival, water is essential in nearly every facet of modern life from industrial processes to domestic pursuits. However, water is omnipresent and so we don't always take the time to consider how much we use, when and where we use it, and why we need it. We selected this topic due to its high importance and relevance to our society. We want to predict how our water usage and supply might look in the future to make recommendations for conservation and preparation. <br>
         <br>
 </div>
 
 <div>
-    <div class="container">
+    <div class="col-md-8">
         
-        <div class="container pt-3">
 
         <h3>Description of our source of data:</h3><br>
             The USGS, U.S. Geological Survey, website maintains national data bases of water-use information. The data are collected and compiled every five years for each State, the District of Columbia, Puerto Rico, and the U.S. Virgin Islands. We have compiled the datasets from 1985-2015, 7 total, into a csv file and have sorted by the 4 states in the upper CO basin. The data contains water-use information that looks at how each of the 4 states uses water,the total amount of water withdrawals, and withdrawals broken down by type of water (fresh or saline) and withdrawal type (groundwater and surface water). The amount of withdrawals for water-use categories is also listed. All numbers are measured in million gallons per day (Mgal/d). <br>
@@ -50,6 +55,8 @@ crossorigin="anonymous"/>
 </div>
 
 <div>
+    <div class="container">
+    <div class="col-sm">
         <h3>Questions we hope to answer with the data:</h3> <br>
         <ul>
         <li>When will the water run out?</li><br>
@@ -57,10 +64,24 @@ crossorigin="anonymous"/>
         <li>How are other areas water levels compared to Colorado river water levels?</li><br>
         <li>Which factors have the most impact in water reduction?</li><br>
         </ul>
-
+        
     </p>
+        </div>
+    </div>
 </div>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ4M1y9kx-kXKB7poh-Jrk2mEmMnse41maTAigkOneMSfbYTrgYHjmgmF3zHJRtbRE6XYs5_GQtjXt5/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<div>
+    <div class="container">
+        <div class="col-sm">
+
+    <h3>Linear Regression Model</h3><br>
+Linear regression is used to predict continuous variables. It will take in a set of factors to attempt to learn patterns from them to predict a numerical value. The model predicts the result based on learned patterns if new data is added.
+
+We chose this model to predict what the water levels will be in the years to come.
+            </div>
+        </div>  
+</div>
+
 
 
     
