@@ -18,65 +18,136 @@ crossorigin="anonymous"/>
 <body>
 
 <div class="jumbotron">
-    <h1 class="text-left">When Will the Water Run Out?</h1>
-    <p style = "color:aliceblue"> 
+    <div style="color:antiquewhite">
+    <h1 class="text-center">When Will the Water Run Out?</h1>
 </div>
-<br>
-<br>
-<div class="container text-center">
-                
-    <h1>Water Usage in the Colorado River Basin </h1>
 </div>
+
+<div style="background-color:darkslategray">
+    <div style = "color:antiquewhite"> 
+    <h2 class="text-center">Water Usage in the Colorado River Basin </h2>
+</div>
+</div> 
+
 <br>
 <br>
+
+<div class="container" style="margin-top:30px">
+    <div class="row">
+      <div class="col-sm-4">
+        <h2>Why We Selected This Topic</h2>
+        <!-- <h5>Random Text Here</h5> -->
+        
+        <p>Water is one of our most precious resources because humanity couldn't exist without it. In addition to its key role in our survival, water is essential in nearly every facet of modern life from industrial processes to domestic pursuits. However, water is omnipresent and so we don't always take the time to consider how much we use, when and where we use it, and why we need it. We selected this topic due to its high importance and relevance to our society. We want to predict how our water usage and supply might look in the future to make recommendations for conservation and preparation.</p>
+        <h3>Some Links</h3>
+        <ul class="nav nav-pills flex-column">
+          <li class="nav-item">
+            <a class="nav-link active" href="#">Active</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Link</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Link</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled" href="#">Disabled</a>
+          </li>
+        </ul>
+        <hr class="d-sm-none">
+      </div>
+      <div class="col-sm-8">
+        <h2>Description of Data Source</h2>
+        <h5>USGS - U.S. Geological Survey</h5>
+        <!-- <div class="fakeimg">Fake Image</div> -->
+        <!-- <p>Some text..</p> -->
+        <p>The USGS, U.S. Geological Survey, website maintains national data bases of water-use information. The data are collected and compiled every five years for each State, the District of Columbia, Puerto Rico, and the U.S. Virgin Islands. We have compiled the datasets from 1985-2015, 7 total, into a csv file and have sorted by the 4 states in the upper CO basin. The data contains water-use information that looks at how each of the 4 states uses water,the total amount of water withdrawals, and withdrawals broken down by type of water (fresh or saline) and withdrawal type (groundwater and surface water). The amount of withdrawals for water-use categories is also listed. All numbers are measured in million gallons per day (Mgal/d).</p>
+        <br>
+        <h2>Questions We Hope to Answer:</h2>
+        <!-- <h5>Random Text Here</h5> -->
+        <!-- <div class="fakeimg">Fake Image</div> -->
+        <!-- <p>Some text..</p> -->
+        <ul>
+            <li>When will the water run out?</li><br>
+            <li>What is the predicted decrease of water levels?</li><br>
+            <li>How are other areas water levels compared to Colorado river water levels?</li><br>
+            <li>Which factors have the most impact in water reduction?</li><br>
+            </ul>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+
 <div class="container text-center">
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ4M1y9kx-kXKB7poh-Jrk2mEmMnse41maTAigkOneMSfbYTrgYHjmgmF3zHJRtbRE6XYs5_GQtjXt5/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 <br>
 <br>
-<div class="container">
+
+
+<h2 class = ""> Visualizing What One Million Gallons Means:</h2><p> Imagine a swimming pool almost as long as a football field, as wide as a semi-truck, and it's also 10 feet deep.</p>
+<br>
+    <img src="/Users/caseykimble/Desktop/Final Project/h2o website/static/images/million_gallon_pool.png"
+    width="1344"
+    height="756"
+    />
+<br>
+<br>
+<br>
+
+    
     <div class="row">
-        <div class="col-lg-6">
-        <h3>Reason why we selected this topic:</h3>
-        Water is one of our most precious resources because humanity couldn't exist without it. In addition to its key role in our survival, water is essential in nearly every facet of modern life from industrial processes to domestic pursuits. However, water is omnipresent and so we don't always take the time to consider how much we use, when and where we use it, and why we need it. We selected this topic due to its high importance and relevance to our society. We want to predict how our water usage and supply might look in the future to make recommendations for conservation and preparation. <br>
-        <br>
-        </div>
-        <div class="col-lg-6">
-        <h3>Description of our source of data:</h3>
-            The USGS, U.S. Geological Survey, website maintains national data bases of water-use information. The data are collected and compiled every five years for each State, the District of Columbia, Puerto Rico, and the U.S. Virgin Islands. We have compiled the datasets from 1985-2015, 7 total, into a csv file and have sorted by the 4 states in the upper CO basin. The data contains water-use information that looks at how each of the 4 states uses water,the total amount of water withdrawals, and withdrawals broken down by type of water (fresh or saline) and withdrawal type (groundwater and surface water). The amount of withdrawals for water-use categories is also listed. All numbers are measured in million gallons per day (Mgal/d). <br>
-            <br>
-        </div>
+    <div class="col-sm-4" style="background-color:lavender;">.test</div>
+    <div class="col-sm-8" style="background-color:lavenderblush;">.test</div>
+    <br>
+    <br>
+    <table class="table table-striped">
+        <thead>
+          <tr>
+                <th>ID</th>
+                <th>State</th>
+                <th>Year</th>
+                <th>Total Population</th>
+                <th>County</th>
+                <th>Irrigation Total Consumption</th>
+                <th>Acres Irrigated</th>
+                <th>Irrigation Total Withdrawal - Crops</th>
+                <th>Acres Irrigated - Crops</th>
+                <th>Irrigation Total Consumption - Golf</th>
+                <th>Acres Irrigated - Golf</th>
+                <th></th>
+          </tr>
+        </thead>
+
+        <!-- <tbody></tbody> -->
+
+      </table>
     </div>
 </div>
-<br><br><br>
-<div>
-    <div class="container">
-        <h3>Questions we hope to answer with the data:</h3> <br>
-        <ul>
-        <li>When will the water run out?</li><br>
-        <li>What is the predicted decrease of water levels?</li><br>
-        <li>How are other areas water levels compared to Colorado river water levels?</li><br>
-        <li>Which factors have the most impact in water reduction?</li><br>
-        </ul>
-        
-    </p>
-    </div>
 </div>
-
+</div>
+<br>
+<br>
+<br>
+<br>
 <div>
     <div class="container">
-        <div class="col-md-8">
 
-    <h3>Linear Regression Model</h3><br>
+    <h3>Linear Regression Model</h3>
+    <br>
 Linear regression is used to predict continuous variables. It will take in a set of factors to attempt to learn patterns from them to predict a numerical value. The model predicts the result based on learned patterns if new data is added.
 
 We chose this model to predict what the water levels will be in the years to come.
-            </div>
-        </div>  
+    </div>  
 </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
 
+<script src="static/js/data.js"></script>
+
+<script src="static/js/app.js"></script>
 
     
 </body>
