@@ -26,6 +26,8 @@ https://docs.google.com/presentation/d/1nw6eYH_HWEkV3ZbEHgJSRjrHohP9-Oclbgn7JjEW
 
 #### Description of feature engineering and the feature selection, including the decision-making process
 
+We decided to focus on using the features invovling the total withdrawals of each type (public supply, industrial, mining, etc...) .We noticed several columns that were columns that were combinations of several other columns. This led us to mainly using columns with "totl" which were primarily totals of all the relevant data of that type. For example, the public supply fresh groundwater withdrawals (ps-wgwfr) plus the public supply fresh surface withdrawals (ps-wswfr) combined to make the public supply fresh total (ps-wfrto). These columns we could remove from the feature selection.
+
 #### Description of how data was split into training and testing sets
 - The data was split for years before 2010 and test data to years after as shown below:
 <img width="808" alt="Screen Shot 2022-11-17 at 6 07 44 PM" src="https://user-images.githubusercontent.com/105477190/202593126-5a230b5a-fecb-450d-b759-7bebe53dab43.png">
