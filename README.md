@@ -9,16 +9,11 @@ https://docs.google.com/presentation/d/1nw6eYH_HWEkV3ZbEHgJSRjrHohP9-Oclbgn7JjEW
   - Water is one of our most precious resources because humanity couldn't exist without it. In addition to its key role in our survival, water is essential in nearly every facet of modern life from industrial processes to domestic pursuits. However, water is omnipresent and so we don't always take the time to consider how much we use, when and where we use it, and why we need it. We selected this topic due to its high importance and relevance to our society. We want to predict how our water usage and supply might look in the future to make recommendations for conservation and preparation.
 - Description of our source of data
   - The USGS, U.S. Geological Survey, website maintains national data bases of water-use information. The data are collected and compiled every five years for each State, the District of Columbia, Puerto Rico, and the U.S. Virgin Islands. We have compiled the datasets from 1985-2015, 7 total, into a csv file and have sorted by the 4 states in the upper CO basin. The data contains water-use information that looks at how each of the 4 states uses water,the total amount of water withdrawals, and withdrawals broken down by type of water (fresh or saline) and withdrawal type (groundwater and surface water). The amount of withdrawals for water-use categories is also listed. All numbers are measured in million gallons per day (Mgal/d). 
-
-### Questions we hope to answer with the data:
-
-* Where is the water going?
-
-* Does population affect a decrease in water levels?
-
-* How are water levels in other areas affected by Colorado river water levels?
-
-* Which factors have the most impact in water reduction?
+- Questions we hope to answer with the data
+   -  When will the water run out? 
+   -  What is the predicted decrease of water levels? 
+   -  How are other areas water levels compared to Colorado river water levels? 
+   -  Which factors have the most impact in water reduction?
 
 ## States Relying on Colorado River Basin Water Supply:
 
@@ -36,11 +31,12 @@ https://docs.google.com/presentation/d/1nw6eYH_HWEkV3ZbEHgJSRjrHohP9-Oclbgn7JjEW
 <img width="808" alt="Screen Shot 2022-11-17 at 6 07 44 PM" src="https://user-images.githubusercontent.com/105477190/202593126-5a230b5a-fecb-450d-b759-7bebe53dab43.png">
 
 #### Explanation of model choice, including limitations and benefits
-- Linear regression is used to predict continuos variables. It will take in a set of factors to attempt to learn patterns from them to predict a numerical value. The model predicts the result based on learned patterns if new data is added. We chose this model to predict what the water levels will be in the years to come.
+- Linear regression is used to predict continuous variables. It takes in a set of factors to attempt to learn patterns from them to predict a numerical value. The model predicts the result based on learned patterns if new data is added. We chose this model to predict what the water levels will be in the years to come.
+- Random Forest Regression is a supervised learning algorithm that uses branches to predict data, in which helps create more results by using mulitple models. This kind of model is helpful when dealing with multiple strands of data. 
 
 #### Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
 - We explored different models to test their outcomes. 
-- Random Forrest Regression was the most successful out of the two methods used for the machine learning model. We found that the first method, Linear Regression Algorithm, was not useful for the outcome we want to predict. 
+- Random Forest Regression was the most successful out of the two methods used for the machine learning model. We found that the first method, Linear Regression Algorithm, was not useful for the outcome we want to predict. 
 - With the dataset we are using, the machine learning model is not successful in reading the data. We have now shifted to use other methods of interpreting our dataset, i.e Tableau.
 #### Description of how they have trained the model thus far, and any additional training that will take place
 
