@@ -22,27 +22,23 @@ https://docs.google.com/presentation/d/1nw6eYH_HWEkV3ZbEHgJSRjrHohP9-Oclbgn7JjEW
 ## Machine Learning Model
 ### Linear Regression Model
 
-- Description of data preprocessing
+#### Description of data preprocessing
 
-- Description of feature engineering and the feature selection, including the decision-making process
+#### Description of feature engineering and the feature selection, including the decision-making process
 
-- Description of how data was split into training and testing sets
-
-The data was split for years before 2010 and test data to years after as shown below:
+#### Description of how data was split into training and testing sets
+- The data was split for years before 2010 and test data to years after as shown below:
 <img width="808" alt="Screen Shot 2022-11-17 at 6 07 44 PM" src="https://user-images.githubusercontent.com/105477190/202593126-5a230b5a-fecb-450d-b759-7bebe53dab43.png">
 
-- Explanation of model choice, including limitations and benefits
+#### Explanation of model choice, including limitations and benefits
+- Linear regression is used to predict continuos variables. It will take in a set of factors to attempt to learn patterns from them to predict a numerical value. The model predicts the result based on learned patterns if new data is added. We chose this model to predict what the water levels will be in the years to come.
 
-Linear regression is used to predict continuos variables. It will take in a set of factors to attempt to learn patterns from them to predict a numerical value. The model predicts the result based on learned patterns if new data is added. We chose this model to predict what the water levels will be in the years to come.
+#### Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
+- We explored different models to test their outcomes. We tried to use Random Forrest but Linear Regression proved to be the most successful.
 
-- Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
+#### Description of how they have trained the model thus far, and any additional training that will take place
 
-We explored different models to test their outcomes. We tried to use Random Forrest but Linear Regression proved to be the most successful.
-
-- Description of how they have trained the model thus far, and any additional training that will take place
-
-
-- Description of current accuracy score
+#### Description of current accuracy score
 
 ## Database
 ### ERD
