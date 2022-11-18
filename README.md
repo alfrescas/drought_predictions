@@ -55,15 +55,17 @@ How is it integrated into our database?
 How does it work with the code?
 - It works with the code to outline where the commonalities are within the datasets so that we could easily combine the datasets and organize the structure.
 
-### Data Exploration Phase
+## Data Exploration Phase
 
 The group continues to clean, append and merge datasets. Our data has a significant number of columns and we have spent time determining which of these columns have data pertinent to our project and getting rid of the ones that do not. We are reviewing our data to see what exactly it can tell us and if any additional datasets are needed to help predict and analyze results. 
 
 We are also prepping code for machine learning and trying to determine whether our project is better suited for a linear regression to analyze correlation, or time series model to analyze forecasting. 
 
-### Analysis Phase
+## Analysis Phase
 
 The states we are analyzing are Colorado, California, Arizona, Utah, Wyoming, Nevada, and New Mexico. All 7 states are part of the Colorado River Basin. The Colorado River flows for approx. 1,450 miles and provides water to all 7 states. The years we are analyzing are 1985, 1990, 1995, 2000, 2005, 2010, and 2015. The analysis phase of the project will involve analyzing the total withdrawals and total domestic water use in million gallons per day (Mgal/d) per state and per year. We will look at how each state uses water by looking at withdrawals and withdrawal type (groundwater and surface water). 
+
+## Dashboard
 
 ### Tools Used to Create Final Dashboard 
 
@@ -80,12 +82,10 @@ We will also use interactive elements in our website design in relation to a tab
 ![Website_Storyboard](https://user-images.githubusercontent.com/105175961/200971400-2180b535-68c0-4325-9d87-fb3a08bf20aa.png)
 
 
-
-
 ### Tableau Link
 https://public.tableau.com/app/profile/jordan.pelletier1563/viz/WaterAnalysisStory/WaterAnalysisStory
 
-### Technologies, languages, tools, algorithms used
+## Technologies, languages, tools, algorithms used
 
 - Python Jupyter Notebook
 - HTML/Javascript
