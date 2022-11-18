@@ -9,11 +9,16 @@ https://docs.google.com/presentation/d/1nw6eYH_HWEkV3ZbEHgJSRjrHohP9-Oclbgn7JjEW
   - Water is one of our most precious resources because humanity couldn't exist without it. In addition to its key role in our survival, water is essential in nearly every facet of modern life from industrial processes to domestic pursuits. However, water is omnipresent and so we don't always take the time to consider how much we use, when and where we use it, and why we need it. We selected this topic due to its high importance and relevance to our society. We want to predict how our water usage and supply might look in the future to make recommendations for conservation and preparation.
 - Description of our source of data
   - The USGS, U.S. Geological Survey, website maintains national data bases of water-use information. The data are collected and compiled every five years for each State, the District of Columbia, Puerto Rico, and the U.S. Virgin Islands. We have compiled the datasets from 1985-2015, 7 total, into a csv file and have sorted by the 4 states in the upper CO basin. The data contains water-use information that looks at how each of the 4 states uses water,the total amount of water withdrawals, and withdrawals broken down by type of water (fresh or saline) and withdrawal type (groundwater and surface water). The amount of withdrawals for water-use categories is also listed. All numbers are measured in million gallons per day (Mgal/d). 
-- Questions we hope to answer with the data
-   -  When will the water run out? 
-   -  What is the predicted decrease of water levels? 
-   -  How are other areas water levels compared to Colorado river water levels? 
-   -  Which factors have the most impact in water reduction?
+
+### Questions we hope to answer with the data:
+
+* Where is the water going?
+
+* Does population affect a decrease in water levels?
+
+* How are water levels in other areas affected by Colorado river water levels?
+
+* Which factors have the most impact in water reduction?
 
 ## States Relying on Colorado River Basin Water Supply:
 
@@ -80,8 +85,6 @@ We will also use interactive elements in our website design in relation to a tab
 
 
 ### Tableau Sample Visuals
-Tableau Link https://public.tableau.com/app/profile/jordan.pelletier1563/viz/WaterAnalysisStory/WaterAnalysisStory
-
 ![Screen Shot 2022-11-17 at 6 49 50 PM](https://user-images.githubusercontent.com/105477190/202598196-3906eaeb-2b28-4395-ba7c-046a21b02c87.png)
 
 ![MapOfTotPopbyCnty](https://user-images.githubusercontent.com/105477190/202590144-7e202dcf-89b7-4300-b070-06f5336ed725.png)
