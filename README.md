@@ -41,7 +41,7 @@ We decided to focus on using the features invovling the total withdrawals of eac
 - Random Forest Regression was the most successful out of the two methods used for the machine learning model. We found that the first method, Linear Regression Algorithm, was not useful for the outcome we want to predict. 
 - With the dataset we are using, the machine learning model is not successful in reading the data. We have now shifted to use other methods of interpreting our dataset, i.e Tableau.
 #### Description of how they have trained the model thus far, and any additional training that will take place
-The training of the model has been unsuccessful, there are columns in our dataset with information that are hindering an accurate prediction. Going forward we wil need to figure out which columns are causing our model to be unsuccessful. 
+The training of the model has been unsuccessful, there are columns in our dataset with information that are hindering an accurate prediction. Going forward we will need to figure out which columns are causing our model to be unsuccessful. 
 #### Description of current accuracy score
 Random Forest Regression score = 0.9691657678491484.
 ## Database
