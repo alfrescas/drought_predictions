@@ -80,6 +80,8 @@ We will also use interactive elements in our website design in relation to a tab
 
 
 ### Tableau Sample Visuals
+Tableau Link https://public.tableau.com/app/profile/jordan.pelletier1563/viz/WaterAnalysisStory/WaterAnalysisStory
+
 ![Screen Shot 2022-11-17 at 6 49 50 PM](https://user-images.githubusercontent.com/105477190/202598196-3906eaeb-2b28-4395-ba7c-046a21b02c87.png)
 
 ![MapOfTotPopbyCnty](https://user-images.githubusercontent.com/105477190/202590144-7e202dcf-89b7-4300-b070-06f5336ed725.png)
