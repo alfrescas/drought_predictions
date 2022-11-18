@@ -78,5 +78,11 @@ The group plans on displaying our findings on a website. Our geographical topic 
 
 
 
+### Tableau Sample Visuals
+![MapOfTotPopbyCnty](https://user-images.githubusercontent.com/105477190/202590144-7e202dcf-89b7-4300-b070-06f5336ed725.png)
+
+![PsWtotlbySTYR](https://user-images.githubusercontent.com/105477190/202590166-6bb4c31c-afc2-4265-9adf-fed9d6176a30.png)
+
+![TotalPopbyYR](https://user-images.githubusercontent.com/105477190/202590168-8f320d26-12dc-4305-887c-ad5e3849af75.png)
 
 
