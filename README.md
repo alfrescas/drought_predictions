@@ -12,7 +12,7 @@ https://docs.google.com/presentation/d/1nw6eYH_HWEkV3ZbEHgJSRjrHohP9-Oclbgn7JjEW
 - Questions we hope to answer with the data
    -  When will the water run out? 
    -  What is the predicted decrease of water levels? 
-   -  How are other areas water levels compared to Colorado river water levels? 
+   -  How are Colorado river water levels compared to other areas?? 
    -  Which factors have the most impact in water reduction?
 
 ## States Relying on Colorado River Basin Water Supply:
