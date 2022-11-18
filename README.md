@@ -36,6 +36,7 @@ https://docs.google.com/presentation/d/1nw6eYH_HWEkV3ZbEHgJSRjrHohP9-Oclbgn7JjEW
 #### Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
 - We explored different models to test their outcomes. 
 - Random Forrest Regression was the most successful out of the two methods used for the machine learning model. We found that the first method, Linear Regression Algorithm, was not useful for the outcome we want to predict. 
+- With the dataset we are using, the machine learning model is not successful in reading the data. We have now shifted to use other methods of interpreting our dataset, i.e Tableau.
 #### Description of how they have trained the model thus far, and any additional training that will take place
 
 #### Description of current accuracy score
