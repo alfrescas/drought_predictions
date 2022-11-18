@@ -1,6 +1,6 @@
 # CO River Basin Water Supply
 
-## Presentation
+## Google Slides Presentation
 https://docs.google.com/presentation/d/1nw6eYH_HWEkV3ZbEHgJSRjrHohP9-Oclbgn7JjEWED8/edit?usp=sharing
 
 - Selected topic
@@ -18,29 +18,28 @@ https://docs.google.com/presentation/d/1nw6eYH_HWEkV3ZbEHgJSRjrHohP9-Oclbgn7JjEW
 ## States Relying on Colorado River Basin Water Supply:
 
 ![Upper_Lower_Basin](https://user-images.githubusercontent.com/105175961/199853643-227281eb-0fda-4b28-a371-13f5b090a121.png)
-
-
-## Communication Protocols
-
-### Methods Used for Communication: 
-
-- Zoom, Slack, Microsoft Teams, Google Drive
-
-In addition to meeting twice a week via Zoom during our regularly scheduled class time, the group is electing to meet at least once or twice a week outside of class via Microsoft Teams. We also maintain frequent communication via Slack, and will create a shared Google Doc that everyone can access, to plan and stay on top of upcoming tasks and update as necessary. While everyone in the group will be assigned their own pieces of the project that play to our strengths, we plan on taking an open-collaborative approach where all group members will actively participate in aiding and encouraging fellow group members.
-
-## Github
-- Includes a README.md
-- README.md README.md must include: 
-   - Description of the communication protocols
-- Individual Branches 
-  - At least one branch for each team member 
-  - Each team member has at least four commits from the duration of the first segment 
   
 ## Machine Learning Model
 ### Linear Regression Model
-Linear regression is used to predict continuos variables. It will take in a set of factors to attempt to learn patterns from them to predict a numerical value. The model predicts the result based on learned patterns if new data is added. 
 
-We chose this model to predict what the water levels will be in the years to come.
+- Description of data preprocessing
+
+- Description of feature engineering and the feature selection, including the decision-making process
+
+- Description of how data was split into training and testing sets
+The data was split for years before 2010 and test data to years after
+<img width="808" alt="Screen Shot 2022-11-17 at 6 07 44 PM" src="https://user-images.githubusercontent.com/105477190/202593126-5a230b5a-fecb-450d-b759-7bebe53dab43.png">
+
+- Explanation of model choice, including limitations and benefits
+Linear regression is used to predict continuos variables. It will take in a set of factors to attempt to learn patterns from them to predict a numerical value. The model predicts the result based on learned patterns if new data is added. We chose this model to predict what the water levels will be in the years to come.
+
+- Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
+We explored different models to test their outcomes. We tried to use Random Forrest but Linear Regression proved to be the most successful.
+
+- Description of how they have trained the model thus far, and any additional training that will take place
+
+
+- Description of current accuracy score
 
 ## Database
 ### ERD
@@ -53,8 +52,6 @@ How is it integrated into our database?
 How does it work with the code?
 - It works with the code to outline where the commonalities are within the datasets so that we could easily combine the datasets and organize the structure.
 
-## Segment 2: 
-
 ### Data Exploration Phase
 
 The group continues to clean, append and merge datasets. Our data has a significant number of columns and we have spent time determining which of these columns have data pertinent to our project and getting rid of the ones that do not. We are reviewing our data to see what exactly it can tell us and if any additional datasets are needed to help predict and analyze results. 
@@ -65,9 +62,13 @@ We are also prepping code for machine learning and trying to determine whether o
 
 The states we are analyzing are Colorado, California, Arizona, Utah, Wyoming, Nevada, and New Mexico. All 7 states are part of the Colorado River Basin. The Colorado River flows for approx. 1,450 miles and provides water to all 7 states. The years we are analyzing are 1985, 1990, 1995, 2000, 2005, 2010, and 2015. The analysis phase of the project will involve analyzing the total withdrawals and total domestic water use in million gallons per day (Mgal/d) per state and per year. We will look at how each state uses water by looking at withdrawals and withdrawal type (groundwater and surface water). 
 
-### Tools Used to Create Final Dashboard
+### Tools Used to Create Final Dashboard 
 
 The group plans on displaying our findings on a website. Our geographical topic lends well to using maps created in Tableau to show analysis and predictions based on usage and availability. We will also use Tableau to create charts relevant to our findings, and incorporate all of these visuals into Google Slides to pair with our analysis and display on our site. We will also use interactive elements in our website design, buttons to select individual states and/or years and see a set of maps, or possibly a drop down or search filter. 
+
+### Description of Interactive Elements
+
+We will also use interactive elements in our website design in relation to a table, buttons to select individual states and/or years to see a set of maps, or possibly a drop down or search filter.
 
 ### Website Storyboard
 
@@ -84,5 +85,12 @@ The group plans on displaying our findings on a website. Our geographical topic 
 ![PsWtotlbySTYR](https://user-images.githubusercontent.com/105477190/202590166-6bb4c31c-afc2-4265-9adf-fed9d6176a30.png)
 
 ![TotalPopbyYR](https://user-images.githubusercontent.com/105477190/202590168-8f320d26-12dc-4305-887c-ad5e3849af75.png)
+
+### Technologies, languages, tools, algorithms used
+
+- Python Jupyter Notebook
+- HTML/Javascript
+- Tableau
+- Postgress/PGAdmin
 
 
