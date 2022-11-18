@@ -15,17 +15,7 @@ https://docs.google.com/presentation/d/1nw6eYH_HWEkV3ZbEHgJSRjrHohP9-Oclbgn7JjEW
    -  How are Colorado river water levels compared to other areas?? 
    -  Which factors have the most impact in water reduction?
 
-### Data Exploration Phase
-
-The group continues to clean, append and merge datasets. Our data has a significant number of columns and we have spent time determining which of these columns have data pertinent to our project and getting rid of the ones that do not. We are reviewing our data to see what exactly it can tell us and if any additional datasets are needed to help predict and analyze results. 
-
-We are also prepping code for machine learning and trying to determine whether our project is better suited for a linear regression to analyze correlation, or time series model to analyze forecasting. 
-
-### Analysis Phase
-
-The states we are analyzing are Colorado, California, Arizona, Utah, Wyoming, Nevada, and New Mexico. All 7 states are part of the Colorado River Basin. The Colorado River flows for approx. 1,450 miles and provides water to all 7 states. The years we are analyzing are 1985, 1990, 1995, 2000, 2005, 2010, and 2015. The analysis phase of the project will involve analyzing the total withdrawals and total domestic water use in million gallons per day (Mgal/d) per state and per year. We will look at how each state uses water by looking at withdrawals and withdrawal type (groundwater and surface water). 
-
-### States Relying on Colorado River Basin Water Supply:
+## States Relying on Colorado River Basin Water Supply:
 
 ![Upper_Lower_Basin](https://user-images.githubusercontent.com/105175961/199853643-227281eb-0fda-4b28-a371-13f5b090a121.png)
   
@@ -51,9 +41,9 @@ We decided to focus on using the features invovling the total withdrawals of eac
 - Random Forest Regression was the most successful out of the two methods used for the machine learning model. We found that the first method, Linear Regression Algorithm, was not useful for the outcome we want to predict. 
 - With the dataset we are using, the machine learning model is not successful in reading the data. We have now shifted to use other methods of interpreting our dataset, i.e Tableau.
 #### Description of how they have trained the model thus far, and any additional training that will take place
-
+The training of the model has been unsuccessful, there are columns in our dataset with information that are hindering an accurate prediction. Going forward we wil need to figure out which columns are causing our model to be unsuccessful. 
 #### Description of current accuracy score
-
+Random Forest Regression score = 0.9691657678491484.
 ## Database
 ### ERD
 ### Sample ERD
@@ -65,7 +55,15 @@ How is it integrated into our database?
 How does it work with the code?
 - It works with the code to outline where the commonalities are within the datasets so that we could easily combine the datasets and organize the structure.
 
-## Dashboard
+### Data Exploration Phase
+
+The group continues to clean, append and merge datasets. Our data has a significant number of columns and we have spent time determining which of these columns have data pertinent to our project and getting rid of the ones that do not. We are reviewing our data to see what exactly it can tell us and if any additional datasets are needed to help predict and analyze results. 
+
+We are also prepping code for machine learning and trying to determine whether our project is better suited for a linear regression to analyze correlation, or time series model to analyze forecasting. 
+
+### Analysis Phase
+
+The states we are analyzing are Colorado, California, Arizona, Utah, Wyoming, Nevada, and New Mexico. All 7 states are part of the Colorado River Basin. The Colorado River flows for approx. 1,450 miles and provides water to all 7 states. The years we are analyzing are 1985, 1990, 1995, 2000, 2005, 2010, and 2015. The analysis phase of the project will involve analyzing the total withdrawals and total domestic water use in million gallons per day (Mgal/d) per state and per year. We will look at how each state uses water by looking at withdrawals and withdrawal type (groundwater and surface water). 
 
 ### Tools Used to Create Final Dashboard 
 
@@ -82,10 +80,12 @@ We will also use interactive elements in our website design in relation to a tab
 ![Website_Storyboard](https://user-images.githubusercontent.com/105175961/200971400-2180b535-68c0-4325-9d87-fb3a08bf20aa.png)
 
 
+
+
 ### Tableau Link
 https://public.tableau.com/app/profile/jordan.pelletier1563/viz/WaterAnalysisStory/WaterAnalysisStory
 
-## Technologies, languages, tools, algorithms used
+### Technologies, languages, tools, algorithms used
 
 - Python Jupyter Notebook
 - HTML/Javascript
