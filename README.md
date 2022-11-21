@@ -55,6 +55,7 @@ Random Forest Regression score = 0.9691657678491484.
 ## Database
 
 ### Postgress/PGAdmin
+We created the database by splitting up the categories into fresh, saline and total OR splitting them up by main category (Irrigation, Agriculture, Mining, etc.) to analyze data in those subcategories. 
 
 ### ERD
 
