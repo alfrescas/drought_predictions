@@ -56,6 +56,10 @@ Random Forest Regression score = 0.9691657678491484.
 
 ### Postgress/PGAdmin
 
+### ERD
+
+<img width="467" alt="image" src="https://user-images.githubusercontent.com/105477190/203128984-17c1805b-91e6-4e37-9a5e-0f8b1b718e9a.png">
+
 
 ## Dashboard 
 
