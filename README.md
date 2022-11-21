@@ -45,9 +45,6 @@ The training of the model has been unsuccessful, there are columns in our datase
 #### Description of current accuracy score
 Random Forest Regression score = 0.9691657678491484.
 ## Database
-### ERD
-### Sample ERD
-![ERD_Database](https://user-images.githubusercontent.com/105477190/199865016-7e40cd30-6bda-43b5-a750-424b16ff89d6.png)
 
 How is it integrated into our database?
 - The final database will consist of all 7 datasets combined into a singular csv file. The way we do this will be through python pandas. We have cleaned the data, renamed columns, and added columns where necessary. The datasets are connected by state and year.
