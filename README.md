@@ -54,11 +54,7 @@ The training of the model has been unsuccessful, there are columns in our datase
 Random Forest Regression score = 0.9691657678491484.
 ## Database
 
-How is it integrated into our database?
-- The final database will consist of all 7 datasets combined into a singular csv file. The way we do this will be through python pandas. We have cleaned the data, renamed columns, and added columns where necessary. The datasets are connected by state and year.
-
-How does it work with the code?
-- It works with the code to outline where the commonalities are within the datasets so that we could easily combine the datasets and organize the structure.
+### Postgress/PGAdmin
 
 
 ## Dashboard 
