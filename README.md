@@ -20,7 +20,7 @@ https://docs.google.com/presentation/d/1nw6eYH_HWEkV3ZbEHgJSRjrHohP9-Oclbgn7JjEW
 ![Upper_Lower_Basin](https://user-images.githubusercontent.com/105175961/199853643-227281eb-0fda-4b28-a371-13f5b090a121.png)
   
 ## Machine Learning Model
-### Linear Regression Model
+### Random Forrest Regression Model
 
 #### Description of data preprocessing
 
