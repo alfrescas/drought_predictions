@@ -61,6 +61,13 @@ We created the database by splitting up the categories into fresh, saline and to
 
 <img width="467" alt="image" src="https://user-images.githubusercontent.com/105477190/203128984-17c1805b-91e6-4e37-9a5e-0f8b1b718e9a.png">
 
+### Database Tables
+
+![image (8)](https://user-images.githubusercontent.com/105477190/203435453-73e33ca3-375a-4fba-94b2-9deb0a29797e.png)
+![image (7)](https://user-images.githubusercontent.com/105477190/203435460-79f7d956-41a0-46f6-91b5-c9a8322da74d.png)
+![image (6)](https://user-images.githubusercontent.com/105477190/203435470-559ad6ea-caf6-484d-8968-adc720c134fc.png)
+![image (5)](https://user-images.githubusercontent.com/105477190/203435483-0cb35e28-51ed-4691-af0b-f6b4b5d908b9.png)
+![image (4)](https://user-images.githubusercontent.com/105477190/203435494-72fd8ee4-5f76-4c91-9440-b851a24d025b.png)
 
 ## Dashboard 
 
