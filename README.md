@@ -87,6 +87,8 @@ We will also use interactive elements in our website design in relation to a tab
 ### Tableau Link
 https://public.tableau.com/app/profile/jordan.pelletier1563/viz/WaterAnalysisStory/WaterAnalysisStory
 
+<img width="1002" alt="Screen Shot 2022-11-22 at 3 40 56 PM" src="https://user-images.githubusercontent.com/105477190/203435974-2afce7eb-7612-48f5-954f-9c6f6fdce861.png">
+
 ## Results
 
 ### Analysis Results
