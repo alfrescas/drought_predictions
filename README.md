@@ -96,6 +96,8 @@ https://public.tableau.com/app/profile/jordan.pelletier1563/viz/WaterAnalysisSto
 
 ### Analysis Results
 
+The 7 states we analyzed are ranked below out of all 50 states with their results based on the 2015 dataset:
+
 #### #35. New Mexico
 Total withdrawals: 2,900 million gallons per day (Mgal/d)
 - Fresh water withdrawals: 2,810 Mgal/d
