@@ -52,6 +52,8 @@ We decided to focus on using the features invovling the total withdrawals of eac
 The training of the model has been unsuccessful, there are columns in our dataset with information that are hindering an accurate prediction. Going forward we will need to figure out which columns are causing our model to be unsuccessful. 
 #### Description of current accuracy score
 Random Forest Regression score = 0.9691657678491484.
+<img width="329" alt="Screen Shot 2022-11-21 at 4 59 29 PM" src="https://user-images.githubusercontent.com/105477190/203440543-e0b20e72-01d9-4fbf-90d6-d33d88fe1a87.png">
+
 ## Database
 
 ### Postgress/PGAdmin
