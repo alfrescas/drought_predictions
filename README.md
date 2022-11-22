@@ -96,6 +96,154 @@ https://public.tableau.com/app/profile/jordan.pelletier1563/viz/WaterAnalysisSto
 
 ### Analysis Results
 
+#### #35. New Mexico
+Total withdrawals: 2,900 million gallons per day (Mgal/d)
+- Fresh water withdrawals: 2,810 Mgal/d
+- Saline water withdrawals: 89 Mgal/d
+- Surface water withdrawals: 1,460 Mgal/d
+- Groundwater withdrawals: 1,440 Mgal/d
+
+Total domestic water use: 170 Mgal/d (81 gal per capita, #20 highest for all states)
+- Public supply: 262 Mgal/d (81 gal per capita, #21 highest for all states)
+--- 1.8 million people served (86% of population)
+- Self-supplied: 25 Mgal/d (84 gal per capita, #18 highest for all states)
+--- 292,000 people served (14% of population)
+
+Non-public total water use: 2,609 Mgal/d
+- Irrigation: 2,370 Mgal/d
+- Livestock: 32 Mgal/d
+- Aquaculture: 24 Mgal/d
+- Industrial: 3 Mgal/d (fresh), 0 Mgal/d (saline)
+- Mining: 57 Mgal/d (fresh), 89 Mgal/d (saline)
+- Thermoelectric power: 34 Mgal/d (fresh), 0 Mgal/d (saline)
+
+#### #34. Nevada
+Total withdrawals: 2,960 million gallons per day (Mgal/d)
+- Fresh water withdrawals: 2,880 Mgal/d
+- Saline water withdrawals: 82 Mgal/d
+- Surface water withdrawals: 1,520 Mgal/d
+- Groundwater withdrawals: 1,440 Mgal/d
+
+Total domestic water use: 365 Mgal/d (126 gal per capita, #6 highest for all states)
+- Public supply: 531 Mgal/d (122 gal per capita, #7 highest for all states)
+--- 2.7 million people served (93% of population)
+- Self-supplied: 36 Mgal/d (186 gal per capita, #1 highest for all states)
+--- 193,000 people served (7% of population)
+
+Non-public total water use: 2,401 Mgal/d
+- Irrigation: 2,070 Mgal/d
+- Livestock: 5 Mgal/d
+- Aquaculture: 34 Mgal/d
+- Industrial: 6 Mgal/d (fresh), 0 Mgal/d (saline)
+- Mining: 195 Mgal/d (fresh), 11 Mgal/d (saline)
+- Thermoelectric power: 9 Mgal/d (fresh), 71 Mgal/d (saline)
+
+#### #29. Utah
+Total withdrawals: 4,230 million gallons per day (Mgal/d)
+- Fresh water withdrawals: 3,880 Mgal/d
+- Saline water withdrawals: 350 Mgal/d
+- Surface water withdrawals: 3,080 Mgal/d
+- Groundwater withdrawals: 1,150 Mgal/d
+
+Total domestic water use: 506 Mgal/d (169 gal per capita, #2 highest for all states)
+- Public supply: 627 Mgal/d (169 gal per capita, #3 highest for all states)
+--- 2.9 million people served (98% of population)
+- Self-supplied: 10 Mgal/d (169 gal per capita, #3 highest for all states)
+--- 61,400 people served (2% of population)
+
+Non-public total water use: 3,593 Mgal/d
+- Irrigation: 3,030 Mgal/d
+- Livestock: 16 Mgal/d
+- Aquaculture: 83 Mgal/d
+- Industrial: 54 Mgal/d (fresh), 79 Mgal/d (saline)
+- Mining: 3 Mgal/d (fresh), 258 Mgal/d (saline)
+- Thermoelectric power: 61 Mgal/d (fresh), 8 Mgal/d (saline)
+
+#### #25. Arizona
+Total withdrawals: 5,980 million gallons per day (Mgal/d)
+- Fresh water withdrawals: 5,980 Mgal/d
+- Saline water withdrawals: 0 Mgal/d
+- Surface water withdrawals: 3,220 Mgal/d
+- Groundwater withdrawals: 2,760 Mgal/d
+
+Total domestic water use: 987 Mgal/d (145 gal per capita, #4 highest for all states)
+- Public supply: 1,200 Mgal/d (146 gal per capita, #4 highest for all states)
+--- 6.6 million people served (97% of population)
+- Self-supplied: 24 Mgal/d (110 gal per capita, #10 highest for all states)
+--- 218,000 people served (3% of population)
+
+Non-public total water use: 4,761 Mgal/d
+- Irrigation: 4,530 Mgal/d
+- Livestock: 39 Mgal/d
+- Aquaculture: 35 Mgal/d
+- Industrial: 6 Mgal/d (fresh), 0 Mgal/d (saline)
+- Mining: 68 Mgal/d (fresh), 0 Mgal/d (saline)
+- Thermoelectric power: 84 Mgal/d (fresh), 0 Mgal/d (saline)
+
+
+#### #16. Wyoming
+Total withdrawals: 8,140 million gallons per day (Mgal/d)
+- Fresh water withdrawals: 8,050 Mgal/d
+- Saline water withdrawals: 97 Mgal/d
+- Surface water withdrawals: 7,400 Mgal/d
+- Groundwater withdrawals: 748 Mgal/d
+
+Total domestic water use: 91 Mgal/d (156 gal per capita, #3 highest for all states)
+- Public supply: 101 Mgal/d (176 gal per capita, #2 highest for all states)
+--- 467,000 people served (80% of population)
+- Self-supplied: 9 Mgal/d (75 gal per capita, #21 lowest for all states)
+--- 119,000 people served (20% of population)
+
+Non-public total water use: 8,036 Mgal/d
+- Irrigation: 7,790 Mgal/d
+- Livestock: 16 Mgal/d
+- Aquaculture: 29 Mgal/d
+- Industrial: 8 Mgal/d (fresh), 0 Mgal/d (saline)
+- Mining: 45 Mgal/d (fresh), 97 Mgal/d (saline)
+- Thermoelectric power: 52 Mgal/d (fresh), 0 Mgal/d (saline)
+
+#### #9. Colorado
+Total withdrawals: 10,300 million gallons per day (Mgal/d)
+- Fresh water withdrawals: 10,300 Mgal/d
+- Saline water withdrawals: 24 Mgal/d
+- Surface water withdrawals: 8,800 Mgal/d
+- Groundwater withdrawals: 1,530 Mgal/d
+
+Total domestic water use: 672 Mgal/d (123 gal per capita, #7 highest for all states)
+- Public supply: 844 Mgal/d (123 gal per capita, #6 highest for all states)
+--- 5.2 million people served (95% of population)
+- Self-supplied: 35 Mgal/d (123 gal per capita, #5 highest for all states)
+--- 286,000 people served (5% of population)
+
+Non-public total water use: 9,447 Mgal/d
+- Irrigation: 9,000 Mgal/d
+- Livestock: 33 Mgal/d
+- Aquaculture: 260 Mgal/d
+- Industrial: 84 Mgal/d (fresh), 0 Mgal/d (saline)
+- Mining: 8 Mgal/d (fresh), 24 Mgal/d (saline)
+- Thermoelectric power: 37 Mgal/d (fresh), 0 Mgal/d (saline)
+
+#### #1. California
+Total withdrawals: 28,800 million gallons per day (Mgal/d)
+- Fresh water withdrawals: 25,600 Mgal/d
+- Saline water withdrawals: 3,160 Mgal/d
+- Surface water withdrawals: 11,300 Mgal/d
+- Groundwater withdrawals: 17,400 Mgal/d
+
+Total domestic water use: 3,350 Mgal/d (86 gal per capita, #17 highest for all states)
+- Public supply: 5,150 Mgal/d (86 gal per capita, #17 highest for all states)
+--- 37.7 million people served (96% of population)
+- Self-supplied: 127 Mgal/d (88 gal per capita, #16 highest for all states)
+--- 1.4 million people served (4% of population)
+
+Non-public total water use: 23,503 Mgal/d
+- Irrigation: 19,000 Mgal/d
+- Livestock: 183 Mgal/d
+- Aquaculture: 727 Mgal/d
+- Industrial: 399 Mgal/d (fresh), 0 Mgal/d (saline)
+- Mining: 46 Mgal/d (fresh), 272 Mgal/d (saline)
+- Thermoelectric power: 36 Mgal/d (fresh), 2,840 Mgal/d (saline)
+
 ### Analysis Recommendations 
 
 
