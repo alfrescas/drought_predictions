@@ -10,7 +10,7 @@ Water is one of our most precious resources because humanity couldn't exist with
 The USGS, U.S. Geological Survey, website maintains national data bases of water-use information. The data are collected and compiled every five years for each State, the District of Columbia, Puerto Rico, and the U.S. Virgin Islands. We have compiled the datasets from 1985-2015, 7 total, into a csv file and have sorted by the 7 states in the CO basin. The data contains water-use information that looks at how each of the 4 states uses water,the total amount of water withdrawals, and withdrawals broken down by type of water (fresh or saline) and withdrawal type (groundwater and surface water). The amount of withdrawals for water-use categories is also listed. All numbers are measured in million gallons per day (Mgal/d). 
 
 ## Questions we hope to answer with the data
-   -  When will the water run out? 
+   -  Where is the water going and how do the 7 states compare?
    -  What is the predicted decrease of water levels? 
    -  Which factors have the most impact in water reduction?
 
