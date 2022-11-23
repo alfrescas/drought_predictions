@@ -96,7 +96,7 @@ https://public.tableau.com/app/profile/jordan.pelletier1563/viz/WaterAnalysisSto
 
 ### Analysis Results
 
-The 7 states we analyzed are ranked below out of all 50 states with their results based on the 2015 dataset:
+The 7 states we analyzed are ranked from low to high out of all 50 states by the total amount of water withdrawals in 2015. Withdrawals are then broken down by type of water (fresh or saline) and withdrawal type (groundwater and surface water). The amount of withdrawals for water-use categories is also listed. All numbers are measured in million gallons per day (Mgal/d). ranked below out of all 50 states with their results based on the 2015 dataset:
 
 #### #35. New Mexico
 Total withdrawals: 2,900 million gallons per day (Mgal/d)
