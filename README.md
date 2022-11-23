@@ -12,7 +12,6 @@ The USGS, U.S. Geological Survey, website maintains national data bases of water
 ## Questions we hope to answer with the data
    -  When will the water run out? 
    -  What is the predicted decrease of water levels? 
-   -  How are Colorado river water levels compared to other areas?? 
    -  Which factors have the most impact in water reduction?
 
 ## States Relying on Colorado River Basin Water Supply:
