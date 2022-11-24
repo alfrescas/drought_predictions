@@ -12,7 +12,7 @@ The USGS, U.S. Geological Survey, website maintains national data bases of water
 ## Questions we hope to answer with the data
    -  Where is the water going and how do the 7 states compare?
    -  What is the predicted decrease of water levels? 
-   -  Which factors have the most impact in water reduction?
+   -  Which factors have the most impact in water consumption reduction?
 
 ## States Relying on Colorado River Basin Water Supply:
 
