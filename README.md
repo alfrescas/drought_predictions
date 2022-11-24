@@ -246,10 +246,15 @@ Non-public total water use: 23,503 Mgal/d
 - Thermoelectric power: 36 Mgal/d (fresh), 2,840 Mgal/d (saline)
 
 ### Analysis Recommendations 
+The burden of reducing water consumption is often put on the public and individual consumers. Things like low flow toilets, water conservation while brushing teeth and taking showers.
+
+“Back in 1980 toilets used 6 gallons [23 liters] per flush, but now it’s 1.2 gallons [4.5 liters] in California. These standards have allowed our economies to grow while our communities grew too,” says Heather Cooley, director of the Water Program at the Pacific Institute. “Another reason is the passage of the Clean Water Act, which tried to reduce impacts of waste discharge, that drove efficiency improvements in industry.”
+
+But as we have seen from the data, industrial regulation would have a much greater impact on water conservation in the united states.
 
 
 ### What would we have done differently?
-
+What would have helped answer our original predictive questions would be to get to know our datasets more before investing so much time cleaning and organizing them, with the purpose of being able to determine more firm predictions for a machine learning model. Our group also attempted to find additional datasets for deeper analysis of our original info but were unsuccessful in doing so. We believe this could have helped answer our original question which was looking into when the water would run out. 
 
 ## Technologies, languages, tools, algorithms used
 
