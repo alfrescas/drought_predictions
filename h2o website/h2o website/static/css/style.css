@@ -1,16 +1,73 @@
 
   
-  
+
+
   .jumbotron {
     color:antiquewhite;
   }
 
   .jumbotron {
-    background-image: url("../images/CO_River_Grand_Canyon.jpeg");
-    background-size: 100% 100%;
+    background: 
+    linear-gradient(
+      rgba(197, 230, 250, 0.25), 
+      rgba(197, 250, 246, 0.25)
+    ),
+    url("../images/CO_River_Grand_Canyon.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* color:white !important; */
+    height:50vh;
     text-align: center;
-    text-emphasis-color: white;
+    font-family: 'Verdana', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    }
+
+
+    hr.rounded {
+    border-top: 8px solid #1375b0;
+    border-radius: 5px;
+    }
+    
+    h3 {
+      border-top: 6px solid #1375b0;
+      width: 100%;
+      float: none;
+      display: flex;
+    }
+
+  
+  
+    ul {
+      text-align: center;
+      list-style-position: inside;
   }
+
+ 
+hr.rounded {
+  border-top: 8px solid #1375b0;
+  border-radius: 5px;
+}
+
+  .tableauPlaceholder {
+    width: 1650px;
+    margin-left : auto;
+    margin-right: auto;
+    /* padding-top: 50px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    padding-left: 200px; */
+    /* padding-left: 200px; */
+    /* position: relative; */
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  
 
   /* Dropdown Button */
 .dropbtn {
